@@ -1,0 +1,4253 @@
+Residential County,YearMonth,Fuel Type,Primary Use Class,Counts
+Adams,2023-01,Electric,Commercial,1
+Adams,2023-01,Electric,Passenger Vehicle,1
+Adams,2023-02,Electric,Truck,1
+Adams,2023-03,Electric,Passenger Vehicle,1
+Adams,2023-04,Electric,Passenger Vehicle,4
+Adams,2023-05,Electric,Medium-Speed Electric Truck,1
+Adams,2023-05,Electric,Motorcycle,1
+Adams,2023-05,Electric,Passenger Vehicle,4
+Adams,2023-06,Electric,Passenger Vehicle,3
+Adams,2023-06,Electric,Truck,1
+Adams,2023-07,Electric,Passenger Vehicle,3
+Adams,2023-08,Electric,Passenger Vehicle,1
+Adams,2023-09,Electric,Neighborhood Electric Vehicle,1
+Adams,2023-09,Electric,Passenger Vehicle,1
+Adams,2023-10,Electric,Passenger Vehicle,1
+Adams,2023-11,Electric,Passenger Vehicle,1
+Adams,2023-12,Electric,Commercial,1
+Adams,2023-12,Electric,Passenger Vehicle,3
+Adams,2024-01,Electric,Passenger Vehicle,1
+Adams,2024-01,Electric,Truck,1
+Adams,2024-02,Electric,Passenger Vehicle,1
+Adams,2024-03,Electric,Passenger Vehicle,1
+Adams,2024-03,Electric,Truck,1
+Adams,2024-04,Electric,Passenger Vehicle,2
+Adams,2024-05,Electric,Passenger Vehicle,1
+Adams,2024-05,Electric,Truck,1
+Adams,2024-06,Electric,Passenger Vehicle,5
+Adams,2024-06,Electric,Truck,1
+Adams,2024-07,Electric,Off Road Vehicle,1
+Adams,2024-07,Electric,Passenger Vehicle,1
+Adams,2024-08,Electric,Passenger Vehicle,4
+Adams,2024-09,Electric,Moped,1
+Adams,2024-09,Electric,Passenger Vehicle,6
+Adams,2024-10,Electric,Passenger Vehicle,3
+Adams,2024-10,Electric,Truck,1
+Adams,2024-11,Electric,Medium-Speed Electric Vehicle,1
+Adams,2024-11,Electric,Passenger Vehicle,6
+Adams,2024-12,Electric,Commercial,1
+Adams,2024-12,Electric,Neighborhood Electric Vehicle,1
+Adams,2024-12,Electric,Passenger Vehicle,3
+Adams,2024-12,Electric,Truck,1
+Adams,2025-01,Electric,Passenger Vehicle,6
+Adams,2025-02,Electric,Passenger Vehicle,3
+Adams,2025-02,Electric,Truck,1
+Asotin,2023-01,Electric,Passenger Vehicle,3
+Asotin,2023-02,Electric,Passenger Vehicle,3
+Asotin,2023-03,Electric,Passenger Vehicle,4
+Asotin,2023-04,Electric,Motorhome,1
+Asotin,2023-04,Electric,Passenger Vehicle,4
+Asotin,2023-05,Electric,Passenger Vehicle,6
+Asotin,2023-06,Electric,Medium-Speed Electric Vehicle,1
+Asotin,2023-06,Electric,Motorcycle,1
+Asotin,2023-06,Electric,Neighborhood Electric Vehicle,1
+Asotin,2023-06,Electric,Off Road Vehicle,1
+Asotin,2023-06,Electric,Passenger Vehicle,1
+Asotin,2023-07,Electric,Neighborhood Electric Vehicle,1
+Asotin,2023-07,Electric,Passenger Vehicle,4
+Asotin,2023-08,Electric,Off Road Vehicle,1
+Asotin,2023-08,Electric,Passenger Vehicle,4
+Asotin,2023-09,Electric,Passenger Vehicle,2
+Asotin,2023-10,Electric,Passenger Vehicle,4
+Asotin,2023-11,Electric,Passenger Vehicle,3
+Asotin,2023-12,Electric,Passenger Vehicle,3
+Asotin,2024-01,Electric,Passenger Vehicle,4
+Asotin,2024-02,Electric,Passenger Vehicle,4
+Asotin,2024-02,Electric,Truck,1
+Asotin,2024-03,Electric,Passenger Vehicle,6
+Asotin,2024-04,Electric,Motorhome,1
+Asotin,2024-04,Electric,Passenger Vehicle,3
+Asotin,2024-04,Electric,Truck,1
+Asotin,2024-05,Electric,Medium-Speed Electric Vehicle,1
+Asotin,2024-05,Electric,Passenger Vehicle,9
+Asotin,2024-06,Electric,Motorcycle,1
+Asotin,2024-06,Electric,Neighborhood Electric Vehicle,1
+Asotin,2024-06,Electric,Passenger Vehicle,5
+Asotin,2024-07,Electric,Passenger Vehicle,6
+Asotin,2024-08,Electric,Passenger Vehicle,1
+Asotin,2024-09,Electric,Motorcycle,1
+Asotin,2024-09,Electric,Off Road Vehicle,1
+Asotin,2024-09,Electric,Passenger Vehicle,10
+Asotin,2024-10,Electric,Off Road Vehicle,1
+Asotin,2024-10,Electric,Passenger Vehicle,4
+Asotin,2024-11,Electric,Passenger Vehicle,3
+Asotin,2024-12,Electric,Passenger Vehicle,3
+Asotin,2025-01,Electric,Passenger Vehicle,5
+Asotin,2025-01,Electric,Truck,3
+Asotin,2025-02,Electric,Passenger Vehicle,6
+Asotin,2025-02,Electric,Truck,1
+Benton,2023-01,Electric,Neighborhood Electric Vehicle,1
+Benton,2023-01,Electric,Passenger Vehicle,72
+Benton,2023-01,Electric,Truck,3
+Benton,2023-02,Electric,Neighborhood Electric Vehicle,1
+Benton,2023-02,Electric,Passenger Vehicle,95
+Benton,2023-02,Electric,Truck,4
+Benton,2023-03,Electric,Medium-Speed Electric Truck,1
+Benton,2023-03,Electric,Motorcycle,1
+Benton,2023-03,Electric,Passenger Vehicle,123
+Benton,2023-03,Electric,Truck,3
+Benton,2023-04,Electric,Commercial,2
+Benton,2023-04,Electric,Medium-Speed Electric Truck,1
+Benton,2023-04,Electric,Medium-Speed Electric Vehicle,2
+Benton,2023-04,Electric,Passenger Vehicle,109
+Benton,2023-04,Electric,Truck,3
+Benton,2023-05,Electric,Motorcycle,2
+Benton,2023-05,Electric,Passenger Vehicle,89
+Benton,2023-05,Electric,Truck,2
+Benton,2023-06,Electric,Medium-Speed Electric Truck,2
+Benton,2023-06,Electric,Medium-Speed Electric Vehicle,2
+Benton,2023-06,Electric,Neighborhood Electric Vehicle,1
+Benton,2023-06,Electric,Off Road Vehicle,1
+Benton,2023-06,Electric,Passenger Vehicle,127
+Benton,2023-06,Electric,Truck,3
+Benton,2023-07,Electric,Commercial,1
+Benton,2023-07,Electric,Medium-Speed Electric Truck,1
+Benton,2023-07,Electric,Neighborhood Electric Vehicle,1
+Benton,2023-07,Electric,Off Road Vehicle,2
+Benton,2023-07,Electric,Passenger Vehicle,115
+Benton,2023-07,Electric,Truck,2
+Benton,2023-08,Electric,Commercial,1
+Benton,2023-08,Electric,Medium-Speed Electric Truck,1
+Benton,2023-08,Electric,Passenger Vehicle,130
+Benton,2023-08,Electric,Truck,3
+Benton,2023-09,Electric,Commercial,1
+Benton,2023-09,Electric,Medium-Speed Electric Truck,1
+Benton,2023-09,Electric,Neighborhood Electric Vehicle,1
+Benton,2023-09,Electric,Passenger Vehicle,171
+Benton,2023-09,Electric,Truck,5
+Benton,2023-10,Electric,Commercial,1
+Benton,2023-10,Electric,Passenger Vehicle,146
+Benton,2023-10,Electric,Truck,3
+Benton,2023-11,Electric,Commercial,2
+Benton,2023-11,Electric,Medium-Speed Electric Truck,2
+Benton,2023-11,Electric,Motorcycle,1
+Benton,2023-11,Electric,Passenger Vehicle,126
+Benton,2023-11,Electric,Truck,7
+Benton,2023-12,Electric,Commercial,1
+Benton,2023-12,Electric,Exempt (State/County/Local/Tribal),1
+Benton,2023-12,Electric,Medium-Speed Electric Truck,1
+Benton,2023-12,Electric,Neighborhood Electric Vehicle,1
+Benton,2023-12,Electric,Passenger Vehicle,131
+Benton,2023-12,Electric,Truck,1
+Benton,2024-01,Electric,Commercial,3
+Benton,2024-01,Electric,Medium-Speed Electric Vehicle,2
+Benton,2024-01,Electric,Passenger Vehicle,129
+Benton,2024-01,Electric,Truck,4
+Benton,2024-02,Electric,Commercial,2
+Benton,2024-02,Electric,Exempt (State/County/Local/Tribal),2
+Benton,2024-02,Electric,Motorcycle,2
+Benton,2024-02,Electric,Passenger Vehicle,123
+Benton,2024-02,Electric,Truck,2
+Benton,2024-03,Electric,Commercial,2
+Benton,2024-03,Electric,Medium-Speed Electric Truck,1
+Benton,2024-03,Electric,Neighborhood Electric Vehicle,1
+Benton,2024-03,Electric,Passenger Vehicle,147
+Benton,2024-03,Electric,Truck,5
+Benton,2024-04,Electric,Commercial,2
+Benton,2024-04,Electric,Medium-Speed Electric Truck,1
+Benton,2024-04,Electric,Medium-Speed Electric Vehicle,1
+Benton,2024-04,Electric,Motorcycle,1
+Benton,2024-04,Electric,Off Road Vehicle,1
+Benton,2024-04,Electric,Passenger Vehicle,157
+Benton,2024-04,Electric,Truck,4
+Benton,2024-05,Electric,Commercial,1
+Benton,2024-05,Electric,Medium-Speed Electric Truck,1
+Benton,2024-05,Electric,Motorcycle,4
+Benton,2024-05,Electric,Neighborhood Electric Vehicle,1
+Benton,2024-05,Electric,Passenger Vehicle,175
+Benton,2024-05,Electric,Truck,2
+Benton,2024-06,Electric,Commercial,1
+Benton,2024-06,Electric,Medium-Speed Electric Truck,1
+Benton,2024-06,Electric,Passenger Vehicle,160
+Benton,2024-06,Electric,Truck,7
+Benton,2024-07,Electric,Exempt (State/County/Local/Tribal),3
+Benton,2024-07,Electric,Neighborhood Electric Vehicle,1
+Benton,2024-07,Electric,Passenger Vehicle,191
+Benton,2024-07,Electric,Truck,8
+Benton,2024-08,Electric,Commercial,6
+Benton,2024-08,Electric,Medium-Speed Electric Truck,2
+Benton,2024-08,Electric,Motorcycle,1
+Benton,2024-08,Electric,Neighborhood Electric Vehicle,2
+Benton,2024-08,Electric,Off Road Vehicle,1
+Benton,2024-08,Electric,Passenger Vehicle,189
+Benton,2024-08,Electric,Truck,7
+Benton,2024-09,Electric,Commercial,1
+Benton,2024-09,Electric,Medium-Speed Electric Truck,3
+Benton,2024-09,Electric,Neighborhood Electric Vehicle,1
+Benton,2024-09,Electric,Off Road Vehicle,2
+Benton,2024-09,Electric,Passenger Vehicle,221
+Benton,2024-09,Electric,Truck,5
+Benton,2024-10,Electric,Commercial,2
+Benton,2024-10,Electric,Medium-Speed Electric Truck,1
+Benton,2024-10,Electric,Medium-Speed Electric Vehicle,2
+Benton,2024-10,Electric,Passenger Vehicle,199
+Benton,2024-10,Electric,Truck,10
+Benton,2024-11,Electric,Commercial,1
+Benton,2024-11,Electric,Exempt (State/County/Local/Tribal),1
+Benton,2024-11,Electric,Medium-Speed Electric Truck,1
+Benton,2024-11,Electric,Passenger Vehicle,182
+Benton,2024-11,Electric,Truck,6
+Benton,2024-12,Electric,Commercial,6
+Benton,2024-12,Electric,Medium-Speed Electric Truck,1
+Benton,2024-12,Electric,Medium-Speed Electric Vehicle,1
+Benton,2024-12,Electric,Passenger Vehicle,198
+Benton,2024-12,Electric,Truck,15
+Benton,2025-01,Electric,All Terrain Vehicle (WATV),1
+Benton,2025-01,Electric,Commercial,5
+Benton,2025-01,Electric,Exempt (State/County/Local/Tribal),2
+Benton,2025-01,Electric,Medium-Speed Electric Vehicle,1
+Benton,2025-01,Electric,Motorcycle,1
+Benton,2025-01,Electric,Neighborhood Electric Vehicle,1
+Benton,2025-01,Electric,Off Road Vehicle,1
+Benton,2025-01,Electric,Passenger Vehicle,174
+Benton,2025-01,Electric,Truck,13
+Benton,2025-02,Electric,Cab,1
+Benton,2025-02,Electric,Exempt (State/County/Local/Tribal),1
+Benton,2025-02,Electric,Medium-Speed Electric Truck,1
+Benton,2025-02,Electric,Passenger Vehicle,152
+Benton,2025-02,Electric,Truck,10
+Chelan,2023-01,Electric,Exempt (State/County/Local/Tribal),1
+Chelan,2023-01,Electric,Medium-Speed Electric Vehicle,1
+Chelan,2023-01,Electric,Passenger Vehicle,58
+Chelan,2023-01,Electric,Truck,2
+Chelan,2023-02,Electric,Exempt (State/County/Local/Tribal),1
+Chelan,2023-02,Electric,Neighborhood Electric Vehicle,1
+Chelan,2023-02,Electric,Passenger Vehicle,43
+Chelan,2023-02,Electric,Truck,4
+Chelan,2023-03,Electric,Motorcycle,3
+Chelan,2023-03,Electric,Passenger Vehicle,57
+Chelan,2023-03,Electric,Truck,4
+Chelan,2023-04,Electric,Off Road Vehicle,1
+Chelan,2023-04,Electric,Passenger Vehicle,51
+Chelan,2023-04,Electric,Truck,5
+Chelan,2023-05,Electric,Exempt (State/County/Local/Tribal),11
+Chelan,2023-05,Electric,Medium-Speed Electric Truck,1
+Chelan,2023-05,Electric,Motorcycle,1
+Chelan,2023-05,Electric,Passenger Vehicle,66
+Chelan,2023-05,Electric,Truck,5
+Chelan,2023-06,Electric,Exempt (State/County/Local/Tribal),3
+Chelan,2023-06,Electric,Medium-Speed Electric Truck,1
+Chelan,2023-06,Electric,Motorcycle,1
+Chelan,2023-06,Electric,Off Road Vehicle,1
+Chelan,2023-06,Electric,Passenger Vehicle,82
+Chelan,2023-06,Electric,Truck,3
+Chelan,2023-07,Electric,All Terrain Vehicle (WATV),1
+Chelan,2023-07,Electric,Exempt (State/County/Local/Tribal),1
+Chelan,2023-07,Electric,Medium-Speed Electric Truck,1
+Chelan,2023-07,Electric,Motorcycle,2
+Chelan,2023-07,Electric,Neighborhood Electric Vehicle,1
+Chelan,2023-07,Electric,Off Road Vehicle,1
+Chelan,2023-07,Electric,Passenger Vehicle,61
+Chelan,2023-07,Electric,Truck,3
+Chelan,2023-08,Electric,Commercial,1
+Chelan,2023-08,Electric,Medium-Speed Electric Truck,2
+Chelan,2023-08,Electric,Medium-Speed Electric Vehicle,1
+Chelan,2023-08,Electric,Neighborhood Electric Vehicle,2
+Chelan,2023-08,Electric,Off Road Vehicle,1
+Chelan,2023-08,Electric,Passenger Vehicle,77
+Chelan,2023-08,Electric,Truck,1
+Chelan,2023-09,Electric,All Terrain Vehicle (WATV),1
+Chelan,2023-09,Electric,Commercial,1
+Chelan,2023-09,Electric,Passenger Vehicle,73
+Chelan,2023-09,Electric,Truck,1
+Chelan,2023-10,Electric,Medium-Speed Electric Vehicle,1
+Chelan,2023-10,Electric,Off Road Vehicle,1
+Chelan,2023-10,Electric,Passenger Vehicle,77
+Chelan,2023-10,Electric,Truck,5
+Chelan,2023-11,Electric,Passenger Vehicle,76
+Chelan,2023-11,Electric,Truck,6
+Chelan,2023-12,Electric,Commercial,1
+Chelan,2023-12,Electric,Exempt (State/County/Local/Tribal),1
+Chelan,2023-12,Electric,Medium-Speed Electric Vehicle,1
+Chelan,2023-12,Electric,Motorcycle,1
+Chelan,2023-12,Electric,Passenger Vehicle,76
+Chelan,2023-12,Electric,Truck,2
+Chelan,2024-01,Electric,Medium-Speed Electric Vehicle,2
+Chelan,2024-01,Electric,Motorcycle,1
+Chelan,2024-01,Electric,Passenger Vehicle,59
+Chelan,2024-01,Electric,Truck,12
+Chelan,2024-02,Electric,Commercial,1
+Chelan,2024-02,Electric,Moped,1
+Chelan,2024-02,Electric,Neighborhood Electric Vehicle,2
+Chelan,2024-02,Electric,Off Road Vehicle,1
+Chelan,2024-02,Electric,Passenger Vehicle,59
+Chelan,2024-02,Electric,Truck,5
+Chelan,2024-03,Electric,Commercial,1
+Chelan,2024-03,Electric,Exempt (State/County/Local/Tribal),1
+Chelan,2024-03,Electric,Motorcycle,1
+Chelan,2024-03,Electric,Neighborhood Electric Vehicle,1
+Chelan,2024-03,Electric,Passenger Vehicle,85
+Chelan,2024-03,Electric,Truck,1
+Chelan,2024-04,Electric,All Terrain Vehicle (WATV),2
+Chelan,2024-04,Electric,Farm Exempt,1
+Chelan,2024-04,Electric,Medium-Speed Electric Vehicle,1
+Chelan,2024-04,Electric,Motorcycle,1
+Chelan,2024-04,Electric,Neighborhood Electric Vehicle,3
+Chelan,2024-04,Electric,Off Road Vehicle,1
+Chelan,2024-04,Electric,Passenger Vehicle,85
+Chelan,2024-04,Electric,Truck,4
+Chelan,2024-05,Electric,Commercial,1
+Chelan,2024-05,Electric,Medium-Speed Electric Truck,1
+Chelan,2024-05,Electric,Motorcycle,2
+Chelan,2024-05,Electric,Neighborhood Electric Vehicle,1
+Chelan,2024-05,Electric,Off Road Vehicle,1
+Chelan,2024-05,Electric,Passenger Vehicle,92
+Chelan,2024-05,Electric,Truck,5
+Chelan,2024-06,Electric,Exempt (State/County/Local/Tribal),2
+Chelan,2024-06,Electric,Medium-Speed Electric Truck,1
+Chelan,2024-06,Electric,Moped,1
+Chelan,2024-06,Electric,Motorcycle,1
+Chelan,2024-06,Electric,Off Road Vehicle,1
+Chelan,2024-06,Electric,Passenger Vehicle,69
+Chelan,2024-06,Electric,Truck,7
+Chelan,2024-07,Electric,All Terrain Vehicle (WATV),1
+Chelan,2024-07,Electric,Commercial,1
+Chelan,2024-07,Electric,Exempt (State/County/Local/Tribal),6
+Chelan,2024-07,Electric,Medium-Speed Electric Truck,1
+Chelan,2024-07,Electric,Medium-Speed Electric Vehicle,2
+Chelan,2024-07,Electric,Motorcycle,1
+Chelan,2024-07,Electric,Neighborhood Electric Vehicle,1
+Chelan,2024-07,Electric,Passenger Vehicle,97
+Chelan,2024-07,Electric,Truck,4
+Chelan,2024-08,Electric,All Terrain Vehicle (WATV),1
+Chelan,2024-08,Electric,Commercial,1
+Chelan,2024-08,Electric,Motorcycle,1
+Chelan,2024-08,Electric,Neighborhood Electric Vehicle,2
+Chelan,2024-08,Electric,Passenger Vehicle,88
+Chelan,2024-08,Electric,Truck,9
+Chelan,2024-09,Electric,Commercial,1
+Chelan,2024-09,Electric,Motorcycle,1
+Chelan,2024-09,Electric,Neighborhood Electric Vehicle,1
+Chelan,2024-09,Electric,Passenger Vehicle,121
+Chelan,2024-09,Electric,Truck,4
+Chelan,2024-10,Electric,Commercial,1
+Chelan,2024-10,Electric,Medium-Speed Electric Truck,1
+Chelan,2024-10,Electric,Medium-Speed Electric Vehicle,1
+Chelan,2024-10,Electric,Passenger Vehicle,93
+Chelan,2024-10,Electric,Truck,7
+Chelan,2024-11,Electric,All Terrain Vehicle (WATV),1
+Chelan,2024-11,Electric,Moped,1
+Chelan,2024-11,Electric,Passenger Vehicle,88
+Chelan,2024-11,Electric,Truck,4
+Chelan,2024-12,Electric,Commercial,4
+Chelan,2024-12,Electric,Passenger Vehicle,93
+Chelan,2024-12,Electric,Truck,13
+Chelan,2025-01,Electric,All Terrain Vehicle (WATV),1
+Chelan,2025-01,Electric,Commercial,3
+Chelan,2025-01,Electric,Moped,1
+Chelan,2025-01,Electric,Passenger Vehicle,96
+Chelan,2025-01,Electric,Truck,18
+Chelan,2025-02,Electric,Commercial,1
+Chelan,2025-02,Electric,Motorcycle,1
+Chelan,2025-02,Electric,Neighborhood Electric Vehicle,1
+Chelan,2025-02,Electric,Off Road Vehicle,1
+Chelan,2025-02,Electric,Passenger Vehicle,82
+Chelan,2025-02,Electric,Truck,5
+Clallam,2023-01,Electric,Motorcycle,1
+Clallam,2023-01,Electric,Neighborhood Electric Vehicle,1
+Clallam,2023-01,Electric,Passenger Vehicle,56
+Clallam,2023-01,Electric,Truck,1
+Clallam,2023-02,Electric,Commercial,2
+Clallam,2023-02,Electric,Medium-Speed Electric Truck,1
+Clallam,2023-02,Electric,Motorcycle,1
+Clallam,2023-02,Electric,Passenger Vehicle,35
+Clallam,2023-02,Electric,Truck,3
+Clallam,2023-03,Electric,Moped,1
+Clallam,2023-03,Electric,Off Road Vehicle,1
+Clallam,2023-03,Electric,Passenger Vehicle,45
+Clallam,2023-03,Electric,Truck,6
+Clallam,2023-04,Electric,Moped,1
+Clallam,2023-04,Electric,Off Road Vehicle,1
+Clallam,2023-04,Electric,Passenger Vehicle,54
+Clallam,2023-04,Electric,Truck,1
+Clallam,2023-05,Electric,Passenger Vehicle,57
+Clallam,2023-05,Electric,Truck,3
+Clallam,2023-06,Electric,Commercial,1
+Clallam,2023-06,Electric,Motorcycle,1
+Clallam,2023-06,Electric,Off Road Vehicle,1
+Clallam,2023-06,Electric,Passenger Vehicle,58
+Clallam,2023-06,Electric,Truck,1
+Clallam,2023-07,Electric,Medium-Speed Electric Truck,1
+Clallam,2023-07,Electric,Motorcycle,1
+Clallam,2023-07,Electric,Neighborhood Electric Vehicle,1
+Clallam,2023-07,Electric,Off Road Vehicle,1
+Clallam,2023-07,Electric,Passenger Vehicle,66
+Clallam,2023-07,Electric,Truck,1
+Clallam,2023-08,Electric,Commercial,1
+Clallam,2023-08,Electric,Neighborhood Electric Vehicle,1
+Clallam,2023-08,Electric,Off Road Vehicle,1
+Clallam,2023-08,Electric,Passenger Vehicle,73
+Clallam,2023-08,Electric,Truck,2
+Clallam,2023-09,Electric,Moped,1
+Clallam,2023-09,Electric,Motorcycle,1
+Clallam,2023-09,Electric,Neighborhood Electric Vehicle,1
+Clallam,2023-09,Electric,Passenger Vehicle,70
+Clallam,2023-09,Electric,Truck,2
+Clallam,2023-10,Electric,Off Road Vehicle,2
+Clallam,2023-10,Electric,Passenger Vehicle,67
+Clallam,2023-10,Electric,Truck,4
+Clallam,2023-11,Electric,Exempt (State/County/Local/Tribal),1
+Clallam,2023-11,Electric,Medium-Speed Electric Truck,1
+Clallam,2023-11,Electric,Motorcycle,1
+Clallam,2023-11,Electric,Off Road Vehicle,1
+Clallam,2023-11,Electric,Passenger Vehicle,71
+Clallam,2023-11,Electric,Truck,1
+Clallam,2023-12,Electric,Exempt (State/County/Local/Tribal),2
+Clallam,2023-12,Electric,Passenger Vehicle,59
+Clallam,2023-12,Electric,Truck,3
+Clallam,2024-01,Electric,Exempt (State/County/Local/Tribal),1
+Clallam,2024-01,Electric,Medium-Speed Electric Truck,1
+Clallam,2024-01,Electric,Neighborhood Electric Vehicle,1
+Clallam,2024-01,Electric,Passenger Vehicle,61
+Clallam,2024-01,Electric,Truck,1
+Clallam,2024-02,Electric,Commercial,1
+Clallam,2024-02,Electric,Passenger Vehicle,58
+Clallam,2024-02,Electric,Truck,5
+Clallam,2024-03,Electric,Commercial,1
+Clallam,2024-03,Electric,Moped,2
+Clallam,2024-03,Electric,Motorcycle,1
+Clallam,2024-03,Electric,Off Road Vehicle,1
+Clallam,2024-03,Electric,Passenger Vehicle,66
+Clallam,2024-03,Electric,Truck,1
+Clallam,2024-04,Electric,Exempt (State/County/Local/Tribal),4
+Clallam,2024-04,Electric,Passenger Vehicle,78
+Clallam,2024-04,Electric,Truck,3
+Clallam,2024-05,Electric,Commercial,1
+Clallam,2024-05,Electric,Motorcycle,1
+Clallam,2024-05,Electric,Off Road Vehicle,1
+Clallam,2024-05,Electric,Passenger Vehicle,72
+Clallam,2024-05,Electric,Truck,3
+Clallam,2024-06,Electric,Motorcycle,1
+Clallam,2024-06,Electric,Off Road Vehicle,1
+Clallam,2024-06,Electric,Passenger Vehicle,74
+Clallam,2024-06,Electric,Truck,1
+Clallam,2024-07,Electric,Exempt (State/County/Local/Tribal),1
+Clallam,2024-07,Electric,Moped,1
+Clallam,2024-07,Electric,Motorcycle,1
+Clallam,2024-07,Electric,Neighborhood Electric Vehicle,1
+Clallam,2024-07,Electric,Off Road Vehicle,1
+Clallam,2024-07,Electric,Passenger Vehicle,70
+Clallam,2024-07,Electric,Truck,3
+Clallam,2024-08,Electric,Exempt (State/County/Local/Tribal),1
+Clallam,2024-08,Electric,Motorcycle,1
+Clallam,2024-08,Electric,Neighborhood Electric Vehicle,1
+Clallam,2024-08,Electric,Passenger Vehicle,95
+Clallam,2024-08,Electric,Truck,6
+Clallam,2024-09,Electric,Commercial,1
+Clallam,2024-09,Electric,Medium-Speed Electric Truck,1
+Clallam,2024-09,Electric,Motorcycle,1
+Clallam,2024-09,Electric,Passenger Vehicle,88
+Clallam,2024-09,Electric,Truck,5
+Clallam,2024-10,Electric,Commercial,1
+Clallam,2024-10,Electric,Off Road Vehicle,1
+Clallam,2024-10,Electric,Passenger Vehicle,95
+Clallam,2024-10,Electric,Truck,6
+Clallam,2024-11,Electric,Exempt (State/County/Local/Tribal),2
+Clallam,2024-11,Electric,Medium-Speed Electric Truck,1
+Clallam,2024-11,Electric,Motorcycle,1
+Clallam,2024-11,Electric,Passenger Vehicle,67
+Clallam,2024-11,Electric,Truck,3
+Clallam,2024-12,Electric,Medium-Speed Electric Truck,1
+Clallam,2024-12,Electric,Motorcycle,1
+Clallam,2024-12,Electric,Passenger Vehicle,90
+Clallam,2024-12,Electric,Truck,3
+Clallam,2025-01,Electric,All Terrain Vehicle (WATV),1
+Clallam,2025-01,Electric,Commercial,1
+Clallam,2025-01,Electric,Exempt (State/County/Local/Tribal),1
+Clallam,2025-01,Electric,Neighborhood Electric Vehicle,1
+Clallam,2025-01,Electric,Passenger Vehicle,90
+Clallam,2025-01,Electric,Truck,7
+Clallam,2025-02,Electric,Commercial,1
+Clallam,2025-02,Electric,Passenger Vehicle,60
+Clallam,2025-02,Electric,Truck,5
+Clark,2023-01,Electric,Commercial,1
+Clark,2023-01,Electric,Exempt (State/County/Local/Tribal),1
+Clark,2023-01,Electric,Medium-Speed Electric Truck,2
+Clark,2023-01,Electric,Medium-Speed Electric Vehicle,1
+Clark,2023-01,Electric,Neighborhood Electric Vehicle,2
+Clark,2023-01,Electric,Passenger Vehicle,509
+Clark,2023-01,Electric,Truck,15
+Clark,2023-02,Electric,Commercial,1
+Clark,2023-02,Electric,Medium-Speed Electric Truck,2
+Clark,2023-02,Electric,Medium-Speed Electric Vehicle,3
+Clark,2023-02,Electric,Motorcycle,8
+Clark,2023-02,Electric,Neighborhood Electric Vehicle,1
+Clark,2023-02,Electric,Passenger Vehicle,388
+Clark,2023-02,Electric,Truck,7
+Clark,2023-03,Electric,Commercial,3
+Clark,2023-03,Electric,Exempt (State/County/Local/Tribal),2
+Clark,2023-03,Electric,Medium-Speed Electric Vehicle,1
+Clark,2023-03,Electric,Moped,1
+Clark,2023-03,Electric,Motorcycle,4
+Clark,2023-03,Electric,Off Road Vehicle,1
+Clark,2023-03,Electric,Passenger Vehicle,528
+Clark,2023-03,Electric,Truck,10
+Clark,2023-04,Electric,Commercial,1
+Clark,2023-04,Electric,Exempt (State/County/Local/Tribal),9
+Clark,2023-04,Electric,Medium-Speed Electric Truck,1
+Clark,2023-04,Electric,Medium-Speed Electric Vehicle,2
+Clark,2023-04,Electric,Motorcycle,1
+Clark,2023-04,Electric,Off Road Vehicle,1
+Clark,2023-04,Electric,Passenger Vehicle,532
+Clark,2023-04,Electric,Truck,6
+Clark,2023-05,Electric,Commercial,4
+Clark,2023-05,Electric,Exempt (State/County/Local/Tribal),1
+Clark,2023-05,Electric,Medium-Speed Electric Vehicle,2
+Clark,2023-05,Electric,Motorcycle,4
+Clark,2023-05,Electric,Neighborhood Electric Vehicle,3
+Clark,2023-05,Electric,Passenger Vehicle,547
+Clark,2023-05,Electric,Truck,5
+Clark,2023-06,Electric,Commercial,4
+Clark,2023-06,Electric,Exempt (State/County/Local/Tribal),1
+Clark,2023-06,Electric,Medium-Speed Electric Truck,2
+Clark,2023-06,Electric,Medium-Speed Electric Vehicle,3
+Clark,2023-06,Electric,Motorcycle,3
+Clark,2023-06,Electric,Neighborhood Electric Vehicle,3
+Clark,2023-06,Electric,Off Road Vehicle,1
+Clark,2023-06,Electric,Passenger Vehicle,639
+Clark,2023-06,Electric,Truck,9
+Clark,2023-07,Electric,Commercial,4
+Clark,2023-07,Electric,Exempt (State/County/Local/Tribal),4
+Clark,2023-07,Electric,Farm Exempt,1
+Clark,2023-07,Electric,Medium-Speed Electric Vehicle,1
+Clark,2023-07,Electric,Moped,2
+Clark,2023-07,Electric,Motorcycle,4
+Clark,2023-07,Electric,Neighborhood Electric Vehicle,1
+Clark,2023-07,Electric,Off Road Vehicle,1
+Clark,2023-07,Electric,Passenger Vehicle,661
+Clark,2023-07,Electric,Truck,17
+Clark,2023-08,Electric,All Terrain Vehicle (WATV),1
+Clark,2023-08,Electric,Commercial,4
+Clark,2023-08,Electric,Exempt (State/County/Local/Tribal),1
+Clark,2023-08,Electric,Medium-Speed Electric Vehicle,3
+Clark,2023-08,Electric,Motorcycle,2
+Clark,2023-08,Electric,Neighborhood Electric Vehicle,4
+Clark,2023-08,Electric,Off Road Vehicle,4
+Clark,2023-08,Electric,Passenger Vehicle,773
+Clark,2023-08,Electric,Truck,13
+Clark,2023-09,Electric,Combination (Non-Farm Use),1
+Clark,2023-09,Electric,Commercial,6
+Clark,2023-09,Electric,Exempt (State/County/Local/Tribal),1
+Clark,2023-09,Electric,Medium-Speed Electric Truck,1
+Clark,2023-09,Electric,Motorcycle,6
+Clark,2023-09,Electric,Neighborhood Electric Vehicle,1
+Clark,2023-09,Electric,Passenger Vehicle,716
+Clark,2023-09,Electric,Truck,11
+Clark,2023-10,Electric,Commercial,2
+Clark,2023-10,Electric,Exempt (State/County/Local/Tribal),1
+Clark,2023-10,Electric,Medium-Speed Electric Vehicle,4
+Clark,2023-10,Electric,Motorcycle,2
+Clark,2023-10,Electric,Neighborhood Electric Vehicle,2
+Clark,2023-10,Electric,Off Road Vehicle,1
+Clark,2023-10,Electric,Passenger Vehicle,760
+Clark,2023-10,Electric,Truck,18
+Clark,2023-11,Electric,Commercial,7
+Clark,2023-11,Electric,Exempt (State/County/Local/Tribal),1
+Clark,2023-11,Electric,Motorcycle,3
+Clark,2023-11,Electric,Off Road Vehicle,4
+Clark,2023-11,Electric,Passenger Vehicle,682
+Clark,2023-11,Electric,Truck,26
+Clark,2023-12,Electric,Commercial,10
+Clark,2023-12,Electric,Exempt (State/County/Local/Tribal),2
+Clark,2023-12,Electric,Medium-Speed Electric Truck,1
+Clark,2023-12,Electric,Medium-Speed Electric Vehicle,1
+Clark,2023-12,Electric,Motorcycle,2
+Clark,2023-12,Electric,Neighborhood Electric Vehicle,1
+Clark,2023-12,Electric,Passenger Vehicle,699
+Clark,2023-12,Electric,Truck,28
+Clark,2024-01,Electric,Commercial,5
+Clark,2024-01,Electric,Exempt (State/County/Local/Tribal),7
+Clark,2024-01,Electric,Medium-Speed Electric Truck,2
+Clark,2024-01,Electric,Medium-Speed Electric Vehicle,2
+Clark,2024-01,Electric,Motorcycle,3
+Clark,2024-01,Electric,Neighborhood Electric Vehicle,2
+Clark,2024-01,Electric,Off Road Vehicle,2
+Clark,2024-01,Electric,Passenger Vehicle,721
+Clark,2024-01,Electric,Truck,14
+Clark,2024-02,Electric,Commercial,5
+Clark,2024-02,Electric,Exempt (State/County/Local/Tribal),3
+Clark,2024-02,Electric,Medium-Speed Electric Vehicle,2
+Clark,2024-02,Electric,Motorcycle,1
+Clark,2024-02,Electric,Neighborhood Electric Vehicle,4
+Clark,2024-02,Electric,Passenger Vehicle,634
+Clark,2024-02,Electric,Truck,18
+Clark,2024-03,Electric,Commercial,6
+Clark,2024-03,Electric,Exempt (State/County/Local/Tribal),1
+Clark,2024-03,Electric,Medium-Speed Electric Truck,1
+Clark,2024-03,Electric,Medium-Speed Electric Vehicle,1
+Clark,2024-03,Electric,Motorcycle,4
+Clark,2024-03,Electric,Off Road Vehicle,2
+Clark,2024-03,Electric,Passenger Vehicle,748
+Clark,2024-03,Electric,Truck,15
+Clark,2024-04,Electric,Commercial,6
+Clark,2024-04,Electric,Exempt (State/County/Local/Tribal),2
+Clark,2024-04,Electric,Medium-Speed Electric Truck,2
+Clark,2024-04,Electric,Medium-Speed Electric Vehicle,2
+Clark,2024-04,Electric,Motorcycle,4
+Clark,2024-04,Electric,Neighborhood Electric Vehicle,1
+Clark,2024-04,Electric,Off Road Vehicle,1
+Clark,2024-04,Electric,Passenger Vehicle,801
+Clark,2024-04,Electric,Truck,19
+Clark,2024-05,Electric,Commercial,2
+Clark,2024-05,Electric,Medium-Speed Electric Truck,1
+Clark,2024-05,Electric,Motorcycle,3
+Clark,2024-05,Electric,Neighborhood Electric Vehicle,4
+Clark,2024-05,Electric,Off Road Vehicle,1
+Clark,2024-05,Electric,Passenger Vehicle,830
+Clark,2024-05,Electric,Truck,13
+Clark,2024-06,Electric,Combination (Non-Farm Use),1
+Clark,2024-06,Electric,Commercial,7
+Clark,2024-06,Electric,Medium-Speed Electric Vehicle,2
+Clark,2024-06,Electric,Motorcycle,2
+Clark,2024-06,Electric,Neighborhood Electric Vehicle,2
+Clark,2024-06,Electric,Off Road Vehicle,4
+Clark,2024-06,Electric,Passenger Vehicle,778
+Clark,2024-06,Electric,Truck,20
+Clark,2024-07,Electric,Commercial,7
+Clark,2024-07,Electric,Medium-Speed Electric Vehicle,1
+Clark,2024-07,Electric,Moped,1
+Clark,2024-07,Electric,Motorcycle,5
+Clark,2024-07,Electric,Off Road Vehicle,3
+Clark,2024-07,Electric,Passenger Vehicle,939
+Clark,2024-07,Electric,Truck,43
+Clark,2024-08,Electric,All Terrain Vehicle (WATV),1
+Clark,2024-08,Electric,Commercial,5
+Clark,2024-08,Electric,Exempt (State/County/Local/Tribal),1
+Clark,2024-08,Electric,Medium-Speed Electric Vehicle,5
+Clark,2024-08,Electric,Moped,1
+Clark,2024-08,Electric,Motorcycle,2
+Clark,2024-08,Electric,Passenger Vehicle,1009
+Clark,2024-08,Electric,Truck,48
+Clark,2024-09,Electric,Commercial,8
+Clark,2024-09,Electric,Exempt (State/County/Local/Tribal),1
+Clark,2024-09,Electric,Medium-Speed Electric Truck,1
+Clark,2024-09,Electric,Medium-Speed Electric Vehicle,3
+Clark,2024-09,Electric,Motorcycle,7
+Clark,2024-09,Electric,Neighborhood Electric Vehicle,1
+Clark,2024-09,Electric,Passenger Vehicle,982
+Clark,2024-09,Electric,Truck,29
+Clark,2024-10,Electric,Commercial,9
+Clark,2024-10,Electric,Medium-Speed Electric Vehicle,4
+Clark,2024-10,Electric,Moped,1
+Clark,2024-10,Electric,Motorcycle,3
+Clark,2024-10,Electric,Neighborhood Electric Vehicle,3
+Clark,2024-10,Electric,Off Road Vehicle,1
+Clark,2024-10,Electric,Passenger Vehicle,997
+Clark,2024-10,Electric,Truck,39
+Clark,2024-11,Electric,All Terrain Vehicle (WATV),1
+Clark,2024-11,Electric,Commercial,9
+Clark,2024-11,Electric,Medium-Speed Electric Truck,1
+Clark,2024-11,Electric,Medium-Speed Electric Vehicle,2
+Clark,2024-11,Electric,Motorcycle,4
+Clark,2024-11,Electric,Passenger Vehicle,902
+Clark,2024-11,Electric,Truck,27
+Clark,2024-12,Electric,Commercial,11
+Clark,2024-12,Electric,Medium-Speed Electric Truck,1
+Clark,2024-12,Electric,Medium-Speed Electric Vehicle,1
+Clark,2024-12,Electric,Motorcycle,1
+Clark,2024-12,Electric,Off Road Vehicle,1
+Clark,2024-12,Electric,Passenger Vehicle,945
+Clark,2024-12,Electric,Truck,37
+Clark,2025-01,Electric,Commercial,17
+Clark,2025-01,Electric,Exempt (State/County/Local/Tribal),1
+Clark,2025-01,Electric,Medium-Speed Electric Vehicle,2
+Clark,2025-01,Electric,Motorcycle,3
+Clark,2025-01,Electric,Neighborhood Electric Vehicle,4
+Clark,2025-01,Electric,Passenger Vehicle,973
+Clark,2025-01,Electric,Truck,47
+Clark,2025-02,Electric,Commercial,5
+Clark,2025-02,Electric,Medium-Speed Electric Vehicle,1
+Clark,2025-02,Electric,Motorhome,1
+Clark,2025-02,Electric,Neighborhood Electric Vehicle,3
+Clark,2025-02,Electric,Off Road Vehicle,1
+Clark,2025-02,Electric,Passenger Vehicle,763
+Clark,2025-02,Electric,Truck,31
+Columbia,2023-01,Electric,Passenger Vehicle,1
+Columbia,2023-02,Electric,Passenger Vehicle,1
+Columbia,2023-03,Electric,Passenger Vehicle,1
+Columbia,2023-04,Electric,Passenger Vehicle,1
+Columbia,2023-05,Electric,Passenger Vehicle,3
+Columbia,2023-06,Electric,Passenger Vehicle,1
+Columbia,2023-08,Electric,Passenger Vehicle,3
+Columbia,2023-11,Electric,Commercial,3
+Columbia,2023-12,Electric,Commercial,1
+Columbia,2023-12,Electric,Passenger Vehicle,1
+Columbia,2024-02,Electric,Passenger Vehicle,1
+Columbia,2024-05,Electric,Passenger Vehicle,3
+Columbia,2024-07,Electric,All Terrain Vehicle (WATV),1
+Columbia,2024-07,Electric,Passenger Vehicle,1
+Columbia,2024-07,Electric,Truck,1
+Columbia,2024-08,Electric,Passenger Vehicle,3
+Columbia,2024-09,Electric,Commercial,1
+Columbia,2024-09,Electric,Passenger Vehicle,1
+Columbia,2024-10,Electric,Commercial,3
+Columbia,2024-12,Electric,Passenger Vehicle,1
+Columbia,2025-01,Electric,Truck,1
+Columbia,2025-02,Electric,Passenger Vehicle,1
+Cowlitz,2023-01,Electric,For Hire,1
+Cowlitz,2023-01,Electric,Medium-Speed Electric Truck,1
+Cowlitz,2023-01,Electric,Medium-Speed Electric Vehicle,1
+Cowlitz,2023-01,Electric,Passenger Vehicle,31
+Cowlitz,2023-01,Electric,Truck,3
+Cowlitz,2023-02,Electric,Commercial,1
+Cowlitz,2023-02,Electric,Passenger Vehicle,43
+Cowlitz,2023-03,Electric,For Hire,1
+Cowlitz,2023-03,Electric,Medium-Speed Electric Vehicle,1
+Cowlitz,2023-03,Electric,Passenger Vehicle,36
+Cowlitz,2023-04,Electric,Passenger Vehicle,32
+Cowlitz,2023-04,Electric,Truck,3
+Cowlitz,2023-05,Electric,Medium-Speed Electric Vehicle,1
+Cowlitz,2023-05,Electric,Motorcycle,1
+Cowlitz,2023-05,Electric,Passenger Vehicle,52
+Cowlitz,2023-05,Electric,Truck,1
+Cowlitz,2023-06,Electric,Neighborhood Electric Vehicle,1
+Cowlitz,2023-06,Electric,Passenger Vehicle,58
+Cowlitz,2023-06,Electric,Truck,1
+Cowlitz,2023-07,Electric,Commercial,1
+Cowlitz,2023-07,Electric,Motorcycle,1
+Cowlitz,2023-07,Electric,Passenger Vehicle,59
+Cowlitz,2023-07,Electric,Truck,1
+Cowlitz,2023-08,Electric,Passenger Vehicle,64
+Cowlitz,2023-08,Electric,Truck,1
+Cowlitz,2023-09,Electric,Medium-Speed Electric Truck,1
+Cowlitz,2023-09,Electric,Passenger Vehicle,57
+Cowlitz,2023-09,Electric,Truck,1
+Cowlitz,2023-10,Electric,Commercial,1
+Cowlitz,2023-10,Electric,Motorcycle,1
+Cowlitz,2023-10,Electric,Off Road Vehicle,2
+Cowlitz,2023-10,Electric,Passenger Vehicle,45
+Cowlitz,2023-10,Electric,Truck,2
+Cowlitz,2023-11,Electric,Exempt (State/County/Local/Tribal),2
+Cowlitz,2023-11,Electric,Motorcycle,1
+Cowlitz,2023-11,Electric,Passenger Vehicle,68
+Cowlitz,2023-11,Electric,Truck,3
+Cowlitz,2023-12,Electric,All Terrain Vehicle (WATV),1
+Cowlitz,2023-12,Electric,Commercial,1
+Cowlitz,2023-12,Electric,Exempt (State/County/Local/Tribal),1
+Cowlitz,2023-12,Electric,Passenger Vehicle,58
+Cowlitz,2023-12,Electric,Truck,1
+Cowlitz,2024-01,Electric,All Terrain Vehicle (WATV),1
+Cowlitz,2024-01,Electric,Off Road Vehicle,1
+Cowlitz,2024-01,Electric,Passenger Vehicle,54
+Cowlitz,2024-01,Electric,Truck,3
+Cowlitz,2024-02,Electric,Medium-Speed Electric Truck,1
+Cowlitz,2024-02,Electric,Medium-Speed Electric Vehicle,1
+Cowlitz,2024-02,Electric,Passenger Vehicle,62
+Cowlitz,2024-03,Electric,Medium-Speed Electric Vehicle,1
+Cowlitz,2024-03,Electric,Passenger Vehicle,67
+Cowlitz,2024-03,Electric,Truck,2
+Cowlitz,2024-04,Electric,For Hire,1
+Cowlitz,2024-04,Electric,Medium-Speed Electric Vehicle,2
+Cowlitz,2024-04,Electric,Neighborhood Electric Vehicle,1
+Cowlitz,2024-04,Electric,Passenger Vehicle,54
+Cowlitz,2024-04,Electric,Truck,3
+Cowlitz,2024-05,Electric,Passenger Vehicle,68
+Cowlitz,2024-05,Electric,Truck,3
+Cowlitz,2024-06,Electric,Neighborhood Electric Vehicle,1
+Cowlitz,2024-06,Electric,Passenger Vehicle,82
+Cowlitz,2024-06,Electric,Truck,1
+Cowlitz,2024-07,Electric,Commercial,2
+Cowlitz,2024-07,Electric,Motorcycle,2
+Cowlitz,2024-07,Electric,Passenger Vehicle,71
+Cowlitz,2024-07,Electric,Truck,5
+Cowlitz,2024-08,Electric,Motorcycle,1
+Cowlitz,2024-08,Electric,Passenger Vehicle,70
+Cowlitz,2024-08,Electric,Truck,1
+Cowlitz,2024-09,Electric,Passenger Vehicle,81
+Cowlitz,2024-09,Electric,Truck,3
+Cowlitz,2024-10,Electric,Commercial,3
+Cowlitz,2024-10,Electric,Passenger Vehicle,80
+Cowlitz,2024-10,Electric,Truck,4
+Cowlitz,2024-11,Electric,Medium-Speed Electric Truck,1
+Cowlitz,2024-11,Electric,Medium-Speed Electric Vehicle,1
+Cowlitz,2024-11,Electric,Passenger Vehicle,70
+Cowlitz,2024-11,Electric,Truck,4
+Cowlitz,2024-12,Electric,All Terrain Vehicle (WATV),1
+Cowlitz,2024-12,Electric,Commercial,1
+Cowlitz,2024-12,Electric,Passenger Vehicle,76
+Cowlitz,2024-12,Electric,Truck,3
+Cowlitz,2025-01,Electric,Medium-Speed Electric Truck,1
+Cowlitz,2025-01,Electric,Medium-Speed Electric Vehicle,1
+Cowlitz,2025-01,Electric,Passenger Vehicle,80
+Cowlitz,2025-01,Electric,Truck,4
+Cowlitz,2025-02,Electric,Passenger Vehicle,66
+Cowlitz,2025-02,Electric,Truck,1
+Douglas,2023-01,Electric,Neighborhood Electric Vehicle,1
+Douglas,2023-01,Electric,Passenger Vehicle,16
+Douglas,2023-01,Electric,Truck,1
+Douglas,2023-02,Electric,Motorcycle,1
+Douglas,2023-02,Electric,Neighborhood Electric Vehicle,1
+Douglas,2023-02,Electric,Passenger Vehicle,9
+Douglas,2023-02,Electric,Truck,1
+Douglas,2023-03,Electric,Motorcycle,2
+Douglas,2023-03,Electric,Neighborhood Electric Vehicle,1
+Douglas,2023-03,Electric,Passenger Vehicle,13
+Douglas,2023-04,Electric,Exempt (State/County/Local/Tribal),1
+Douglas,2023-04,Electric,Motorcycle,1
+Douglas,2023-04,Electric,Off Road Vehicle,1
+Douglas,2023-04,Electric,Passenger Vehicle,19
+Douglas,2023-04,Electric,Truck,1
+Douglas,2023-05,Electric,Motorcycle,1
+Douglas,2023-05,Electric,Neighborhood Electric Vehicle,1
+Douglas,2023-05,Electric,Passenger Vehicle,19
+Douglas,2023-06,Electric,Passenger Vehicle,29
+Douglas,2023-07,Electric,Passenger Vehicle,26
+Douglas,2023-08,Electric,Exempt (State/County/Local/Tribal),1
+Douglas,2023-08,Electric,Neighborhood Electric Vehicle,1
+Douglas,2023-08,Electric,Passenger Vehicle,22
+Douglas,2023-08,Electric,Truck,1
+Douglas,2023-09,Electric,Motorcycle,1
+Douglas,2023-09,Electric,Passenger Vehicle,24
+Douglas,2023-09,Electric,Truck,1
+Douglas,2023-10,Electric,Medium-Speed Electric Truck,1
+Douglas,2023-10,Electric,Passenger Vehicle,25
+Douglas,2023-10,Electric,Truck,1
+Douglas,2023-11,Electric,Passenger Vehicle,19
+Douglas,2023-11,Electric,Truck,2
+Douglas,2023-12,Electric,Passenger Vehicle,20
+Douglas,2023-12,Electric,Truck,3
+Douglas,2024-01,Electric,Neighborhood Electric Vehicle,1
+Douglas,2024-01,Electric,Passenger Vehicle,26
+Douglas,2024-02,Electric,Motorcycle,1
+Douglas,2024-02,Electric,Neighborhood Electric Vehicle,1
+Douglas,2024-02,Electric,Passenger Vehicle,22
+Douglas,2024-02,Electric,Truck,1
+Douglas,2024-03,Electric,Motorcycle,1
+Douglas,2024-03,Electric,Neighborhood Electric Vehicle,1
+Douglas,2024-03,Electric,Passenger Vehicle,26
+Douglas,2024-04,Electric,Motorcycle,5
+Douglas,2024-04,Electric,Off Road Vehicle,1
+Douglas,2024-04,Electric,Passenger Vehicle,27
+Douglas,2024-04,Electric,Truck,3
+Douglas,2024-05,Electric,Motorcycle,1
+Douglas,2024-05,Electric,Neighborhood Electric Vehicle,1
+Douglas,2024-05,Electric,Passenger Vehicle,22
+Douglas,2024-06,Electric,Motorcycle,1
+Douglas,2024-06,Electric,Passenger Vehicle,26
+Douglas,2024-06,Electric,Truck,1
+Douglas,2024-07,Electric,Exempt (State/County/Local/Tribal),1
+Douglas,2024-07,Electric,Neighborhood Electric Vehicle,1
+Douglas,2024-07,Electric,Passenger Vehicle,34
+Douglas,2024-07,Electric,Truck,3
+Douglas,2024-08,Electric,Passenger Vehicle,17
+Douglas,2024-08,Electric,Truck,1
+Douglas,2024-09,Electric,Off Road Vehicle,1
+Douglas,2024-09,Electric,Passenger Vehicle,38
+Douglas,2024-10,Electric,Exempt (State/County/Local/Tribal),2
+Douglas,2024-10,Electric,Passenger Vehicle,38
+Douglas,2024-10,Electric,Truck,3
+Douglas,2024-11,Electric,Commercial,1
+Douglas,2024-11,Electric,Medium-Speed Electric Truck,1
+Douglas,2024-11,Electric,Passenger Vehicle,42
+Douglas,2024-11,Electric,Truck,6
+Douglas,2024-12,Electric,Neighborhood Electric Truck,1
+Douglas,2024-12,Electric,Passenger Vehicle,25
+Douglas,2024-12,Electric,Truck,2
+Douglas,2025-01,Electric,Neighborhood Electric Vehicle,1
+Douglas,2025-01,Electric,Passenger Vehicle,36
+Douglas,2025-01,Electric,Truck,2
+Douglas,2025-02,Electric,Motorcycle,1
+Douglas,2025-02,Electric,Neighborhood Electric Vehicle,1
+Douglas,2025-02,Electric,Passenger Vehicle,34
+Douglas,2025-02,Electric,Truck,1
+Ferry,2023-02,Electric,Passenger Vehicle,1
+Ferry,2023-03,Electric,Passenger Vehicle,2
+Ferry,2023-04,Electric,Passenger Vehicle,1
+Ferry,2023-05,Electric,Passenger Vehicle,5
+Ferry,2023-06,Electric,Passenger Vehicle,1
+Ferry,2023-08,Electric,Passenger Vehicle,2
+Ferry,2023-09,Electric,Passenger Vehicle,3
+Ferry,2023-10,Electric,Moped,1
+Ferry,2023-10,Electric,Passenger Vehicle,1
+Ferry,2023-11,Electric,Passenger Vehicle,3
+Ferry,2023-12,Electric,Motorcycle,1
+Ferry,2023-12,Electric,Passenger Vehicle,1
+Ferry,2024-01,Electric,Passenger Vehicle,1
+Ferry,2024-02,Electric,Exempt (State/County/Local/Tribal),1
+Ferry,2024-02,Electric,Passenger Vehicle,3
+Ferry,2024-03,Electric,Motorcycle,1
+Ferry,2024-03,Electric,Passenger Vehicle,3
+Ferry,2024-04,Electric,Passenger Vehicle,3
+Ferry,2024-05,Electric,Passenger Vehicle,6
+Ferry,2024-06,Electric,Passenger Vehicle,1
+Ferry,2024-07,Electric,Off Road Vehicle,1
+Ferry,2024-07,Electric,Passenger Vehicle,1
+Ferry,2024-08,Electric,Passenger Vehicle,1
+Ferry,2024-09,Electric,Moped,1
+Ferry,2024-09,Electric,Passenger Vehicle,1
+Ferry,2024-10,Electric,Passenger Vehicle,1
+Ferry,2024-11,Electric,Motorcycle,1
+Ferry,2024-11,Electric,Passenger Vehicle,4
+Ferry,2024-12,Electric,Passenger Vehicle,1
+Ferry,2025-01,Electric,Exempt (State/County/Local/Tribal),1
+Ferry,2025-02,Electric,Exempt (State/County/Local/Tribal),1
+Ferry,2025-02,Electric,Passenger Vehicle,4
+Franklin,2023-01,Electric,Passenger Vehicle,27
+Franklin,2023-02,Electric,Commercial,1
+Franklin,2023-02,Electric,Passenger Vehicle,24
+Franklin,2023-03,Electric,Commercial,1
+Franklin,2023-03,Electric,Passenger Vehicle,26
+Franklin,2023-03,Electric,Truck,1
+Franklin,2023-04,Electric,Commercial,1
+Franklin,2023-04,Electric,Motorcycle,1
+Franklin,2023-04,Electric,Neighborhood Electric Vehicle,1
+Franklin,2023-04,Electric,Passenger Vehicle,30
+Franklin,2023-05,Electric,Neighborhood Electric Vehicle,1
+Franklin,2023-05,Electric,Passenger Vehicle,29
+Franklin,2023-06,Electric,Commercial,1
+Franklin,2023-06,Electric,Medium-Speed Electric Truck,1
+Franklin,2023-06,Electric,Neighborhood Electric Vehicle,1
+Franklin,2023-06,Electric,Passenger Vehicle,31
+Franklin,2023-06,Electric,Truck,1
+Franklin,2023-07,Electric,Commercial,1
+Franklin,2023-07,Electric,Medium-Speed Electric Truck,1
+Franklin,2023-07,Electric,Off Road Vehicle,1
+Franklin,2023-07,Electric,Passenger Vehicle,42
+Franklin,2023-07,Electric,Truck,1
+Franklin,2023-08,Electric,Commercial,1
+Franklin,2023-08,Electric,Passenger Vehicle,55
+Franklin,2023-08,Electric,Truck,1
+Franklin,2023-09,Electric,Exempt (State/County/Local/Tribal),2
+Franklin,2023-09,Electric,Neighborhood Electric Vehicle,1
+Franklin,2023-09,Electric,Passenger Vehicle,32
+Franklin,2023-09,Electric,Truck,1
+Franklin,2023-10,Electric,Commercial,1
+Franklin,2023-10,Electric,Exempt (State/County/Local/Tribal),1
+Franklin,2023-10,Electric,Medium-Speed Electric Vehicle,1
+Franklin,2023-10,Electric,Passenger Vehicle,37
+Franklin,2023-11,Electric,Passenger Vehicle,22
+Franklin,2023-11,Electric,Truck,3
+Franklin,2023-12,Electric,Commercial,1
+Franklin,2023-12,Electric,Passenger Vehicle,28
+Franklin,2023-12,Electric,Truck,1
+Franklin,2024-01,Electric,Commercial,1
+Franklin,2024-01,Electric,Passenger Vehicle,41
+Franklin,2024-01,Electric,Truck,1
+Franklin,2024-02,Electric,Commercial,1
+Franklin,2024-02,Electric,Passenger Vehicle,31
+Franklin,2024-02,Electric,Truck,1
+Franklin,2024-03,Electric,Passenger Vehicle,40
+Franklin,2024-04,Electric,Commercial,1
+Franklin,2024-04,Electric,Neighborhood Electric Vehicle,1
+Franklin,2024-04,Electric,Off Road Vehicle,2
+Franklin,2024-04,Electric,Passenger Vehicle,43
+Franklin,2024-04,Electric,Truck,3
+Franklin,2024-05,Electric,Neighborhood Electric Vehicle,2
+Franklin,2024-05,Electric,Off Road Vehicle,1
+Franklin,2024-05,Electric,Passenger Vehicle,44
+Franklin,2024-05,Electric,Truck,1
+Franklin,2024-06,Electric,Commercial,1
+Franklin,2024-06,Electric,Medium-Speed Electric Truck,1
+Franklin,2024-06,Electric,Neighborhood Electric Vehicle,1
+Franklin,2024-06,Electric,Off Road Vehicle,1
+Franklin,2024-06,Electric,Passenger Vehicle,44
+Franklin,2024-06,Electric,Truck,1
+Franklin,2024-07,Electric,Commercial,1
+Franklin,2024-07,Electric,Medium-Speed Electric Truck,1
+Franklin,2024-07,Electric,Motorcycle,1
+Franklin,2024-07,Electric,Off Road Vehicle,1
+Franklin,2024-07,Electric,Passenger Vehicle,61
+Franklin,2024-07,Electric,Truck,3
+Franklin,2024-08,Electric,Commercial,1
+Franklin,2024-08,Electric,Medium-Speed Electric Vehicle,2
+Franklin,2024-08,Electric,Passenger Vehicle,59
+Franklin,2024-08,Electric,Truck,1
+Franklin,2024-09,Electric,Off Road Vehicle,1
+Franklin,2024-09,Electric,Passenger Vehicle,64
+Franklin,2024-09,Electric,Truck,3
+Franklin,2024-10,Electric,Neighborhood Electric Truck,1
+Franklin,2024-10,Electric,Passenger Vehicle,60
+Franklin,2024-10,Electric,Truck,3
+Franklin,2024-11,Electric,Commercial,1
+Franklin,2024-11,Electric,Motorcycle,1
+Franklin,2024-11,Electric,Passenger Vehicle,40
+Franklin,2024-11,Electric,Truck,5
+Franklin,2024-12,Electric,Commercial,3
+Franklin,2024-12,Electric,Passenger Vehicle,51
+Franklin,2024-12,Electric,Truck,3
+Franklin,2025-01,Electric,Commercial,3
+Franklin,2025-01,Electric,Neighborhood Electric Vehicle,1
+Franklin,2025-01,Electric,Passenger Vehicle,58
+Franklin,2025-01,Electric,Truck,3
+Franklin,2025-02,Electric,Commercial,1
+Franklin,2025-02,Electric,Neighborhood Electric Vehicle,1
+Franklin,2025-02,Electric,Passenger Vehicle,61
+Franklin,2025-02,Electric,Truck,1
+Grant,2023-01,Electric,Neighborhood Electric Vehicle,1
+Grant,2023-01,Electric,Passenger Vehicle,7
+Grant,2023-01,Electric,Truck,1
+Grant,2023-02,Electric,Medium-Speed Electric Truck,1
+Grant,2023-02,Electric,Motorcycle,1
+Grant,2023-02,Electric,Passenger Vehicle,26
+Grant,2023-02,Electric,Truck,1
+Grant,2023-03,Electric,Medium-Speed Electric Truck,1
+Grant,2023-03,Electric,Medium-Speed Electric Vehicle,1
+Grant,2023-03,Electric,Neighborhood Electric Vehicle,1
+Grant,2023-03,Electric,Passenger Vehicle,27
+Grant,2023-03,Electric,Truck,1
+Grant,2023-04,Electric,Motorcycle,1
+Grant,2023-04,Electric,Neighborhood Electric Vehicle,1
+Grant,2023-04,Electric,Passenger Vehicle,26
+Grant,2023-04,Electric,Truck,1
+Grant,2023-05,Electric,All Terrain Vehicle (WATV),1
+Grant,2023-05,Electric,Commercial,1
+Grant,2023-05,Electric,Exempt (State/County/Local/Tribal),2
+Grant,2023-05,Electric,Medium-Speed Electric Vehicle,1
+Grant,2023-05,Electric,Neighborhood Electric Vehicle,3
+Grant,2023-05,Electric,Passenger Vehicle,33
+Grant,2023-05,Electric,Truck,1
+Grant,2023-06,Electric,Medium-Speed Electric Truck,1
+Grant,2023-06,Electric,Motorcycle,1
+Grant,2023-06,Electric,Neighborhood Electric Vehicle,1
+Grant,2023-06,Electric,Passenger Vehicle,25
+Grant,2023-06,Electric,Truck,1
+Grant,2023-07,Electric,Commercial,1
+Grant,2023-07,Electric,Medium-Speed Electric Truck,1
+Grant,2023-07,Electric,Motorcycle,1
+Grant,2023-07,Electric,Neighborhood Electric Vehicle,1
+Grant,2023-07,Electric,Off Road Vehicle,3
+Grant,2023-07,Electric,Passenger Vehicle,35
+Grant,2023-07,Electric,Truck,2
+Grant,2023-08,Electric,Commercial,1
+Grant,2023-08,Electric,Medium-Speed Electric Truck,1
+Grant,2023-08,Electric,Motorcycle,1
+Grant,2023-08,Electric,Neighborhood Electric Vehicle,3
+Grant,2023-08,Electric,Off Road Vehicle,1
+Grant,2023-08,Electric,Passenger Vehicle,23
+Grant,2023-08,Electric,Truck,1
+Grant,2023-09,Electric,Neighborhood Electric Truck,2
+Grant,2023-09,Electric,Neighborhood Electric Vehicle,1
+Grant,2023-09,Electric,Off Road Vehicle,1
+Grant,2023-09,Electric,Passenger Vehicle,38
+Grant,2023-10,Electric,Passenger Vehicle,31
+Grant,2023-10,Electric,Truck,1
+Grant,2023-11,Electric,Commercial,1
+Grant,2023-11,Electric,Medium-Speed Electric Truck,1
+Grant,2023-11,Electric,Off Road Vehicle,2
+Grant,2023-11,Electric,Passenger Vehicle,23
+Grant,2023-11,Electric,Truck,1
+Grant,2023-12,Electric,Commercial,1
+Grant,2023-12,Electric,Exempt (State/County/Local/Tribal),2
+Grant,2023-12,Electric,Medium-Speed Electric Vehicle,1
+Grant,2023-12,Electric,Passenger Vehicle,30
+Grant,2023-12,Electric,Truck,1
+Grant,2024-01,Electric,Passenger Vehicle,29
+Grant,2024-01,Electric,Truck,4
+Grant,2024-02,Electric,Exempt (State/County/Local/Tribal),1
+Grant,2024-02,Electric,Neighborhood Electric Vehicle,1
+Grant,2024-02,Electric,Off Road Vehicle,3
+Grant,2024-02,Electric,Passenger Vehicle,29
+Grant,2024-02,Electric,Truck,1
+Grant,2024-03,Electric,Medium-Speed Electric Truck,1
+Grant,2024-03,Electric,Motorcycle,2
+Grant,2024-03,Electric,Neighborhood Electric Vehicle,1
+Grant,2024-03,Electric,Off Road Vehicle,1
+Grant,2024-03,Electric,Passenger Vehicle,45
+Grant,2024-03,Electric,Truck,1
+Grant,2024-04,Electric,Medium-Speed Electric Truck,1
+Grant,2024-04,Electric,Medium-Speed Electric Vehicle,1
+Grant,2024-04,Electric,Moped,1
+Grant,2024-04,Electric,Motorcycle,2
+Grant,2024-04,Electric,Neighborhood Electric Vehicle,1
+Grant,2024-04,Electric,Passenger Vehicle,42
+Grant,2024-04,Electric,Truck,2
+Grant,2024-05,Electric,Commercial,3
+Grant,2024-05,Electric,Neighborhood Electric Vehicle,1
+Grant,2024-05,Electric,Off Road Vehicle,1
+Grant,2024-05,Electric,Passenger Vehicle,47
+Grant,2024-05,Electric,Truck,1
+Grant,2024-06,Electric,All Terrain Vehicle (WATV),1
+Grant,2024-06,Electric,Medium-Speed Electric Truck,1
+Grant,2024-06,Electric,Neighborhood Electric Vehicle,1
+Grant,2024-06,Electric,Off Road Vehicle,1
+Grant,2024-06,Electric,Passenger Vehicle,38
+Grant,2024-06,Electric,Truck,1
+Grant,2024-07,Electric,Medium-Speed Electric Vehicle,1
+Grant,2024-07,Electric,Motorcycle,1
+Grant,2024-07,Electric,Neighborhood Electric Vehicle,2
+Grant,2024-07,Electric,Off Road Vehicle,1
+Grant,2024-07,Electric,Passenger Vehicle,49
+Grant,2024-07,Electric,Truck,1
+Grant,2024-08,Electric,Commercial,1
+Grant,2024-08,Electric,Medium-Speed Electric Truck,1
+Grant,2024-08,Electric,Neighborhood Electric Vehicle,1
+Grant,2024-08,Electric,Passenger Vehicle,44
+Grant,2024-08,Electric,Truck,7
+Grant,2024-09,Electric,Commercial,1
+Grant,2024-09,Electric,Neighborhood Electric Vehicle,2
+Grant,2024-09,Electric,Passenger Vehicle,52
+Grant,2024-09,Electric,Truck,3
+Grant,2024-10,Electric,Commercial,1
+Grant,2024-10,Electric,Neighborhood Electric Vehicle,1
+Grant,2024-10,Electric,Off Road Vehicle,1
+Grant,2024-10,Electric,Passenger Vehicle,56
+Grant,2024-10,Electric,Truck,7
+Grant,2024-11,Electric,Commercial,1
+Grant,2024-11,Electric,Neighborhood Electric Truck,1
+Grant,2024-11,Electric,Passenger Vehicle,34
+Grant,2024-11,Electric,Truck,4
+Grant,2024-12,Electric,Commercial,5
+Grant,2024-12,Electric,Medium-Speed Electric Truck,1
+Grant,2024-12,Electric,Medium-Speed Electric Vehicle,1
+Grant,2024-12,Electric,Passenger Vehicle,38
+Grant,2024-12,Electric,Truck,9
+Grant,2025-01,Electric,Commercial,1
+Grant,2025-01,Electric,Off Road Vehicle,1
+Grant,2025-01,Electric,Passenger Vehicle,41
+Grant,2025-01,Electric,Truck,5
+Grant,2025-02,Electric,Farm Use,1
+Grant,2025-02,Electric,Medium-Speed Electric Truck,1
+Grant,2025-02,Electric,Neighborhood Electric Vehicle,1
+Grant,2025-02,Electric,Off Road Vehicle,1
+Grant,2025-02,Electric,Passenger Vehicle,42
+Grant,2025-02,Electric,Truck,3
+Grays Harbor,2023-01,Electric,Passenger Vehicle,31
+Grays Harbor,2023-02,Electric,Motorcycle,1
+Grays Harbor,2023-02,Electric,Passenger Vehicle,29
+Grays Harbor,2023-03,Electric,Exempt (State/County/Local/Tribal),1
+Grays Harbor,2023-03,Electric,Passenger Vehicle,19
+Grays Harbor,2023-04,Electric,Neighborhood Electric Vehicle,1
+Grays Harbor,2023-04,Electric,Passenger Vehicle,25
+Grays Harbor,2023-04,Electric,Truck,1
+Grays Harbor,2023-05,Electric,Exempt (State/County/Local/Tribal),1
+Grays Harbor,2023-05,Electric,Neighborhood Electric Vehicle,1
+Grays Harbor,2023-05,Electric,Passenger Vehicle,23
+Grays Harbor,2023-05,Electric,Truck,1
+Grays Harbor,2023-06,Electric,Medium-Speed Electric Truck,1
+Grays Harbor,2023-06,Electric,Moped,1
+Grays Harbor,2023-06,Electric,Motorcycle,2
+Grays Harbor,2023-06,Electric,Neighborhood Electric Vehicle,4
+Grays Harbor,2023-06,Electric,Passenger Vehicle,35
+Grays Harbor,2023-06,Electric,Truck,1
+Grays Harbor,2023-07,Electric,Motorcycle,1
+Grays Harbor,2023-07,Electric,Neighborhood Electric Vehicle,1
+Grays Harbor,2023-07,Electric,Passenger Vehicle,40
+Grays Harbor,2023-07,Electric,Truck,3
+Grays Harbor,2023-08,Electric,Neighborhood Electric Vehicle,1
+Grays Harbor,2023-08,Electric,Passenger Vehicle,28
+Grays Harbor,2023-09,Electric,Neighborhood Electric Vehicle,1
+Grays Harbor,2023-09,Electric,Passenger Vehicle,37
+Grays Harbor,2023-09,Electric,Truck,1
+Grays Harbor,2023-10,Electric,Exempt (State/County/Local/Tribal),1
+Grays Harbor,2023-10,Electric,Passenger Vehicle,41
+Grays Harbor,2023-10,Electric,Truck,1
+Grays Harbor,2023-11,Electric,Neighborhood Electric Vehicle,1
+Grays Harbor,2023-11,Electric,Passenger Vehicle,29
+Grays Harbor,2023-11,Electric,Truck,3
+Grays Harbor,2023-12,Electric,Commercial,1
+Grays Harbor,2023-12,Electric,Motorcycle,1
+Grays Harbor,2023-12,Electric,Passenger Vehicle,44
+Grays Harbor,2023-12,Electric,Truck,2
+Grays Harbor,2024-01,Electric,Commercial,2
+Grays Harbor,2024-01,Electric,Motorcycle,1
+Grays Harbor,2024-01,Electric,Passenger Vehicle,43
+Grays Harbor,2024-01,Electric,Truck,1
+Grays Harbor,2024-02,Electric,Commercial,1
+Grays Harbor,2024-02,Electric,Motorcycle,1
+Grays Harbor,2024-02,Electric,Passenger Vehicle,39
+Grays Harbor,2024-02,Electric,Truck,1
+Grays Harbor,2024-03,Electric,Passenger Vehicle,34
+Grays Harbor,2024-03,Electric,Truck,3
+Grays Harbor,2024-04,Electric,Moped,1
+Grays Harbor,2024-04,Electric,Motorhome,1
+Grays Harbor,2024-04,Electric,Neighborhood Electric Vehicle,1
+Grays Harbor,2024-04,Electric,Off Road Vehicle,1
+Grays Harbor,2024-04,Electric,Passenger Vehicle,38
+Grays Harbor,2024-04,Electric,Truck,3
+Grays Harbor,2024-05,Electric,Neighborhood Electric Vehicle,1
+Grays Harbor,2024-05,Electric,Passenger Vehicle,45
+Grays Harbor,2024-05,Electric,Truck,1
+Grays Harbor,2024-06,Electric,Exempt (State/County/Local/Tribal),1
+Grays Harbor,2024-06,Electric,Medium-Speed Electric Truck,1
+Grays Harbor,2024-06,Electric,Neighborhood Electric Vehicle,2
+Grays Harbor,2024-06,Electric,Passenger Vehicle,49
+Grays Harbor,2024-06,Electric,Truck,1
+Grays Harbor,2024-07,Electric,Neighborhood Electric Vehicle,1
+Grays Harbor,2024-07,Electric,Off Road Vehicle,1
+Grays Harbor,2024-07,Electric,Passenger Vehicle,45
+Grays Harbor,2024-07,Electric,Truck,3
+Grays Harbor,2024-08,Electric,Neighborhood Electric Vehicle,2
+Grays Harbor,2024-08,Electric,Off Road Vehicle,1
+Grays Harbor,2024-08,Electric,Passenger Vehicle,47
+Grays Harbor,2024-08,Electric,Truck,1
+Grays Harbor,2024-09,Electric,Commercial,1
+Grays Harbor,2024-09,Electric,Exempt (State/County/Local/Tribal),1
+Grays Harbor,2024-09,Electric,Neighborhood Electric Vehicle,2
+Grays Harbor,2024-09,Electric,Off Road Vehicle,1
+Grays Harbor,2024-09,Electric,Passenger Vehicle,55
+Grays Harbor,2024-09,Electric,Truck,1
+Grays Harbor,2024-10,Electric,Exempt (State/County/Local/Tribal),1
+Grays Harbor,2024-10,Electric,Passenger Vehicle,59
+Grays Harbor,2024-10,Electric,Truck,1
+Grays Harbor,2024-11,Electric,Commercial,1
+Grays Harbor,2024-11,Electric,Exempt (State/County/Local/Tribal),1
+Grays Harbor,2024-11,Electric,Neighborhood Electric Vehicle,1
+Grays Harbor,2024-11,Electric,Passenger Vehicle,49
+Grays Harbor,2024-11,Electric,Truck,3
+Grays Harbor,2024-12,Electric,Commercial,1
+Grays Harbor,2024-12,Electric,Passenger Vehicle,48
+Grays Harbor,2024-12,Electric,Truck,3
+Grays Harbor,2025-01,Electric,Passenger Vehicle,56
+Grays Harbor,2025-01,Electric,Truck,2
+Grays Harbor,2025-02,Electric,Commercial,1
+Grays Harbor,2025-02,Electric,Exempt (State/County/Local/Tribal),1
+Grays Harbor,2025-02,Electric,Motorcycle,1
+Grays Harbor,2025-02,Electric,Passenger Vehicle,42
+Grays Harbor,2025-02,Electric,Truck,1
+Island,2023-01,Electric,Passenger Vehicle,112
+Island,2023-01,Electric,Truck,3
+Island,2023-02,Electric,Motorcycle,1
+Island,2023-02,Electric,Passenger Vehicle,85
+Island,2023-02,Electric,Truck,1
+Island,2023-03,Electric,All Terrain Vehicle (WATV),1
+Island,2023-03,Electric,Commercial,1
+Island,2023-03,Electric,Motorcycle,1
+Island,2023-03,Electric,Passenger Vehicle,99
+Island,2023-03,Electric,Truck,3
+Island,2023-04,Electric,Medium-Speed Electric Vehicle,2
+Island,2023-04,Electric,Moped,2
+Island,2023-04,Electric,Motorcycle,1
+Island,2023-04,Electric,Passenger Vehicle,91
+Island,2023-04,Electric,Truck,4
+Island,2023-05,Electric,Medium-Speed Electric Vehicle,1
+Island,2023-05,Electric,Motorcycle,1
+Island,2023-05,Electric,Passenger Vehicle,111
+Island,2023-05,Electric,Truck,3
+Island,2023-06,Electric,Passenger Vehicle,106
+Island,2023-06,Electric,Truck,3
+Island,2023-07,Electric,All Terrain Vehicle (WATV),1
+Island,2023-07,Electric,Commercial,1
+Island,2023-07,Electric,Moped,1
+Island,2023-07,Electric,Passenger Vehicle,118
+Island,2023-07,Electric,Truck,6
+Island,2023-08,Electric,Exempt (State/County/Local/Tribal),1
+Island,2023-08,Electric,Motorcycle,1
+Island,2023-08,Electric,Neighborhood Electric Vehicle,1
+Island,2023-08,Electric,Passenger Vehicle,145
+Island,2023-08,Electric,Truck,3
+Island,2023-09,Electric,Commercial,1
+Island,2023-09,Electric,Medium-Speed Electric Truck,1
+Island,2023-09,Electric,Motorcycle,2
+Island,2023-09,Electric,Off Road Vehicle,1
+Island,2023-09,Electric,Passenger Vehicle,124
+Island,2023-09,Electric,Truck,3
+Island,2023-10,Electric,Commercial,1
+Island,2023-10,Electric,Passenger Vehicle,140
+Island,2023-10,Electric,Truck,4
+Island,2023-11,Electric,All Terrain Vehicle (WATV),1
+Island,2023-11,Electric,Passenger Vehicle,113
+Island,2023-11,Electric,Truck,6
+Island,2023-12,Electric,All Terrain Vehicle (WATV),1
+Island,2023-12,Electric,Neighborhood Electric Vehicle,2
+Island,2023-12,Electric,Passenger Vehicle,139
+Island,2023-12,Electric,Truck,3
+Island,2024-01,Electric,Exempt (State/County/Local/Tribal),2
+Island,2024-01,Electric,Passenger Vehicle,134
+Island,2024-01,Electric,Truck,1
+Island,2024-02,Electric,Commercial,1
+Island,2024-02,Electric,Exempt (State/County/Local/Tribal),3
+Island,2024-02,Electric,Moped,2
+Island,2024-02,Electric,Motorcycle,1
+Island,2024-02,Electric,Passenger Vehicle,104
+Island,2024-02,Electric,Truck,3
+Island,2024-03,Electric,Exempt (State/County/Local/Tribal),1
+Island,2024-03,Electric,Medium-Speed Electric Vehicle,1
+Island,2024-03,Electric,Motorcycle,1
+Island,2024-03,Electric,Passenger Vehicle,134
+Island,2024-03,Electric,Truck,5
+Island,2024-04,Electric,Medium-Speed Electric Vehicle,3
+Island,2024-04,Electric,Motorcycle,1
+Island,2024-04,Electric,Off Road Vehicle,1
+Island,2024-04,Electric,Passenger Vehicle,138
+Island,2024-04,Electric,Truck,3
+Island,2024-05,Electric,Medium-Speed Electric Vehicle,1
+Island,2024-05,Electric,Motorcycle,5
+Island,2024-05,Electric,Neighborhood Electric Vehicle,1
+Island,2024-05,Electric,Off Road Vehicle,1
+Island,2024-05,Electric,Passenger Vehicle,141
+Island,2024-05,Electric,Truck,4
+Island,2024-06,Electric,Commercial,1
+Island,2024-06,Electric,Motorcycle,2
+Island,2024-06,Electric,Neighborhood Electric Vehicle,1
+Island,2024-06,Electric,Passenger Vehicle,148
+Island,2024-06,Electric,Truck,10
+Island,2024-07,Electric,Commercial,1
+Island,2024-07,Electric,Moped,1
+Island,2024-07,Electric,Neighborhood Electric Vehicle,1
+Island,2024-07,Electric,Passenger Vehicle,171
+Island,2024-07,Electric,Truck,8
+Island,2024-08,Electric,Commercial,1
+Island,2024-08,Electric,Medium-Speed Electric Vehicle,1
+Island,2024-08,Electric,Motorcycle,3
+Island,2024-08,Electric,Off Road Vehicle,1
+Island,2024-08,Electric,Passenger Vehicle,193
+Island,2024-08,Electric,Truck,8
+Island,2024-09,Electric,Commercial,1
+Island,2024-09,Electric,Exempt (State/County/Local/Tribal),1
+Island,2024-09,Electric,Passenger Vehicle,152
+Island,2024-09,Electric,Truck,6
+Island,2024-10,Electric,Neighborhood Electric Vehicle,1
+Island,2024-10,Electric,Off Road Vehicle,1
+Island,2024-10,Electric,Passenger Vehicle,184
+Island,2024-10,Electric,Truck,14
+Island,2024-11,Electric,Passenger Vehicle,131
+Island,2024-11,Electric,Truck,2
+Island,2024-12,Electric,Passenger Vehicle,183
+Island,2024-12,Electric,Truck,8
+Island,2025-01,Electric,Commercial,1
+Island,2025-01,Electric,Motorcycle,3
+Island,2025-01,Electric,Passenger Vehicle,178
+Island,2025-01,Electric,Truck,10
+Island,2025-02,Electric,Medium-Speed Electric Vehicle,1
+Island,2025-02,Electric,Motorcycle,1
+Island,2025-02,Electric,Passenger Vehicle,136
+Island,2025-02,Electric,Truck,5
+Jefferson,2023-01,Electric,Motorcycle,1
+Jefferson,2023-01,Electric,Passenger Vehicle,41
+Jefferson,2023-02,Electric,All Terrain Vehicle (WATV),1
+Jefferson,2023-02,Electric,Passenger Vehicle,46
+Jefferson,2023-02,Electric,Truck,3
+Jefferson,2023-03,Electric,All Terrain Vehicle (WATV),1
+Jefferson,2023-03,Electric,Passenger Vehicle,63
+Jefferson,2023-04,Electric,Passenger Vehicle,44
+Jefferson,2023-04,Electric,Truck,1
+Jefferson,2023-05,Electric,Motorcycle,1
+Jefferson,2023-05,Electric,Passenger Vehicle,72
+Jefferson,2023-05,Electric,Truck,4
+Jefferson,2023-06,Electric,Exempt (State/County/Local/Tribal),1
+Jefferson,2023-06,Electric,Medium-Speed Electric Truck,1
+Jefferson,2023-06,Electric,Motorcycle,2
+Jefferson,2023-06,Electric,Passenger Vehicle,52
+Jefferson,2023-06,Electric,Truck,1
+Jefferson,2023-07,Electric,All Terrain Vehicle (WATV),1
+Jefferson,2023-07,Electric,Moped,1
+Jefferson,2023-07,Electric,Motorcycle,3
+Jefferson,2023-07,Electric,Off Road Vehicle,1
+Jefferson,2023-07,Electric,Passenger Vehicle,62
+Jefferson,2023-08,Electric,Commercial,1
+Jefferson,2023-08,Electric,Medium-Speed Electric Vehicle,3
+Jefferson,2023-08,Electric,Motorcycle,2
+Jefferson,2023-08,Electric,Passenger Vehicle,59
+Jefferson,2023-08,Electric,Truck,1
+Jefferson,2023-09,Electric,Motorcycle,1
+Jefferson,2023-09,Electric,Neighborhood Electric Vehicle,1
+Jefferson,2023-09,Electric,Passenger Vehicle,62
+Jefferson,2023-09,Electric,Truck,1
+Jefferson,2023-10,Electric,Motorcycle,1
+Jefferson,2023-10,Electric,Passenger Vehicle,64
+Jefferson,2023-10,Electric,Truck,3
+Jefferson,2023-11,Electric,Passenger Vehicle,57
+Jefferson,2023-11,Electric,Truck,1
+Jefferson,2023-12,Electric,Commercial,1
+Jefferson,2023-12,Electric,Exempt (State/County/Local/Tribal),1
+Jefferson,2023-12,Electric,Motorcycle,1
+Jefferson,2023-12,Electric,Passenger Vehicle,67
+Jefferson,2023-12,Electric,Truck,4
+Jefferson,2024-01,Electric,Motorcycle,1
+Jefferson,2024-01,Electric,Passenger Vehicle,59
+Jefferson,2024-01,Electric,Truck,3
+Jefferson,2024-02,Electric,Passenger Vehicle,59
+Jefferson,2024-02,Electric,Truck,1
+Jefferson,2024-03,Electric,All Terrain Vehicle (WATV),1
+Jefferson,2024-03,Electric,Motorcycle,1
+Jefferson,2024-03,Electric,Passenger Vehicle,63
+Jefferson,2024-03,Electric,Truck,1
+Jefferson,2024-04,Electric,Passenger Vehicle,78
+Jefferson,2024-04,Electric,Truck,3
+Jefferson,2024-05,Electric,Medium-Speed Electric Vehicle,1
+Jefferson,2024-05,Electric,Motorcycle,2
+Jefferson,2024-05,Electric,Passenger Vehicle,86
+Jefferson,2024-05,Electric,Truck,3
+Jefferson,2024-06,Electric,Medium-Speed Electric Truck,1
+Jefferson,2024-06,Electric,Motorcycle,2
+Jefferson,2024-06,Electric,Off Road Vehicle,1
+Jefferson,2024-06,Electric,Passenger Vehicle,65
+Jefferson,2024-06,Electric,Truck,3
+Jefferson,2024-07,Electric,Medium-Speed Electric Vehicle,1
+Jefferson,2024-07,Electric,Moped,1
+Jefferson,2024-07,Electric,Motorcycle,2
+Jefferson,2024-07,Electric,Off Road Vehicle,1
+Jefferson,2024-07,Electric,Passenger Vehicle,66
+Jefferson,2024-07,Electric,Truck,3
+Jefferson,2024-08,Electric,Commercial,1
+Jefferson,2024-08,Electric,Exempt (State/County/Local/Tribal),2
+Jefferson,2024-08,Electric,Motorcycle,1
+Jefferson,2024-08,Electric,Neighborhood Electric Vehicle,1
+Jefferson,2024-08,Electric,Passenger Vehicle,76
+Jefferson,2024-08,Electric,Truck,1
+Jefferson,2024-09,Electric,Motorcycle,1
+Jefferson,2024-09,Electric,Passenger Vehicle,81
+Jefferson,2024-09,Electric,Truck,1
+Jefferson,2024-10,Electric,Motorcycle,1
+Jefferson,2024-10,Electric,Passenger Vehicle,87
+Jefferson,2024-10,Electric,Truck,5
+Jefferson,2024-11,Electric,Exempt (State/County/Local/Tribal),1
+Jefferson,2024-11,Electric,Motorcycle,1
+Jefferson,2024-11,Electric,Passenger Vehicle,68
+Jefferson,2024-11,Electric,Truck,3
+Jefferson,2024-12,Electric,Exempt (State/County/Local/Tribal),1
+Jefferson,2024-12,Electric,Passenger Vehicle,72
+Jefferson,2024-12,Electric,Truck,6
+Jefferson,2025-01,Electric,Commercial,1
+Jefferson,2025-01,Electric,Motorcycle,1
+Jefferson,2025-01,Electric,Passenger Vehicle,83
+Jefferson,2025-01,Electric,Truck,1
+Jefferson,2025-02,Electric,Passenger Vehicle,73
+Jefferson,2025-02,Electric,Truck,1
+King,2023-01,Electric,All Terrain Vehicle (WATV),1
+King,2023-01,Electric,Commercial,35
+King,2023-01,Electric,Exempt (State/County/Local/Tribal),16
+King,2023-01,Electric,Medium-Speed Electric Truck,3
+King,2023-01,Electric,Medium-Speed Electric Vehicle,3
+King,2023-01,Electric,Motorcycle,15
+King,2023-01,Electric,Neighborhood Electric Vehicle,14
+King,2023-01,Electric,Off Road Vehicle,1
+King,2023-01,Electric,Passenger Vehicle,4938
+King,2023-01,Electric,Truck,93
+King,2023-02,Electric,Commercial,15
+King,2023-02,Electric,Exempt (State/County/Local/Tribal),23
+King,2023-02,Electric,For Hire,1
+King,2023-02,Electric,Medium-Speed Electric Truck,1
+King,2023-02,Electric,Medium-Speed Electric Vehicle,2
+King,2023-02,Electric,Moped,1
+King,2023-02,Electric,Motorcycle,23
+King,2023-02,Electric,Neighborhood Electric Truck,9
+King,2023-02,Electric,Neighborhood Electric Vehicle,2
+King,2023-02,Electric,Off Road Vehicle,3
+King,2023-02,Electric,Passenger Vehicle,4597
+King,2023-02,Electric,Truck,48
+King,2023-03,Electric,Commercial,31
+King,2023-03,Electric,Exempt (State/County/Local/Tribal),25
+King,2023-03,Electric,Medium-Speed Electric Truck,5
+King,2023-03,Electric,Medium-Speed Electric Vehicle,5
+King,2023-03,Electric,Moped,1
+King,2023-03,Electric,Motorcycle,27
+King,2023-03,Electric,Neighborhood Electric Truck,3
+King,2023-03,Electric,Neighborhood Electric Vehicle,8
+King,2023-03,Electric,Passenger Vehicle,5294
+King,2023-03,Electric,Truck,86
+King,2023-04,Electric,Commercial,9
+King,2023-04,Electric,Exempt (State/County/Local/Tribal),26
+King,2023-04,Electric,Medium-Speed Electric Truck,2
+King,2023-04,Electric,Medium-Speed Electric Vehicle,4
+King,2023-04,Electric,Moped,1
+King,2023-04,Electric,Motorcycle,21
+King,2023-04,Electric,Neighborhood Electric Truck,1
+King,2023-04,Electric,Neighborhood Electric Vehicle,10
+King,2023-04,Electric,Off Road Vehicle,7
+King,2023-04,Electric,Passenger Vehicle,5041
+King,2023-04,Electric,Truck,88
+King,2023-05,Electric,All Terrain Vehicle (WATV),1
+King,2023-05,Electric,Commercial,28
+King,2023-05,Electric,Exempt (State/County/Local/Tribal),9
+King,2023-05,Electric,Medium-Speed Electric Vehicle,1
+King,2023-05,Electric,Moped,5
+King,2023-05,Electric,Motorcycle,21
+King,2023-05,Electric,Motorhome,1
+King,2023-05,Electric,Neighborhood Electric Vehicle,12
+King,2023-05,Electric,Off Road Vehicle,3
+King,2023-05,Electric,Passenger Vehicle,5868
+King,2023-05,Electric,Truck,70
+King,2023-06,Electric,All Terrain Vehicle (WATV),1
+King,2023-06,Electric,Commercial,46
+King,2023-06,Electric,Exempt (State/County/Local/Tribal),44
+King,2023-06,Electric,Medium-Speed Electric Truck,2
+King,2023-06,Electric,Medium-Speed Electric Vehicle,4
+King,2023-06,Electric,Moped,5
+King,2023-06,Electric,Motorcycle,32
+King,2023-06,Electric,Neighborhood Electric Vehicle,9
+King,2023-06,Electric,Off Road Vehicle,1
+King,2023-06,Electric,Passenger Vehicle,6263
+King,2023-06,Electric,Truck,77
+King,2023-07,Electric,Commercial,40
+King,2023-07,Electric,Exempt (State/County/Local/Tribal),22
+King,2023-07,Electric,Medium-Speed Electric Truck,1
+King,2023-07,Electric,Medium-Speed Electric Vehicle,5
+King,2023-07,Electric,Moped,5
+King,2023-07,Electric,Motorcycle,27
+King,2023-07,Electric,Neighborhood Electric Vehicle,8
+King,2023-07,Electric,Off Road Vehicle,6
+King,2023-07,Electric,Passenger Vehicle,6097
+King,2023-07,Electric,Truck,140
+King,2023-08,Electric,Commercial,89
+King,2023-08,Electric,Exempt (State/County/Local/Tribal),11
+King,2023-08,Electric,Medium-Speed Electric Truck,4
+King,2023-08,Electric,Medium-Speed Electric Vehicle,1
+King,2023-08,Electric,Moped,5
+King,2023-08,Electric,Motorcycle,23
+King,2023-08,Electric,Neighborhood Electric Vehicle,9
+King,2023-08,Electric,Off Road Vehicle,1
+King,2023-08,Electric,Passenger Vehicle,8008
+King,2023-08,Electric,Truck,103
+King,2023-09,Electric,All Terrain Vehicle (WATV),1
+King,2023-09,Electric,Antique Vehicle,2
+King,2023-09,Electric,Commercial,47
+King,2023-09,Electric,Exempt (State/County/Local/Tribal),35
+King,2023-09,Electric,For Hire,2
+King,2023-09,Electric,Medium-Speed Electric Truck,4
+King,2023-09,Electric,Medium-Speed Electric Vehicle,4
+King,2023-09,Electric,Moped,1
+King,2023-09,Electric,Motorcycle,30
+King,2023-09,Electric,Neighborhood Electric Truck,2
+King,2023-09,Electric,Neighborhood Electric Vehicle,4
+King,2023-09,Electric,Off Road Vehicle,8
+King,2023-09,Electric,Passenger Vehicle,7343
+King,2023-09,Electric,Truck,96
+King,2023-10,Electric,All Terrain Vehicle (WATV),1
+King,2023-10,Electric,Commercial,28
+King,2023-10,Electric,Exempt (State/County/Local/Tribal),19
+King,2023-10,Electric,For Hire,2
+King,2023-10,Electric,Medium-Speed Electric Vehicle,1
+King,2023-10,Electric,Moped,3
+King,2023-10,Electric,Motorcycle,12
+King,2023-10,Electric,Neighborhood Electric Truck,1
+King,2023-10,Electric,Neighborhood Electric Vehicle,5
+King,2023-10,Electric,Off Road Vehicle,3
+King,2023-10,Electric,Passenger Vehicle,7157
+King,2023-10,Electric,Truck,97
+King,2023-11,Electric,All Terrain Vehicle (WATV),1
+King,2023-11,Electric,Commercial,70
+King,2023-11,Electric,Exempt (State/County/Local/Tribal),20
+King,2023-11,Electric,For Hire,2
+King,2023-11,Electric,Medium-Speed Electric Truck,3
+King,2023-11,Electric,Medium-Speed Electric Vehicle,4
+King,2023-11,Electric,Motorcycle,13
+King,2023-11,Electric,Neighborhood Electric Truck,7
+King,2023-11,Electric,Neighborhood Electric Vehicle,9
+King,2023-11,Electric,Off Road Vehicle,5
+King,2023-11,Electric,Passenger Vehicle,6398
+King,2023-11,Electric,Truck,116
+King,2023-12,Electric,Commercial,60
+King,2023-12,Electric,Exempt (State/County/Local/Tribal),26
+King,2023-12,Electric,For Hire,3
+King,2023-12,Electric,Medium-Speed Electric Truck,3
+King,2023-12,Electric,Medium-Speed Electric Vehicle,5
+King,2023-12,Electric,Motorcycle,20
+King,2023-12,Electric,Neighborhood Electric Truck,3
+King,2023-12,Electric,Neighborhood Electric Vehicle,11
+King,2023-12,Electric,Off Road Vehicle,3
+King,2023-12,Electric,Passenger Vehicle,6542
+King,2023-12,Electric,Truck,163
+King,2024-01,Electric,All Terrain Vehicle (WATV),1
+King,2024-01,Electric,Commercial,95
+King,2024-01,Electric,Exempt (State/County/Local/Tribal),34
+King,2024-01,Electric,For Hire,3
+King,2024-01,Electric,Medium-Speed Electric Truck,4
+King,2024-01,Electric,Motorcycle,23
+King,2024-01,Electric,Neighborhood Electric Vehicle,18
+King,2024-01,Electric,Off Road Vehicle,6
+King,2024-01,Electric,Passenger Vehicle,7222
+King,2024-01,Electric,Snowmobile,1
+King,2024-01,Electric,Truck,133
+King,2024-02,Electric,Commercial,120
+King,2024-02,Electric,Exempt (State/County/Local/Tribal),46
+King,2024-02,Electric,For Hire,1
+King,2024-02,Electric,Medium-Speed Electric Truck,1
+King,2024-02,Electric,Medium-Speed Electric Vehicle,1
+King,2024-02,Electric,Motorcycle,30
+King,2024-02,Electric,Neighborhood Electric Vehicle,2
+King,2024-02,Electric,Off Road Vehicle,1
+King,2024-02,Electric,Passenger Vehicle,6720
+King,2024-02,Electric,Snowmobile,1
+King,2024-02,Electric,Truck,120
+King,2024-03,Electric,All Terrain Vehicle (WATV),1
+King,2024-03,Electric,Commercial,50
+King,2024-03,Electric,Exempt (State/County/Local/Tribal),21
+King,2024-03,Electric,For Hire,1
+King,2024-03,Electric,Medium-Speed Electric Truck,1
+King,2024-03,Electric,Medium-Speed Electric Vehicle,6
+King,2024-03,Electric,Moped,2
+King,2024-03,Electric,Motorcycle,28
+King,2024-03,Electric,Neighborhood Electric Vehicle,8
+King,2024-03,Electric,Off Road Vehicle,3
+King,2024-03,Electric,Passenger Vehicle,6747
+King,2024-03,Electric,Truck,100
+King,2024-04,Electric,All Terrain Vehicle (WATV),1
+King,2024-04,Electric,Commercial,64
+King,2024-04,Electric,Exempt (State/County/Local/Tribal),15
+King,2024-04,Electric,Medium-Speed Electric Truck,5
+King,2024-04,Electric,Medium-Speed Electric Vehicle,4
+King,2024-04,Electric,Moped,5
+King,2024-04,Electric,Motorcycle,27
+King,2024-04,Electric,Neighborhood Electric Truck,3
+King,2024-04,Electric,Neighborhood Electric Vehicle,11
+King,2024-04,Electric,Off Road Vehicle,11
+King,2024-04,Electric,Passenger Vehicle,6936
+King,2024-04,Electric,Truck,139
+King,2024-05,Electric,All Terrain Vehicle (WATV),1
+King,2024-05,Electric,Cab,1
+King,2024-05,Electric,Commercial,95
+King,2024-05,Electric,Exempt (State/County/Local/Tribal),18
+King,2024-05,Electric,Medium-Speed Electric Truck,1
+King,2024-05,Electric,Medium-Speed Electric Vehicle,2
+King,2024-05,Electric,Moped,5
+King,2024-05,Electric,Motorcycle,27
+King,2024-05,Electric,Motorhome,1
+King,2024-05,Electric,Neighborhood Electric Truck,10
+King,2024-05,Electric,Neighborhood Electric Vehicle,16
+King,2024-05,Electric,Off Road Vehicle,3
+King,2024-05,Electric,Passenger Vehicle,8570
+King,2024-05,Electric,Truck,159
+King,2024-06,Electric,All Terrain Vehicle (WATV),2
+King,2024-06,Electric,Commercial,94
+King,2024-06,Electric,Exempt (State/County/Local/Tribal),21
+King,2024-06,Electric,Medium-Speed Electric Truck,1
+King,2024-06,Electric,Medium-Speed Electric Vehicle,5
+King,2024-06,Electric,Moped,6
+King,2024-06,Electric,Motorcycle,29
+King,2024-06,Electric,Neighborhood Electric Vehicle,9
+King,2024-06,Electric,Off Road Vehicle,7
+King,2024-06,Electric,Passenger Vehicle,7326
+King,2024-06,Electric,Truck,162
+King,2024-07,Electric,All Terrain Vehicle (WATV),1
+King,2024-07,Electric,Commercial,145
+King,2024-07,Electric,Exempt (State/County/Local/Tribal),24
+King,2024-07,Electric,Medium-Speed Electric Truck,1
+King,2024-07,Electric,Medium-Speed Electric Vehicle,3
+King,2024-07,Electric,Moped,2
+King,2024-07,Electric,Motorcycle,24
+King,2024-07,Electric,Neighborhood Electric Truck,1
+King,2024-07,Electric,Neighborhood Electric Vehicle,10
+King,2024-07,Electric,Off Road Vehicle,4
+King,2024-07,Electric,Passenger Vehicle,8428
+King,2024-07,Electric,Truck,264
+King,2024-08,Electric,Antique Vehicle,1
+King,2024-08,Electric,Commercial,112
+King,2024-08,Electric,Exempt (State/County/Local/Tribal),34
+King,2024-08,Electric,For Hire,1
+King,2024-08,Electric,Medium-Speed Electric Truck,4
+King,2024-08,Electric,Medium-Speed Electric Vehicle,3
+King,2024-08,Electric,Moped,4
+King,2024-08,Electric,Motorcycle,31
+King,2024-08,Electric,Neighborhood Electric Truck,1
+King,2024-08,Electric,Neighborhood Electric Vehicle,5
+King,2024-08,Electric,Off Road Vehicle,7
+King,2024-08,Electric,Passenger Vehicle,9184
+King,2024-08,Electric,Truck,266
+King,2024-09,Electric,Commercial,110
+King,2024-09,Electric,Exempt (State/County/Local/Tribal),13
+King,2024-09,Electric,For Hire,2
+King,2024-09,Electric,Medium-Speed Electric Truck,5
+King,2024-09,Electric,Medium-Speed Electric Vehicle,6
+King,2024-09,Electric,Moped,3
+King,2024-09,Electric,Motorcycle,15
+King,2024-09,Electric,Neighborhood Electric Truck,1
+King,2024-09,Electric,Neighborhood Electric Vehicle,8
+King,2024-09,Electric,Off Road Vehicle,3
+King,2024-09,Electric,Passenger Vehicle,9025
+King,2024-09,Electric,Snowmobile,1
+King,2024-09,Electric,Truck,265
+King,2024-10,Electric,Commercial,125
+King,2024-10,Electric,Exempt (State/County/Local/Tribal),18
+King,2024-10,Electric,For Hire,3
+King,2024-10,Electric,Medium-Speed Electric Truck,2
+King,2024-10,Electric,Medium-Speed Electric Vehicle,3
+King,2024-10,Electric,Moped,1
+King,2024-10,Electric,Motorcycle,14
+King,2024-10,Electric,Neighborhood Electric Truck,1
+King,2024-10,Electric,Neighborhood Electric Vehicle,5
+King,2024-10,Electric,Off Road Vehicle,3
+King,2024-10,Electric,Passenger Vehicle,9369
+King,2024-10,Electric,Snowmobile,2
+King,2024-10,Electric,Truck,222
+King,2024-11,Electric,All Terrain Vehicle (WATV),1
+King,2024-11,Electric,Commercial,152
+King,2024-11,Electric,Exempt (State/County/Local/Tribal),20
+King,2024-11,Electric,For Hire,1
+King,2024-11,Electric,Medium-Speed Electric Vehicle,6
+King,2024-11,Electric,Moped,3
+King,2024-11,Electric,Motorcycle,12
+King,2024-11,Electric,Neighborhood Electric Truck,6
+King,2024-11,Electric,Neighborhood Electric Vehicle,11
+King,2024-11,Electric,Off Road Vehicle,3
+King,2024-11,Electric,Passenger Vehicle,7785
+King,2024-11,Electric,Truck,169
+King,2024-12,Electric,All Terrain Vehicle (WATV),1
+King,2024-12,Electric,Commercial,114
+King,2024-12,Electric,Exempt (State/County/Local/Tribal),11
+King,2024-12,Electric,For Hire,5
+King,2024-12,Electric,Medium-Speed Electric Truck,4
+King,2024-12,Electric,Medium-Speed Electric Vehicle,1
+King,2024-12,Electric,Moped,1
+King,2024-12,Electric,Motorcycle,21
+King,2024-12,Electric,Neighborhood Electric Truck,3
+King,2024-12,Electric,Neighborhood Electric Vehicle,20
+King,2024-12,Electric,Off Road Vehicle,7
+King,2024-12,Electric,Passenger Vehicle,9159
+King,2024-12,Electric,Snowmobile,1
+King,2024-12,Electric,Truck,257
+King,2025-01,Electric,All Terrain Vehicle (WATV),1
+King,2025-01,Electric,Commercial,90
+King,2025-01,Electric,Exempt (State/County/Local/Tribal),55
+King,2025-01,Electric,For Hire,3
+King,2025-01,Electric,Medium-Speed Electric Truck,3
+King,2025-01,Electric,Medium-Speed Electric Vehicle,2
+King,2025-01,Electric,Moped,1
+King,2025-01,Electric,Motorcycle,21
+King,2025-01,Electric,Neighborhood Electric Vehicle,2
+King,2025-01,Electric,Off Road Vehicle,9
+King,2025-01,Electric,Passenger Vehicle,9240
+King,2025-01,Electric,Truck,326
+King,2025-02,Electric,Cab,1
+King,2025-02,Electric,Combination (Non-Farm Use),2
+King,2025-02,Electric,Commercial,86
+King,2025-02,Electric,Exempt (State/County/Local/Tribal),100
+King,2025-02,Electric,For Hire,3
+King,2025-02,Electric,Medium-Speed Electric Vehicle,3
+King,2025-02,Electric,Moped,2
+King,2025-02,Electric,Motorcycle,11
+King,2025-02,Electric,Neighborhood Electric Vehicle,8
+King,2025-02,Electric,Off Road Vehicle,1
+King,2025-02,Electric,Passenger Vehicle,6962
+King,2025-02,Electric,Snowmobile,1
+King,2025-02,Electric,Truck,167
+Kitsap,2023-01,Electric,Commercial,3
+Kitsap,2023-01,Electric,Medium-Speed Electric Truck,1
+Kitsap,2023-01,Electric,Moped,1
+Kitsap,2023-01,Electric,Motorcycle,5
+Kitsap,2023-01,Electric,Neighborhood Electric Vehicle,1
+Kitsap,2023-01,Electric,Passenger Vehicle,287
+Kitsap,2023-01,Electric,Truck,7
+Kitsap,2023-02,Electric,Commercial,3
+Kitsap,2023-02,Electric,Motorcycle,2
+Kitsap,2023-02,Electric,Neighborhood Electric Vehicle,1
+Kitsap,2023-02,Electric,Off Road Vehicle,1
+Kitsap,2023-02,Electric,Passenger Vehicle,248
+Kitsap,2023-02,Electric,Truck,4
+Kitsap,2023-03,Electric,Commercial,14
+Kitsap,2023-03,Electric,Exempt (State/County/Local/Tribal),5
+Kitsap,2023-03,Electric,Motorcycle,3
+Kitsap,2023-03,Electric,Passenger Vehicle,297
+Kitsap,2023-03,Electric,Truck,12
+Kitsap,2023-04,Electric,Medium-Speed Electric Truck,1
+Kitsap,2023-04,Electric,Moped,1
+Kitsap,2023-04,Electric,Neighborhood Electric Vehicle,1
+Kitsap,2023-04,Electric,Off Road Vehicle,2
+Kitsap,2023-04,Electric,Passenger Vehicle,310
+Kitsap,2023-04,Electric,Truck,7
+Kitsap,2023-05,Electric,Commercial,3
+Kitsap,2023-05,Electric,Exempt (State/County/Local/Tribal),1
+Kitsap,2023-05,Electric,Medium-Speed Electric Truck,1
+Kitsap,2023-05,Electric,Medium-Speed Electric Vehicle,1
+Kitsap,2023-05,Electric,Moped,1
+Kitsap,2023-05,Electric,Motorcycle,3
+Kitsap,2023-05,Electric,Off Road Vehicle,3
+Kitsap,2023-05,Electric,Passenger Vehicle,320
+Kitsap,2023-05,Electric,Truck,7
+Kitsap,2023-06,Electric,Commercial,26
+Kitsap,2023-06,Electric,Exempt (State/County/Local/Tribal),3
+Kitsap,2023-06,Electric,Motorcycle,8
+Kitsap,2023-06,Electric,Neighborhood Electric Truck,1
+Kitsap,2023-06,Electric,Off Road Vehicle,4
+Kitsap,2023-06,Electric,Passenger Vehicle,348
+Kitsap,2023-06,Electric,Truck,11
+Kitsap,2023-07,Electric,Commercial,8
+Kitsap,2023-07,Electric,Exempt (State/County/Local/Tribal),1
+Kitsap,2023-07,Electric,Medium-Speed Electric Vehicle,1
+Kitsap,2023-07,Electric,Motorcycle,8
+Kitsap,2023-07,Electric,Neighborhood Electric Vehicle,3
+Kitsap,2023-07,Electric,Off Road Vehicle,4
+Kitsap,2023-07,Electric,Passenger Vehicle,344
+Kitsap,2023-07,Electric,Truck,12
+Kitsap,2023-08,Electric,Commercial,3
+Kitsap,2023-08,Electric,Exempt (State/County/Local/Tribal),3
+Kitsap,2023-08,Electric,Medium-Speed Electric Truck,1
+Kitsap,2023-08,Electric,Medium-Speed Electric Vehicle,1
+Kitsap,2023-08,Electric,Motorcycle,3
+Kitsap,2023-08,Electric,Neighborhood Electric Vehicle,5
+Kitsap,2023-08,Electric,Off Road Vehicle,4
+Kitsap,2023-08,Electric,Passenger Vehicle,410
+Kitsap,2023-08,Electric,Truck,12
+Kitsap,2023-09,Electric,Commercial,1
+Kitsap,2023-09,Electric,Exempt (State/County/Local/Tribal),1
+Kitsap,2023-09,Electric,Motorcycle,7
+Kitsap,2023-09,Electric,Off Road Vehicle,2
+Kitsap,2023-09,Electric,Passenger Vehicle,429
+Kitsap,2023-09,Electric,Truck,3
+Kitsap,2023-10,Electric,All Terrain Vehicle (WATV),1
+Kitsap,2023-10,Electric,Commercial,6
+Kitsap,2023-10,Electric,Medium-Speed Electric Truck,1
+Kitsap,2023-10,Electric,Medium-Speed Electric Vehicle,1
+Kitsap,2023-10,Electric,Motorcycle,1
+Kitsap,2023-10,Electric,Neighborhood Electric Vehicle,1
+Kitsap,2023-10,Electric,Off Road Vehicle,1
+Kitsap,2023-10,Electric,Passenger Vehicle,397
+Kitsap,2023-10,Electric,Truck,10
+Kitsap,2023-11,Electric,All Terrain Vehicle (WATV),2
+Kitsap,2023-11,Electric,Commercial,1
+Kitsap,2023-11,Electric,Motorcycle,1
+Kitsap,2023-11,Electric,Neighborhood Electric Vehicle,1
+Kitsap,2023-11,Electric,Passenger Vehicle,387
+Kitsap,2023-11,Electric,Truck,11
+Kitsap,2023-12,Electric,Commercial,8
+Kitsap,2023-12,Electric,Exempt (State/County/Local/Tribal),5
+Kitsap,2023-12,Electric,Medium-Speed Electric Truck,1
+Kitsap,2023-12,Electric,Motorcycle,1
+Kitsap,2023-12,Electric,Passenger Vehicle,354
+Kitsap,2023-12,Electric,Truck,14
+Kitsap,2024-01,Electric,Commercial,3
+Kitsap,2024-01,Electric,Exempt (State/County/Local/Tribal),1
+Kitsap,2024-01,Electric,For Hire,1
+Kitsap,2024-01,Electric,Medium-Speed Electric Truck,1
+Kitsap,2024-01,Electric,Moped,1
+Kitsap,2024-01,Electric,Motorcycle,5
+Kitsap,2024-01,Electric,Neighborhood Electric Vehicle,1
+Kitsap,2024-01,Electric,Off Road Vehicle,2
+Kitsap,2024-01,Electric,Passenger Vehicle,408
+Kitsap,2024-01,Electric,Truck,17
+Kitsap,2024-02,Electric,Commercial,20
+Kitsap,2024-02,Electric,Exempt (State/County/Local/Tribal),4
+Kitsap,2024-02,Electric,Motorcycle,5
+Kitsap,2024-02,Electric,Neighborhood Electric Vehicle,1
+Kitsap,2024-02,Electric,Off Road Vehicle,2
+Kitsap,2024-02,Electric,Passenger Vehicle,386
+Kitsap,2024-02,Electric,Truck,17
+Kitsap,2024-03,Electric,Commercial,13
+Kitsap,2024-03,Electric,Exempt (State/County/Local/Tribal),2
+Kitsap,2024-03,Electric,Motorcycle,6
+Kitsap,2024-03,Electric,Off Road Vehicle,1
+Kitsap,2024-03,Electric,Passenger Vehicle,368
+Kitsap,2024-03,Electric,Truck,9
+Kitsap,2024-04,Electric,Commercial,5
+Kitsap,2024-04,Electric,Exempt (State/County/Local/Tribal),4
+Kitsap,2024-04,Electric,Medium-Speed Electric Vehicle,1
+Kitsap,2024-04,Electric,Moped,2
+Kitsap,2024-04,Electric,Motorcycle,2
+Kitsap,2024-04,Electric,Off Road Vehicle,2
+Kitsap,2024-04,Electric,Passenger Vehicle,460
+Kitsap,2024-04,Electric,Truck,17
+Kitsap,2024-05,Electric,Commercial,2
+Kitsap,2024-05,Electric,Medium-Speed Electric Truck,1
+Kitsap,2024-05,Electric,Moped,1
+Kitsap,2024-05,Electric,Motorcycle,5
+Kitsap,2024-05,Electric,Neighborhood Electric Vehicle,1
+Kitsap,2024-05,Electric,Off Road Vehicle,2
+Kitsap,2024-05,Electric,Passenger Vehicle,501
+Kitsap,2024-05,Electric,Truck,13
+Kitsap,2024-06,Electric,Commercial,54
+Kitsap,2024-06,Electric,Exempt (State/County/Local/Tribal),1
+Kitsap,2024-06,Electric,Moped,1
+Kitsap,2024-06,Electric,Motorcycle,9
+Kitsap,2024-06,Electric,Neighborhood Electric Truck,1
+Kitsap,2024-06,Electric,Off Road Vehicle,1
+Kitsap,2024-06,Electric,Passenger Vehicle,464
+Kitsap,2024-06,Electric,Truck,13
+Kitsap,2024-07,Electric,Commercial,19
+Kitsap,2024-07,Electric,Exempt (State/County/Local/Tribal),3
+Kitsap,2024-07,Electric,Medium-Speed Electric Truck,1
+Kitsap,2024-07,Electric,Medium-Speed Electric Vehicle,2
+Kitsap,2024-07,Electric,Motorcycle,5
+Kitsap,2024-07,Electric,Neighborhood Electric Vehicle,4
+Kitsap,2024-07,Electric,Off Road Vehicle,3
+Kitsap,2024-07,Electric,Passenger Vehicle,482
+Kitsap,2024-07,Electric,Truck,28
+Kitsap,2024-08,Electric,Commercial,3
+Kitsap,2024-08,Electric,Exempt (State/County/Local/Tribal),4
+Kitsap,2024-08,Electric,Medium-Speed Electric Vehicle,1
+Kitsap,2024-08,Electric,Motorcycle,4
+Kitsap,2024-08,Electric,Neighborhood Electric Vehicle,3
+Kitsap,2024-08,Electric,Off Road Vehicle,3
+Kitsap,2024-08,Electric,Passenger Vehicle,530
+Kitsap,2024-08,Electric,Truck,27
+Kitsap,2024-09,Electric,All Terrain Vehicle (WATV),2
+Kitsap,2024-09,Electric,Commercial,8
+Kitsap,2024-09,Electric,Exempt (State/County/Local/Tribal),11
+Kitsap,2024-09,Electric,Medium-Speed Electric Truck,1
+Kitsap,2024-09,Electric,Motorcycle,2
+Kitsap,2024-09,Electric,Neighborhood Electric Vehicle,1
+Kitsap,2024-09,Electric,Off Road Vehicle,3
+Kitsap,2024-09,Electric,Passenger Vehicle,522
+Kitsap,2024-09,Electric,Truck,19
+Kitsap,2024-10,Electric,Commercial,13
+Kitsap,2024-10,Electric,Exempt (State/County/Local/Tribal),1
+Kitsap,2024-10,Electric,Medium-Speed Electric Truck,2
+Kitsap,2024-10,Electric,Motorcycle,5
+Kitsap,2024-10,Electric,Off Road Vehicle,2
+Kitsap,2024-10,Electric,Passenger Vehicle,531
+Kitsap,2024-10,Electric,Truck,26
+Kitsap,2024-11,Electric,All Terrain Vehicle (WATV),1
+Kitsap,2024-11,Electric,Commercial,10
+Kitsap,2024-11,Electric,Exempt (State/County/Local/Tribal),6
+Kitsap,2024-11,Electric,Medium-Speed Electric Truck,1
+Kitsap,2024-11,Electric,Medium-Speed Electric Vehicle,1
+Kitsap,2024-11,Electric,Motorcycle,2
+Kitsap,2024-11,Electric,Off Road Vehicle,2
+Kitsap,2024-11,Electric,Passenger Vehicle,437
+Kitsap,2024-11,Electric,Truck,16
+Kitsap,2024-12,Electric,Commercial,17
+Kitsap,2024-12,Electric,Medium-Speed Electric Truck,1
+Kitsap,2024-12,Electric,Medium-Speed Electric Vehicle,1
+Kitsap,2024-12,Electric,Motorcycle,4
+Kitsap,2024-12,Electric,Off Road Vehicle,1
+Kitsap,2024-12,Electric,Passenger Vehicle,517
+Kitsap,2024-12,Electric,Truck,26
+Kitsap,2025-01,Electric,Commercial,3
+Kitsap,2025-01,Electric,Exempt (State/County/Local/Tribal),1
+Kitsap,2025-01,Electric,Medium-Speed Electric Truck,1
+Kitsap,2025-01,Electric,Motorcycle,5
+Kitsap,2025-01,Electric,Neighborhood Electric Vehicle,1
+Kitsap,2025-01,Electric,Off Road Vehicle,2
+Kitsap,2025-01,Electric,Passenger Vehicle,601
+Kitsap,2025-01,Electric,Truck,35
+Kitsap,2025-02,Electric,Commercial,7
+Kitsap,2025-02,Electric,Medium-Speed Electric Truck,1
+Kitsap,2025-02,Electric,Motorcycle,2
+Kitsap,2025-02,Electric,Neighborhood Electric Vehicle,4
+Kitsap,2025-02,Electric,Off Road Vehicle,2
+Kitsap,2025-02,Electric,Passenger Vehicle,446
+Kitsap,2025-02,Electric,Truck,21
+Kittitas,2023-01,Electric,Commercial,1
+Kittitas,2023-01,Electric,Off Road Vehicle,1
+Kittitas,2023-01,Electric,Passenger Vehicle,28
+Kittitas,2023-01,Electric,Truck,1
+Kittitas,2023-02,Electric,Commercial,1
+Kittitas,2023-02,Electric,Passenger Vehicle,25
+Kittitas,2023-02,Electric,Truck,1
+Kittitas,2023-03,Electric,Passenger Vehicle,42
+Kittitas,2023-03,Electric,Truck,1
+Kittitas,2023-04,Electric,Motorcycle,2
+Kittitas,2023-04,Electric,Passenger Vehicle,22
+Kittitas,2023-04,Electric,Truck,1
+Kittitas,2023-05,Electric,All Terrain Vehicle (WATV),1
+Kittitas,2023-05,Electric,Motorcycle,3
+Kittitas,2023-05,Electric,Neighborhood Electric Vehicle,1
+Kittitas,2023-05,Electric,Off Road Vehicle,2
+Kittitas,2023-05,Electric,Passenger Vehicle,42
+Kittitas,2023-05,Electric,Truck,1
+Kittitas,2023-06,Electric,Motorcycle,1
+Kittitas,2023-06,Electric,Neighborhood Electric Vehicle,1
+Kittitas,2023-06,Electric,Off Road Vehicle,1
+Kittitas,2023-06,Electric,Passenger Vehicle,46
+Kittitas,2023-07,Electric,Commercial,1
+Kittitas,2023-07,Electric,Neighborhood Electric Vehicle,1
+Kittitas,2023-07,Electric,Passenger Vehicle,35
+Kittitas,2023-07,Electric,Truck,3
+Kittitas,2023-08,Electric,Passenger Vehicle,44
+Kittitas,2023-08,Electric,Truck,2
+Kittitas,2023-09,Electric,All Terrain Vehicle (WATV),1
+Kittitas,2023-09,Electric,Commercial,1
+Kittitas,2023-09,Electric,Medium-Speed Electric Truck,1
+Kittitas,2023-09,Electric,Neighborhood Electric Vehicle,1
+Kittitas,2023-09,Electric,Passenger Vehicle,49
+Kittitas,2023-09,Electric,Truck,1
+Kittitas,2023-10,Electric,Exempt (State/County/Local/Tribal),1
+Kittitas,2023-10,Electric,Motorcycle,1
+Kittitas,2023-10,Electric,Passenger Vehicle,46
+Kittitas,2023-10,Electric,Truck,1
+Kittitas,2023-11,Electric,Passenger Vehicle,47
+Kittitas,2023-11,Electric,Truck,6
+Kittitas,2023-12,Electric,Off Road Vehicle,1
+Kittitas,2023-12,Electric,Passenger Vehicle,45
+Kittitas,2023-12,Electric,Truck,5
+Kittitas,2024-01,Electric,Off Road Vehicle,1
+Kittitas,2024-01,Electric,Passenger Vehicle,40
+Kittitas,2024-01,Electric,Snowmobile,15
+Kittitas,2024-01,Electric,Truck,1
+Kittitas,2024-02,Electric,Commercial,1
+Kittitas,2024-02,Electric,Passenger Vehicle,33
+Kittitas,2024-02,Electric,Truck,1
+Kittitas,2024-03,Electric,Commercial,1
+Kittitas,2024-03,Electric,Motorcycle,1
+Kittitas,2024-03,Electric,Neighborhood Electric Vehicle,1
+Kittitas,2024-03,Electric,Off Road Vehicle,1
+Kittitas,2024-03,Electric,Passenger Vehicle,56
+Kittitas,2024-03,Electric,Truck,1
+Kittitas,2024-04,Electric,For Hire,1
+Kittitas,2024-04,Electric,Motorcycle,4
+Kittitas,2024-04,Electric,Off Road Vehicle,2
+Kittitas,2024-04,Electric,Passenger Vehicle,54
+Kittitas,2024-04,Electric,Truck,4
+Kittitas,2024-05,Electric,Off Road Vehicle,3
+Kittitas,2024-05,Electric,Passenger Vehicle,53
+Kittitas,2024-05,Electric,Truck,1
+Kittitas,2024-06,Electric,All Terrain Vehicle (WATV),1
+Kittitas,2024-06,Electric,Medium-Speed Electric Truck,1
+Kittitas,2024-06,Electric,Motorcycle,1
+Kittitas,2024-06,Electric,Neighborhood Electric Vehicle,1
+Kittitas,2024-06,Electric,Off Road Vehicle,1
+Kittitas,2024-06,Electric,Passenger Vehicle,59
+Kittitas,2024-06,Electric,Truck,5
+Kittitas,2024-07,Electric,Neighborhood Electric Vehicle,3
+Kittitas,2024-07,Electric,Off Road Vehicle,1
+Kittitas,2024-07,Electric,Passenger Vehicle,56
+Kittitas,2024-07,Electric,Truck,8
+Kittitas,2024-08,Electric,Commercial,3
+Kittitas,2024-08,Electric,Motorcycle,1
+Kittitas,2024-08,Electric,Off Road Vehicle,1
+Kittitas,2024-08,Electric,Passenger Vehicle,67
+Kittitas,2024-08,Electric,Truck,6
+Kittitas,2024-09,Electric,All Terrain Vehicle (WATV),1
+Kittitas,2024-09,Electric,Neighborhood Electric Vehicle,1
+Kittitas,2024-09,Electric,Off Road Vehicle,1
+Kittitas,2024-09,Electric,Passenger Vehicle,68
+Kittitas,2024-09,Electric,Truck,2
+Kittitas,2024-10,Electric,Off Road Vehicle,1
+Kittitas,2024-10,Electric,Passenger Vehicle,54
+Kittitas,2024-10,Electric,Snowmobile,12
+Kittitas,2024-10,Electric,Truck,7
+Kittitas,2024-11,Electric,Commercial,1
+Kittitas,2024-11,Electric,Neighborhood Electric Vehicle,1
+Kittitas,2024-11,Electric,Passenger Vehicle,47
+Kittitas,2024-11,Electric,Truck,3
+Kittitas,2024-12,Electric,Commercial,1
+Kittitas,2024-12,Electric,Passenger Vehicle,52
+Kittitas,2024-12,Electric,Truck,6
+Kittitas,2025-01,Electric,Commercial,1
+Kittitas,2025-01,Electric,Motorcycle,1
+Kittitas,2025-01,Electric,Off Road Vehicle,1
+Kittitas,2025-01,Electric,Passenger Vehicle,62
+Kittitas,2025-01,Electric,Truck,4
+Kittitas,2025-02,Electric,Commercial,1
+Kittitas,2025-02,Electric,For Hire,1
+Kittitas,2025-02,Electric,Motorcycle,1
+Kittitas,2025-02,Electric,Passenger Vehicle,56
+Kittitas,2025-02,Electric,Truck,4
+Klickitat,2023-01,Electric,Passenger Vehicle,8
+Klickitat,2023-02,Electric,Passenger Vehicle,6
+Klickitat,2023-03,Electric,All Terrain Vehicle (WATV),1
+Klickitat,2023-03,Electric,Motorcycle,3
+Klickitat,2023-03,Electric,Passenger Vehicle,19
+Klickitat,2023-03,Electric,Truck,1
+Klickitat,2023-04,Electric,Passenger Vehicle,17
+Klickitat,2023-04,Electric,Truck,1
+Klickitat,2023-05,Electric,Commercial,1
+Klickitat,2023-05,Electric,Passenger Vehicle,15
+Klickitat,2023-05,Electric,Truck,3
+Klickitat,2023-06,Electric,Passenger Vehicle,4
+Klickitat,2023-06,Electric,Truck,2
+Klickitat,2023-07,Electric,Motorcycle,2
+Klickitat,2023-07,Electric,Passenger Vehicle,11
+Klickitat,2023-08,Electric,Medium-Speed Electric Vehicle,1
+Klickitat,2023-08,Electric,Motorcycle,1
+Klickitat,2023-08,Electric,Passenger Vehicle,9
+Klickitat,2023-09,Electric,Commercial,1
+Klickitat,2023-09,Electric,Medium-Speed Electric Truck,1
+Klickitat,2023-09,Electric,Neighborhood Electric Vehicle,1
+Klickitat,2023-09,Electric,Passenger Vehicle,22
+Klickitat,2023-09,Electric,Truck,2
+Klickitat,2023-10,Electric,All Terrain Vehicle (WATV),1
+Klickitat,2023-10,Electric,Passenger Vehicle,14
+Klickitat,2023-10,Electric,Truck,1
+Klickitat,2023-11,Electric,Motorcycle,1
+Klickitat,2023-11,Electric,Passenger Vehicle,16
+Klickitat,2023-11,Electric,Truck,1
+Klickitat,2023-12,Electric,Medium-Speed Electric Vehicle,1
+Klickitat,2023-12,Electric,Off Road Vehicle,1
+Klickitat,2023-12,Electric,Passenger Vehicle,12
+Klickitat,2023-12,Electric,Truck,1
+Klickitat,2024-01,Electric,Motorcycle,3
+Klickitat,2024-01,Electric,Passenger Vehicle,19
+Klickitat,2024-01,Electric,Truck,3
+Klickitat,2024-02,Electric,Passenger Vehicle,18
+Klickitat,2024-02,Electric,Truck,1
+Klickitat,2024-03,Electric,Motorcycle,1
+Klickitat,2024-03,Electric,Passenger Vehicle,19
+Klickitat,2024-03,Electric,Truck,1
+Klickitat,2024-04,Electric,Passenger Vehicle,17
+Klickitat,2024-04,Electric,Truck,7
+Klickitat,2024-05,Electric,Passenger Vehicle,23
+Klickitat,2024-06,Electric,Commercial,1
+Klickitat,2024-06,Electric,Motorcycle,2
+Klickitat,2024-06,Electric,Passenger Vehicle,22
+Klickitat,2024-06,Electric,Truck,1
+Klickitat,2024-07,Electric,Passenger Vehicle,23
+Klickitat,2024-07,Electric,Truck,1
+Klickitat,2024-08,Electric,Commercial,1
+Klickitat,2024-08,Electric,Medium-Speed Electric Vehicle,1
+Klickitat,2024-08,Electric,Motorcycle,1
+Klickitat,2024-08,Electric,Passenger Vehicle,29
+Klickitat,2024-08,Electric,Truck,3
+Klickitat,2024-09,Electric,Commercial,1
+Klickitat,2024-09,Electric,Motorcycle,1
+Klickitat,2024-09,Electric,Neighborhood Electric Vehicle,1
+Klickitat,2024-09,Electric,Passenger Vehicle,22
+Klickitat,2024-10,Electric,Medium-Speed Electric Truck,1
+Klickitat,2024-10,Electric,Medium-Speed Electric Vehicle,1
+Klickitat,2024-10,Electric,Passenger Vehicle,20
+Klickitat,2024-10,Electric,Truck,1
+Klickitat,2024-11,Electric,Motorcycle,1
+Klickitat,2024-11,Electric,Passenger Vehicle,22
+Klickitat,2024-11,Electric,Truck,1
+Klickitat,2024-12,Electric,Commercial,1
+Klickitat,2024-12,Electric,Passenger Vehicle,8
+Klickitat,2024-12,Electric,Truck,3
+Klickitat,2025-01,Electric,Commercial,1
+Klickitat,2025-01,Electric,Passenger Vehicle,33
+Klickitat,2025-01,Electric,Truck,4
+Klickitat,2025-02,Electric,Motorcycle,2
+Klickitat,2025-02,Electric,Passenger Vehicle,14
+Klickitat,2025-02,Electric,Truck,1
+Lewis,2023-01,Electric,Medium-Speed Electric Vehicle,1
+Lewis,2023-01,Electric,Passenger Vehicle,40
+Lewis,2023-01,Electric,Truck,1
+Lewis,2023-02,Electric,Commercial,1
+Lewis,2023-02,Electric,Neighborhood Electric Vehicle,1
+Lewis,2023-02,Electric,Passenger Vehicle,28
+Lewis,2023-02,Electric,Truck,1
+Lewis,2023-03,Electric,Passenger Vehicle,24
+Lewis,2023-03,Electric,Truck,1
+Lewis,2023-04,Electric,Medium-Speed Electric Truck,1
+Lewis,2023-04,Electric,Motorcycle,1
+Lewis,2023-04,Electric,Passenger Vehicle,35
+Lewis,2023-04,Electric,Truck,1
+Lewis,2023-05,Electric,Motorcycle,1
+Lewis,2023-05,Electric,Passenger Vehicle,23
+Lewis,2023-05,Electric,Truck,1
+Lewis,2023-06,Electric,Medium-Speed Electric Truck,1
+Lewis,2023-06,Electric,Motorcycle,1
+Lewis,2023-06,Electric,Off Road Vehicle,1
+Lewis,2023-06,Electric,Passenger Vehicle,39
+Lewis,2023-07,Electric,Antique Vehicle,1
+Lewis,2023-07,Electric,Motorcycle,1
+Lewis,2023-07,Electric,Neighborhood Electric Vehicle,1
+Lewis,2023-07,Electric,Passenger Vehicle,32
+Lewis,2023-08,Electric,Neighborhood Electric Vehicle,1
+Lewis,2023-08,Electric,Off Road Vehicle,1
+Lewis,2023-08,Electric,Passenger Vehicle,32
+Lewis,2023-08,Electric,Truck,1
+Lewis,2023-09,Electric,Passenger Vehicle,26
+Lewis,2023-09,Electric,Truck,1
+Lewis,2023-10,Electric,Motorcycle,1
+Lewis,2023-10,Electric,Passenger Vehicle,28
+Lewis,2023-11,Electric,All Terrain Vehicle (WATV),1
+Lewis,2023-11,Electric,Medium-Speed Electric Truck,1
+Lewis,2023-11,Electric,Neighborhood Electric Vehicle,1
+Lewis,2023-11,Electric,Passenger Vehicle,33
+Lewis,2023-11,Electric,Truck,1
+Lewis,2023-12,Electric,Exempt (State/County/Local/Tribal),1
+Lewis,2023-12,Electric,Neighborhood Electric Vehicle,1
+Lewis,2023-12,Electric,Passenger Vehicle,39
+Lewis,2023-12,Electric,Truck,1
+Lewis,2024-01,Electric,Commercial,1
+Lewis,2024-01,Electric,Passenger Vehicle,39
+Lewis,2024-01,Electric,Truck,2
+Lewis,2024-02,Electric,Passenger Vehicle,40
+Lewis,2024-02,Electric,Truck,1
+Lewis,2024-03,Electric,Commercial,1
+Lewis,2024-03,Electric,Medium-Speed Electric Truck,1
+Lewis,2024-03,Electric,Passenger Vehicle,41
+Lewis,2024-04,Electric,Exempt (State/County/Local/Tribal),1
+Lewis,2024-04,Electric,Motorcycle,1
+Lewis,2024-04,Electric,Off Road Vehicle,1
+Lewis,2024-04,Electric,Passenger Vehicle,53
+Lewis,2024-04,Electric,Truck,1
+Lewis,2024-05,Electric,Medium-Speed Electric Truck,1
+Lewis,2024-05,Electric,Off Road Vehicle,1
+Lewis,2024-05,Electric,Passenger Vehicle,38
+Lewis,2024-06,Electric,Medium-Speed Electric Truck,1
+Lewis,2024-06,Electric,Motorcycle,3
+Lewis,2024-06,Electric,Passenger Vehicle,50
+Lewis,2024-06,Electric,Truck,1
+Lewis,2024-07,Electric,Motorcycle,1
+Lewis,2024-07,Electric,Off Road Vehicle,1
+Lewis,2024-07,Electric,Passenger Vehicle,60
+Lewis,2024-07,Electric,Truck,2
+Lewis,2024-08,Electric,Medium-Speed Electric Truck,1
+Lewis,2024-08,Electric,Off Road Vehicle,1
+Lewis,2024-08,Electric,Passenger Vehicle,60
+Lewis,2024-08,Electric,Truck,5
+Lewis,2024-09,Electric,Commercial,2
+Lewis,2024-09,Electric,Passenger Vehicle,53
+Lewis,2024-09,Electric,Truck,3
+Lewis,2024-10,Electric,Motorcycle,1
+Lewis,2024-10,Electric,Neighborhood Electric Vehicle,2
+Lewis,2024-10,Electric,Off Road Vehicle,1
+Lewis,2024-10,Electric,Passenger Vehicle,50
+Lewis,2024-10,Electric,Truck,1
+Lewis,2024-11,Electric,Medium-Speed Electric Truck,1
+Lewis,2024-11,Electric,Passenger Vehicle,44
+Lewis,2024-11,Electric,Truck,1
+Lewis,2024-12,Electric,Neighborhood Electric Vehicle,1
+Lewis,2024-12,Electric,Passenger Vehicle,57
+Lewis,2024-12,Electric,Truck,3
+Lewis,2025-01,Electric,Commercial,3
+Lewis,2025-01,Electric,Passenger Vehicle,69
+Lewis,2025-01,Electric,Truck,3
+Lewis,2025-02,Electric,Commercial,1
+Lewis,2025-02,Electric,Medium-Speed Electric Truck,1
+Lewis,2025-02,Electric,Motorcycle,1
+Lewis,2025-02,Electric,Passenger Vehicle,48
+Lewis,2025-02,Electric,Truck,2
+Lincoln,2023-01,Electric,Passenger Vehicle,1
+Lincoln,2023-02,Electric,Passenger Vehicle,1
+Lincoln,2023-03,Electric,Passenger Vehicle,4
+Lincoln,2023-04,Electric,Passenger Vehicle,1
+Lincoln,2023-05,Electric,Medium-Speed Electric Truck,1
+Lincoln,2023-05,Electric,Off Road Vehicle,1
+Lincoln,2023-05,Electric,Passenger Vehicle,1
+Lincoln,2023-06,Electric,Off Road Vehicle,1
+Lincoln,2023-06,Electric,Passenger Vehicle,1
+Lincoln,2023-07,Electric,Passenger Vehicle,1
+Lincoln,2023-08,Electric,Passenger Vehicle,1
+Lincoln,2023-09,Electric,Neighborhood Electric Vehicle,1
+Lincoln,2023-09,Electric,Off Road Vehicle,1
+Lincoln,2023-10,Electric,Passenger Vehicle,3
+Lincoln,2023-11,Electric,Passenger Vehicle,1
+Lincoln,2023-12,Electric,Passenger Vehicle,1
+Lincoln,2024-01,Electric,Passenger Vehicle,4
+Lincoln,2024-02,Electric,Passenger Vehicle,3
+Lincoln,2024-03,Electric,Medium-Speed Electric Vehicle,1
+Lincoln,2024-03,Electric,Neighborhood Electric Truck,1
+Lincoln,2024-03,Electric,Passenger Vehicle,1
+Lincoln,2024-04,Electric,Medium-Speed Electric Truck,1
+Lincoln,2024-04,Electric,Passenger Vehicle,2
+Lincoln,2024-04,Electric,Truck,1
+Lincoln,2024-05,Electric,Passenger Vehicle,1
+Lincoln,2024-06,Electric,Passenger Vehicle,3
+Lincoln,2024-07,Electric,Passenger Vehicle,1
+Lincoln,2024-08,Electric,Passenger Vehicle,3
+Lincoln,2024-09,Electric,Passenger Vehicle,3
+Lincoln,2024-10,Electric,Off Road Vehicle,1
+Lincoln,2024-10,Electric,Passenger Vehicle,3
+Lincoln,2024-11,Electric,Passenger Vehicle,1
+Lincoln,2024-12,Electric,Commercial,1
+Lincoln,2024-12,Electric,Passenger Vehicle,1
+Lincoln,2025-01,Electric,Passenger Vehicle,8
+Lincoln,2025-02,Electric,Medium-Speed Electric Vehicle,1
+Lincoln,2025-02,Electric,Passenger Vehicle,1
+Mason,2023-01,Electric,Passenger Vehicle,32
+Mason,2023-01,Electric,Truck,2
+Mason,2023-02,Electric,Passenger Vehicle,40
+Mason,2023-02,Electric,Truck,1
+Mason,2023-03,Electric,All Terrain Vehicle (WATV),1
+Mason,2023-03,Electric,Medium-Speed Electric Truck,2
+Mason,2023-03,Electric,Passenger Vehicle,36
+Mason,2023-03,Electric,Truck,1
+Mason,2023-04,Electric,Motorcycle,1
+Mason,2023-04,Electric,Neighborhood Electric Vehicle,1
+Mason,2023-04,Electric,Off Road Vehicle,1
+Mason,2023-04,Electric,Passenger Vehicle,49
+Mason,2023-05,Electric,Motorcycle,1
+Mason,2023-05,Electric,Off Road Vehicle,1
+Mason,2023-05,Electric,Passenger Vehicle,52
+Mason,2023-06,Electric,Moped,1
+Mason,2023-06,Electric,Motorcycle,1
+Mason,2023-06,Electric,Neighborhood Electric Vehicle,1
+Mason,2023-06,Electric,Passenger Vehicle,47
+Mason,2023-06,Electric,Truck,2
+Mason,2023-07,Electric,All Terrain Vehicle (WATV),1
+Mason,2023-07,Electric,Off Road Vehicle,1
+Mason,2023-07,Electric,Passenger Vehicle,47
+Mason,2023-07,Electric,Truck,1
+Mason,2023-08,Electric,Commercial,1
+Mason,2023-08,Electric,Passenger Vehicle,49
+Mason,2023-08,Electric,Truck,1
+Mason,2023-09,Electric,Passenger Vehicle,56
+Mason,2023-09,Electric,Truck,1
+Mason,2023-10,Electric,All Terrain Vehicle (WATV),1
+Mason,2023-10,Electric,Passenger Vehicle,48
+Mason,2023-10,Electric,Truck,1
+Mason,2023-11,Electric,Exempt (State/County/Local/Tribal),1
+Mason,2023-11,Electric,Passenger Vehicle,58
+Mason,2023-11,Electric,Truck,1
+Mason,2023-12,Electric,Medium-Speed Electric Truck,1
+Mason,2023-12,Electric,Passenger Vehicle,41
+Mason,2023-12,Electric,Truck,3
+Mason,2024-01,Electric,Passenger Vehicle,59
+Mason,2024-01,Electric,Truck,1
+Mason,2024-02,Electric,Passenger Vehicle,49
+Mason,2024-02,Electric,Truck,2
+Mason,2024-03,Electric,Exempt (State/County/Local/Tribal),2
+Mason,2024-03,Electric,Medium-Speed Electric Truck,1
+Mason,2024-03,Electric,Motorcycle,2
+Mason,2024-03,Electric,Passenger Vehicle,44
+Mason,2024-03,Electric,Truck,1
+Mason,2024-04,Electric,Motorcycle,1
+Mason,2024-04,Electric,Off Road Vehicle,1
+Mason,2024-04,Electric,Passenger Vehicle,66
+Mason,2024-04,Electric,Truck,1
+Mason,2024-05,Electric,Medium-Speed Electric Truck,1
+Mason,2024-05,Electric,Motorcycle,1
+Mason,2024-05,Electric,Neighborhood Electric Vehicle,1
+Mason,2024-05,Electric,Off Road Vehicle,1
+Mason,2024-05,Electric,Passenger Vehicle,57
+Mason,2024-05,Electric,Truck,1
+Mason,2024-06,Electric,All Terrain Vehicle (WATV),1
+Mason,2024-06,Electric,Passenger Vehicle,53
+Mason,2024-06,Electric,Truck,1
+Mason,2024-07,Electric,Exempt (State/County/Local/Tribal),1
+Mason,2024-07,Electric,Passenger Vehicle,66
+Mason,2024-07,Electric,Truck,6
+Mason,2024-08,Electric,All Terrain Vehicle (WATV),1
+Mason,2024-08,Electric,Off Road Vehicle,2
+Mason,2024-08,Electric,Passenger Vehicle,55
+Mason,2024-08,Electric,Truck,7
+Mason,2024-09,Electric,Off Road Vehicle,1
+Mason,2024-09,Electric,Passenger Vehicle,82
+Mason,2024-10,Electric,Exempt (State/County/Local/Tribal),1
+Mason,2024-10,Electric,Neighborhood Electric Vehicle,1
+Mason,2024-10,Electric,Off Road Vehicle,1
+Mason,2024-10,Electric,Passenger Vehicle,81
+Mason,2024-10,Electric,Truck,13
+Mason,2024-11,Electric,Commercial,1
+Mason,2024-11,Electric,Off Road Vehicle,1
+Mason,2024-11,Electric,Passenger Vehicle,52
+Mason,2024-12,Electric,Commercial,1
+Mason,2024-12,Electric,Passenger Vehicle,64
+Mason,2024-12,Electric,Truck,8
+Mason,2025-01,Electric,Passenger Vehicle,83
+Mason,2025-01,Electric,Truck,3
+Mason,2025-02,Electric,Moped,1
+Mason,2025-02,Electric,Passenger Vehicle,58
+Mason,2025-02,Electric,Truck,3
+Okanogan,2023-01,Electric,Passenger Vehicle,14
+Okanogan,2023-02,Electric,Medium-Speed Electric Truck,1
+Okanogan,2023-02,Electric,Passenger Vehicle,3
+Okanogan,2023-03,Electric,Passenger Vehicle,6
+Okanogan,2023-03,Electric,Truck,1
+Okanogan,2023-04,Electric,Motorcycle,1
+Okanogan,2023-04,Electric,Neighborhood Electric Vehicle,1
+Okanogan,2023-04,Electric,Off Road Vehicle,1
+Okanogan,2023-04,Electric,Passenger Vehicle,10
+Okanogan,2023-05,Electric,Moped,1
+Okanogan,2023-05,Electric,Off Road Vehicle,1
+Okanogan,2023-05,Electric,Passenger Vehicle,17
+Okanogan,2023-05,Electric,Truck,2
+Okanogan,2023-06,Electric,Passenger Vehicle,15
+Okanogan,2023-06,Electric,Truck,1
+Okanogan,2023-07,Electric,Motorcycle,1
+Okanogan,2023-07,Electric,Passenger Vehicle,11
+Okanogan,2023-08,Electric,Off Road Vehicle,1
+Okanogan,2023-08,Electric,Passenger Vehicle,17
+Okanogan,2023-09,Electric,Medium-Speed Electric Vehicle,1
+Okanogan,2023-09,Electric,Passenger Vehicle,14
+Okanogan,2023-10,Electric,Commercial,1
+Okanogan,2023-10,Electric,Passenger Vehicle,16
+Okanogan,2023-10,Electric,Truck,1
+Okanogan,2023-11,Electric,Passenger Vehicle,18
+Okanogan,2023-11,Electric,Truck,1
+Okanogan,2023-12,Electric,Commercial,1
+Okanogan,2023-12,Electric,Passenger Vehicle,19
+Okanogan,2024-01,Electric,Off Road Vehicle,1
+Okanogan,2024-01,Electric,Passenger Vehicle,22
+Okanogan,2024-02,Electric,Medium-Speed Electric Truck,1
+Okanogan,2024-02,Electric,Passenger Vehicle,10
+Okanogan,2024-02,Electric,Truck,1
+Okanogan,2024-03,Electric,Neighborhood Electric Vehicle,1
+Okanogan,2024-03,Electric,Passenger Vehicle,11
+Okanogan,2024-03,Electric,Truck,1
+Okanogan,2024-04,Electric,Motorcycle,1
+Okanogan,2024-04,Electric,Passenger Vehicle,14
+Okanogan,2024-04,Electric,Truck,2
+Okanogan,2024-05,Electric,Moped,1
+Okanogan,2024-05,Electric,Passenger Vehicle,22
+Okanogan,2024-05,Electric,Truck,4
+Okanogan,2024-06,Electric,Motorcycle,1
+Okanogan,2024-06,Electric,Passenger Vehicle,14
+Okanogan,2024-06,Electric,Truck,1
+Okanogan,2024-07,Electric,Commercial,1
+Okanogan,2024-07,Electric,Neighborhood Electric Vehicle,1
+Okanogan,2024-07,Electric,Off Road Vehicle,1
+Okanogan,2024-07,Electric,Passenger Vehicle,17
+Okanogan,2024-07,Electric,Truck,3
+Okanogan,2024-08,Electric,Commercial,1
+Okanogan,2024-08,Electric,Medium-Speed Electric Truck,1
+Okanogan,2024-08,Electric,Medium-Speed Electric Vehicle,1
+Okanogan,2024-08,Electric,Passenger Vehicle,22
+Okanogan,2024-08,Electric,Truck,3
+Okanogan,2024-09,Electric,Passenger Vehicle,19
+Okanogan,2024-09,Electric,Truck,1
+Okanogan,2024-10,Electric,Passenger Vehicle,25
+Okanogan,2024-10,Electric,Truck,4
+Okanogan,2024-11,Electric,Commercial,1
+Okanogan,2024-11,Electric,Passenger Vehicle,15
+Okanogan,2024-11,Electric,Truck,1
+Okanogan,2024-12,Electric,Commercial,1
+Okanogan,2024-12,Electric,Passenger Vehicle,23
+Okanogan,2024-12,Electric,Truck,1
+Okanogan,2025-01,Electric,Exempt (State/County/Local/Tribal),1
+Okanogan,2025-01,Electric,Passenger Vehicle,20
+Okanogan,2025-01,Electric,Truck,4
+Okanogan,2025-02,Electric,Medium-Speed Electric Truck,1
+Okanogan,2025-02,Electric,Passenger Vehicle,15
+Okanogan,2025-02,Electric,Truck,1
+Out Of State,2023-01,Electric,Passenger Vehicle,14
+Out Of State,2023-02,Electric,Motorcycle,1
+Out Of State,2023-02,Electric,Passenger Vehicle,6
+Out Of State,2023-03,Electric,Commercial,1
+Out Of State,2023-03,Electric,Passenger Vehicle,15
+Out Of State,2023-04,Electric,Passenger Vehicle,8
+Out Of State,2023-05,Electric,Passenger Vehicle,14
+Out Of State,2023-05,Electric,Truck,1
+Out Of State,2023-06,Electric,Neighborhood Electric Vehicle,1
+Out Of State,2023-06,Electric,Passenger Vehicle,10
+Out Of State,2023-07,Electric,Moped,1
+Out Of State,2023-07,Electric,Passenger Vehicle,8
+Out Of State,2023-07,Electric,Truck,1
+Out Of State,2023-08,Electric,Motorcycle,1
+Out Of State,2023-08,Electric,Passenger Vehicle,18
+Out Of State,2023-09,Electric,Motorcycle,1
+Out Of State,2023-09,Electric,Passenger Vehicle,13
+Out Of State,2023-09,Electric,Truck,1
+Out Of State,2023-10,Electric,Passenger Vehicle,20
+Out Of State,2023-11,Electric,Medium-Speed Electric Truck,1
+Out Of State,2023-11,Electric,Passenger Vehicle,6
+Out Of State,2023-11,Electric,Truck,1
+Out Of State,2023-12,Electric,All Terrain Vehicle (WATV),1
+Out Of State,2023-12,Electric,Commercial,1
+Out Of State,2023-12,Electric,Passenger Vehicle,6
+Out Of State,2024-01,Electric,Passenger Vehicle,11
+Out Of State,2024-01,Electric,Truck,1
+Out Of State,2024-02,Electric,Motorcycle,1
+Out Of State,2024-02,Electric,Passenger Vehicle,10
+Out Of State,2024-03,Electric,Commercial,1
+Out Of State,2024-03,Electric,Medium-Speed Electric Truck,1
+Out Of State,2024-03,Electric,Passenger Vehicle,7
+Out Of State,2024-04,Electric,Passenger Vehicle,24
+Out Of State,2024-05,Electric,All Terrain Vehicle (WATV),1
+Out Of State,2024-05,Electric,Neighborhood Electric Vehicle,1
+Out Of State,2024-05,Electric,Passenger Vehicle,17
+Out Of State,2024-06,Electric,Medium-Speed Electric Truck,1
+Out Of State,2024-06,Electric,Motorcycle,1
+Out Of State,2024-06,Electric,Passenger Vehicle,11
+Out Of State,2024-06,Electric,Truck,3
+Out Of State,2024-07,Electric,Motorcycle,1
+Out Of State,2024-07,Electric,Passenger Vehicle,19
+Out Of State,2024-07,Electric,Truck,1
+Out Of State,2024-08,Electric,Passenger Vehicle,20
+Out Of State,2024-09,Electric,Motorcycle,1
+Out Of State,2024-09,Electric,Passenger Vehicle,6
+Out Of State,2024-09,Electric,Truck,1
+Out Of State,2024-10,Electric,Passenger Vehicle,17
+Out Of State,2024-11,Electric,Passenger Vehicle,14
+Out Of State,2024-11,Electric,Truck,1
+Out Of State,2024-12,Electric,Commercial,1
+Out Of State,2024-12,Electric,Medium-Speed Electric Truck,1
+Out Of State,2024-12,Electric,Passenger Vehicle,16
+Out Of State,2024-12,Electric,Truck,1
+Out Of State,2025-01,Electric,Commercial,1
+Out Of State,2025-01,Electric,Motorcycle,1
+Out Of State,2025-01,Electric,Passenger Vehicle,10
+Out Of State,2025-01,Electric,Truck,1
+Out Of State,2025-02,Electric,Motorcycle,1
+Out Of State,2025-02,Electric,Passenger Vehicle,12
+Out Of State,2025-02,Electric,Truck,1
+Pacific,2023-01,Electric,Medium-Speed Electric Vehicle,1
+Pacific,2023-01,Electric,Passenger Vehicle,3
+Pacific,2023-02,Electric,Passenger Vehicle,9
+Pacific,2023-03,Electric,Passenger Vehicle,6
+Pacific,2023-03,Electric,Truck,1
+Pacific,2023-04,Electric,Passenger Vehicle,7
+Pacific,2023-05,Electric,Medium-Speed Electric Vehicle,1
+Pacific,2023-05,Electric,Passenger Vehicle,5
+Pacific,2023-06,Electric,Neighborhood Electric Vehicle,1
+Pacific,2023-06,Electric,Passenger Vehicle,6
+Pacific,2023-06,Electric,Truck,1
+Pacific,2023-07,Electric,Passenger Vehicle,13
+Pacific,2023-07,Electric,Truck,1
+Pacific,2023-08,Electric,Passenger Vehicle,8
+Pacific,2023-08,Electric,Truck,1
+Pacific,2023-09,Electric,Motorcycle,1
+Pacific,2023-09,Electric,Passenger Vehicle,12
+Pacific,2023-10,Electric,Passenger Vehicle,6
+Pacific,2023-10,Electric,Truck,1
+Pacific,2023-11,Electric,Passenger Vehicle,7
+Pacific,2023-11,Electric,Truck,1
+Pacific,2023-12,Electric,Passenger Vehicle,8
+Pacific,2023-12,Electric,Truck,1
+Pacific,2024-01,Electric,Passenger Vehicle,8
+Pacific,2024-02,Electric,Passenger Vehicle,11
+Pacific,2024-03,Electric,Moped,1
+Pacific,2024-03,Electric,Passenger Vehicle,11
+Pacific,2024-03,Electric,Truck,1
+Pacific,2024-04,Electric,Medium-Speed Electric Vehicle,2
+Pacific,2024-04,Electric,Passenger Vehicle,7
+Pacific,2024-04,Electric,Truck,1
+Pacific,2024-05,Electric,Passenger Vehicle,8
+Pacific,2024-06,Electric,Commercial,1
+Pacific,2024-06,Electric,Passenger Vehicle,10
+Pacific,2024-06,Electric,Truck,2
+Pacific,2024-07,Electric,Passenger Vehicle,15
+Pacific,2024-07,Electric,Truck,2
+Pacific,2024-08,Electric,Motorcycle,1
+Pacific,2024-08,Electric,Passenger Vehicle,14
+Pacific,2024-08,Electric,Truck,1
+Pacific,2024-09,Electric,Medium-Speed Electric Vehicle,1
+Pacific,2024-09,Electric,Passenger Vehicle,12
+Pacific,2024-09,Electric,Truck,1
+Pacific,2024-10,Electric,Passenger Vehicle,11
+Pacific,2024-11,Electric,Passenger Vehicle,16
+Pacific,2024-11,Electric,Truck,1
+Pacific,2024-12,Electric,Passenger Vehicle,8
+Pacific,2024-12,Electric,Truck,1
+Pacific,2025-01,Electric,Passenger Vehicle,14
+Pacific,2025-01,Electric,Truck,1
+Pacific,2025-02,Electric,Passenger Vehicle,8
+Pacific,2025-02,Electric,Truck,3
+Pend Oreille,2023-01,Electric,Passenger Vehicle,3
+Pend Oreille,2023-02,Electric,Passenger Vehicle,3
+Pend Oreille,2023-03,Electric,Passenger Vehicle,1
+Pend Oreille,2023-04,Electric,Medium-Speed Electric Truck,1
+Pend Oreille,2023-04,Electric,Passenger Vehicle,3
+Pend Oreille,2023-05,Electric,Passenger Vehicle,2
+Pend Oreille,2023-06,Electric,Off Road Vehicle,1
+Pend Oreille,2023-06,Electric,Passenger Vehicle,1
+Pend Oreille,2023-07,Electric,Off Road Vehicle,1
+Pend Oreille,2023-07,Electric,Passenger Vehicle,1
+Pend Oreille,2023-08,Electric,Passenger Vehicle,1
+Pend Oreille,2023-09,Electric,Passenger Vehicle,1
+Pend Oreille,2023-10,Electric,Passenger Vehicle,4
+Pend Oreille,2023-11,Electric,Passenger Vehicle,4
+Pend Oreille,2023-11,Electric,Truck,1
+Pend Oreille,2023-12,Electric,Passenger Vehicle,3
+Pend Oreille,2024-01,Electric,Passenger Vehicle,4
+Pend Oreille,2024-01,Electric,Truck,1
+Pend Oreille,2024-03,Electric,Passenger Vehicle,4
+Pend Oreille,2024-04,Electric,Medium-Speed Electric Truck,1
+Pend Oreille,2024-04,Electric,Passenger Vehicle,1
+Pend Oreille,2024-05,Electric,Motorcycle,1
+Pend Oreille,2024-05,Electric,Passenger Vehicle,3
+Pend Oreille,2024-06,Electric,Passenger Vehicle,1
+Pend Oreille,2024-07,Electric,Passenger Vehicle,3
+Pend Oreille,2024-08,Electric,Motorcycle,1
+Pend Oreille,2024-08,Electric,Passenger Vehicle,6
+Pend Oreille,2024-09,Electric,Passenger Vehicle,8
+Pend Oreille,2024-10,Electric,Exempt (State/County/Local/Tribal),1
+Pend Oreille,2024-10,Electric,Off Road Vehicle,1
+Pend Oreille,2024-10,Electric,Passenger Vehicle,4
+Pend Oreille,2024-10,Electric,Truck,1
+Pend Oreille,2024-11,Electric,Off Road Vehicle,1
+Pend Oreille,2024-11,Electric,Passenger Vehicle,5
+Pend Oreille,2024-11,Electric,Truck,1
+Pend Oreille,2024-12,Electric,Passenger Vehicle,5
+Pend Oreille,2024-12,Electric,Truck,2
+Pend Oreille,2025-01,Electric,Passenger Vehicle,3
+Pend Oreille,2025-01,Electric,Truck,1
+Pend Oreille,2025-02,Electric,Passenger Vehicle,3
+Pierce,2023-01,Electric,Commercial,14
+Pierce,2023-01,Electric,Exempt (State/County/Local/Tribal),1
+Pierce,2023-01,Electric,Motorcycle,6
+Pierce,2023-01,Electric,Neighborhood Electric Truck,1
+Pierce,2023-01,Electric,Neighborhood Electric Vehicle,1
+Pierce,2023-01,Electric,Off Road Vehicle,2
+Pierce,2023-01,Electric,Passenger Vehicle,640
+Pierce,2023-01,Electric,Truck,20
+Pierce,2023-02,Electric,Commercial,5
+Pierce,2023-02,Electric,Exempt (State/County/Local/Tribal),1
+Pierce,2023-02,Electric,Medium-Speed Electric Truck,1
+Pierce,2023-02,Electric,Motorcycle,7
+Pierce,2023-02,Electric,Neighborhood Electric Truck,1
+Pierce,2023-02,Electric,Neighborhood Electric Vehicle,1
+Pierce,2023-02,Electric,Off Road Vehicle,2
+Pierce,2023-02,Electric,Passenger Vehicle,639
+Pierce,2023-02,Electric,Truck,11
+Pierce,2023-03,Electric,Commercial,4
+Pierce,2023-03,Electric,Exempt (State/County/Local/Tribal),5
+Pierce,2023-03,Electric,Logging,1
+Pierce,2023-03,Electric,Medium-Speed Electric Truck,1
+Pierce,2023-03,Electric,Medium-Speed Electric Vehicle,1
+Pierce,2023-03,Electric,Moped,3
+Pierce,2023-03,Electric,Motorcycle,3
+Pierce,2023-03,Electric,Neighborhood Electric Truck,1
+Pierce,2023-03,Electric,Neighborhood Electric Vehicle,3
+Pierce,2023-03,Electric,Passenger Vehicle,824
+Pierce,2023-03,Electric,Truck,13
+Pierce,2023-04,Electric,Commercial,1
+Pierce,2023-04,Electric,Exempt (State/County/Local/Tribal),4
+Pierce,2023-04,Electric,For Hire,1
+Pierce,2023-04,Electric,Medium-Speed Electric Truck,2
+Pierce,2023-04,Electric,Medium-Speed Electric Vehicle,1
+Pierce,2023-04,Electric,Moped,1
+Pierce,2023-04,Electric,Motorcycle,3
+Pierce,2023-04,Electric,Neighborhood Electric Vehicle,1
+Pierce,2023-04,Electric,Off Road Vehicle,1
+Pierce,2023-04,Electric,Passenger Vehicle,777
+Pierce,2023-04,Electric,Truck,24
+Pierce,2023-05,Electric,Commercial,29
+Pierce,2023-05,Electric,Exempt (State/County/Local/Tribal),3
+Pierce,2023-05,Electric,Medium-Speed Electric Truck,4
+Pierce,2023-05,Electric,Motorcycle,10
+Pierce,2023-05,Electric,Motorhome,1
+Pierce,2023-05,Electric,Neighborhood Electric Vehicle,1
+Pierce,2023-05,Electric,Off Road Vehicle,1
+Pierce,2023-05,Electric,Passenger Vehicle,775
+Pierce,2023-05,Electric,Truck,19
+Pierce,2023-06,Electric,Commercial,6
+Pierce,2023-06,Electric,Exempt (State/County/Local/Tribal),2
+Pierce,2023-06,Electric,Medium-Speed Electric Truck,2
+Pierce,2023-06,Electric,Medium-Speed Electric Vehicle,1
+Pierce,2023-06,Electric,Motorcycle,8
+Pierce,2023-06,Electric,Neighborhood Electric Vehicle,1
+Pierce,2023-06,Electric,Off Road Vehicle,1
+Pierce,2023-06,Electric,Passenger Vehicle,796
+Pierce,2023-06,Electric,Truck,22
+Pierce,2023-07,Electric,Commercial,10
+Pierce,2023-07,Electric,Exempt (State/County/Local/Tribal),1
+Pierce,2023-07,Electric,Medium-Speed Electric Truck,1
+Pierce,2023-07,Electric,Medium-Speed Electric Vehicle,2
+Pierce,2023-07,Electric,Moped,1
+Pierce,2023-07,Electric,Motorcycle,6
+Pierce,2023-07,Electric,Neighborhood Electric Truck,1
+Pierce,2023-07,Electric,Neighborhood Electric Vehicle,2
+Pierce,2023-07,Electric,Off Road Vehicle,3
+Pierce,2023-07,Electric,Passenger Vehicle,803
+Pierce,2023-07,Electric,Truck,24
+Pierce,2023-08,Electric,Commercial,75
+Pierce,2023-08,Electric,Exempt (State/County/Local/Tribal),1
+Pierce,2023-08,Electric,Medium-Speed Electric Truck,2
+Pierce,2023-08,Electric,Motorcycle,8
+Pierce,2023-08,Electric,Off Road Vehicle,3
+Pierce,2023-08,Electric,Passenger Vehicle,1036
+Pierce,2023-08,Electric,Truck,33
+Pierce,2023-09,Electric,Commercial,10
+Pierce,2023-09,Electric,Exempt (State/County/Local/Tribal),2
+Pierce,2023-09,Electric,Medium-Speed Electric Truck,2
+Pierce,2023-09,Electric,Moped,2
+Pierce,2023-09,Electric,Motorcycle,6
+Pierce,2023-09,Electric,Passenger Vehicle,937
+Pierce,2023-09,Electric,Truck,24
+Pierce,2023-10,Electric,Commercial,16
+Pierce,2023-10,Electric,Exempt (State/County/Local/Tribal),11
+Pierce,2023-10,Electric,Medium-Speed Electric Truck,1
+Pierce,2023-10,Electric,Motorcycle,5
+Pierce,2023-10,Electric,Off Road Vehicle,5
+Pierce,2023-10,Electric,Passenger Vehicle,969
+Pierce,2023-10,Electric,Truck,21
+Pierce,2023-11,Electric,Combination (Non-Farm Use),2
+Pierce,2023-11,Electric,Commercial,8
+Pierce,2023-11,Electric,Exempt (State/County/Local/Tribal),2
+Pierce,2023-11,Electric,Medium-Speed Electric Truck,3
+Pierce,2023-11,Electric,Motorcycle,3
+Pierce,2023-11,Electric,Off Road Vehicle,1
+Pierce,2023-11,Electric,Passenger Vehicle,851
+Pierce,2023-11,Electric,Truck,38
+Pierce,2023-12,Electric,Commercial,38
+Pierce,2023-12,Electric,Exempt (State/County/Local/Tribal),10
+Pierce,2023-12,Electric,Medium-Speed Electric Truck,3
+Pierce,2023-12,Electric,Medium-Speed Electric Vehicle,1
+Pierce,2023-12,Electric,Motorcycle,2
+Pierce,2023-12,Electric,Off Road Vehicle,4
+Pierce,2023-12,Electric,Passenger Vehicle,965
+Pierce,2023-12,Electric,Truck,31
+Pierce,2024-01,Electric,Commercial,19
+Pierce,2024-01,Electric,Exempt (State/County/Local/Tribal),13
+Pierce,2024-01,Electric,Medium-Speed Electric Truck,3
+Pierce,2024-01,Electric,Motorcycle,4
+Pierce,2024-01,Electric,Neighborhood Electric Vehicle,1
+Pierce,2024-01,Electric,Off Road Vehicle,4
+Pierce,2024-01,Electric,Passenger Vehicle,1001
+Pierce,2024-01,Electric,Truck,34
+Pierce,2024-02,Electric,Commercial,41
+Pierce,2024-02,Electric,Exempt (State/County/Local/Tribal),14
+Pierce,2024-02,Electric,Logging,1
+Pierce,2024-02,Electric,Medium-Speed Electric Truck,3
+Pierce,2024-02,Electric,Moped,1
+Pierce,2024-02,Electric,Motorcycle,3
+Pierce,2024-02,Electric,Neighborhood Electric Truck,1
+Pierce,2024-02,Electric,Off Road Vehicle,1
+Pierce,2024-02,Electric,Passenger Vehicle,960
+Pierce,2024-02,Electric,Truck,30
+Pierce,2024-03,Electric,Commercial,11
+Pierce,2024-03,Electric,Exempt (State/County/Local/Tribal),2
+Pierce,2024-03,Electric,Moped,2
+Pierce,2024-03,Electric,Motorcycle,8
+Pierce,2024-03,Electric,Neighborhood Electric Vehicle,4
+Pierce,2024-03,Electric,Off Road Vehicle,1
+Pierce,2024-03,Electric,Passenger Vehicle,1033
+Pierce,2024-03,Electric,Truck,36
+Pierce,2024-04,Electric,Commercial,10
+Pierce,2024-04,Electric,Exempt (State/County/Local/Tribal),2
+Pierce,2024-04,Electric,Medium-Speed Electric Truck,1
+Pierce,2024-04,Electric,Moped,1
+Pierce,2024-04,Electric,Motorcycle,8
+Pierce,2024-04,Electric,Neighborhood Electric Vehicle,3
+Pierce,2024-04,Electric,Off Road Vehicle,4
+Pierce,2024-04,Electric,Passenger Vehicle,1094
+Pierce,2024-04,Electric,Truck,30
+Pierce,2024-05,Electric,Commercial,12
+Pierce,2024-05,Electric,Exempt (State/County/Local/Tribal),1
+Pierce,2024-05,Electric,For Hire,1
+Pierce,2024-05,Electric,Medium-Speed Electric Truck,2
+Pierce,2024-05,Electric,Medium-Speed Electric Vehicle,2
+Pierce,2024-05,Electric,Motorcycle,10
+Pierce,2024-05,Electric,Neighborhood Electric Vehicle,3
+Pierce,2024-05,Electric,Off Road Vehicle,5
+Pierce,2024-05,Electric,Passenger Vehicle,1019
+Pierce,2024-05,Electric,Truck,36
+Pierce,2024-06,Electric,All Terrain Vehicle (WATV),1
+Pierce,2024-06,Electric,Commercial,27
+Pierce,2024-06,Electric,Exempt (State/County/Local/Tribal),9
+Pierce,2024-06,Electric,For Hire,1
+Pierce,2024-06,Electric,Medium-Speed Electric Truck,2
+Pierce,2024-06,Electric,Medium-Speed Electric Vehicle,3
+Pierce,2024-06,Electric,Motorcycle,1
+Pierce,2024-06,Electric,Motorhome,1
+Pierce,2024-06,Electric,Neighborhood Electric Truck,1
+Pierce,2024-06,Electric,Neighborhood Electric Vehicle,1
+Pierce,2024-06,Electric,Off Road Vehicle,1
+Pierce,2024-06,Electric,Passenger Vehicle,1114
+Pierce,2024-06,Electric,Truck,37
+Pierce,2024-07,Electric,Commercial,15
+Pierce,2024-07,Electric,Exempt (State/County/Local/Tribal),6
+Pierce,2024-07,Electric,For Hire,1
+Pierce,2024-07,Electric,Medium-Speed Electric Truck,1
+Pierce,2024-07,Electric,Medium-Speed Electric Vehicle,1
+Pierce,2024-07,Electric,Motorcycle,11
+Pierce,2024-07,Electric,Neighborhood Electric Truck,1
+Pierce,2024-07,Electric,Neighborhood Electric Vehicle,2
+Pierce,2024-07,Electric,Off Road Vehicle,8
+Pierce,2024-07,Electric,Passenger Vehicle,1231
+Pierce,2024-07,Electric,Truck,62
+Pierce,2024-08,Electric,Commercial,43
+Pierce,2024-08,Electric,Exempt (State/County/Local/Tribal),4
+Pierce,2024-08,Electric,For Hire,1
+Pierce,2024-08,Electric,Medium-Speed Electric Truck,1
+Pierce,2024-08,Electric,Motorcycle,10
+Pierce,2024-08,Electric,Neighborhood Electric Vehicle,1
+Pierce,2024-08,Electric,Off Road Vehicle,3
+Pierce,2024-08,Electric,Passenger Vehicle,1321
+Pierce,2024-08,Electric,Truck,64
+Pierce,2024-09,Electric,All Terrain Vehicle (WATV),1
+Pierce,2024-09,Electric,Commercial,39
+Pierce,2024-09,Electric,Exempt (State/County/Local/Tribal),5
+Pierce,2024-09,Electric,Medium-Speed Electric Truck,1
+Pierce,2024-09,Electric,Motorcycle,1
+Pierce,2024-09,Electric,Off Road Vehicle,2
+Pierce,2024-09,Electric,Passenger Vehicle,1410
+Pierce,2024-09,Electric,Truck,74
+Pierce,2024-10,Electric,Combination (Non-Farm Use),2
+Pierce,2024-10,Electric,Commercial,42
+Pierce,2024-10,Electric,Exempt (State/County/Local/Tribal),12
+Pierce,2024-10,Electric,Medium-Speed Electric Truck,1
+Pierce,2024-10,Electric,Motorcycle,2
+Pierce,2024-10,Electric,Neighborhood Electric Vehicle,2
+Pierce,2024-10,Electric,Off Road Vehicle,4
+Pierce,2024-10,Electric,Passenger Vehicle,1432
+Pierce,2024-10,Electric,Truck,66
+Pierce,2024-11,Electric,Commercial,19
+Pierce,2024-11,Electric,Exempt (State/County/Local/Tribal),1
+Pierce,2024-11,Electric,Medium-Speed Electric Truck,4
+Pierce,2024-11,Electric,Moped,1
+Pierce,2024-11,Electric,Motorcycle,2
+Pierce,2024-11,Electric,Passenger Vehicle,1201
+Pierce,2024-11,Electric,Truck,47
+Pierce,2024-12,Electric,All Terrain Vehicle (WATV),1
+Pierce,2024-12,Electric,Commercial,49
+Pierce,2024-12,Electric,Exempt (State/County/Local/Tribal),2
+Pierce,2024-12,Electric,Medium-Speed Electric Truck,4
+Pierce,2024-12,Electric,Medium-Speed Electric Vehicle,1
+Pierce,2024-12,Electric,Motorcycle,4
+Pierce,2024-12,Electric,Neighborhood Electric Truck,1
+Pierce,2024-12,Electric,Off Road Vehicle,1
+Pierce,2024-12,Electric,Passenger Vehicle,1406
+Pierce,2024-12,Electric,Snowmobile,1
+Pierce,2024-12,Electric,Truck,73
+Pierce,2025-01,Electric,All Terrain Vehicle (WATV),1
+Pierce,2025-01,Electric,Combination (Non-Farm Use),1
+Pierce,2025-01,Electric,Commercial,103
+Pierce,2025-01,Electric,Exempt (State/County/Local/Tribal),13
+Pierce,2025-01,Electric,Medium-Speed Electric Truck,5
+Pierce,2025-01,Electric,Motorcycle,5
+Pierce,2025-01,Electric,Neighborhood Electric Vehicle,1
+Pierce,2025-01,Electric,Off Road Vehicle,5
+Pierce,2025-01,Electric,Passenger Vehicle,1484
+Pierce,2025-01,Electric,Truck,69
+Pierce,2025-02,Electric,All Terrain Vehicle (WATV),1
+Pierce,2025-02,Electric,Commercial,25
+Pierce,2025-02,Electric,Exempt (State/County/Local/Tribal),1
+Pierce,2025-02,Electric,Medium-Speed Electric Truck,2
+Pierce,2025-02,Electric,Motorcycle,7
+Pierce,2025-02,Electric,Neighborhood Electric Truck,1
+Pierce,2025-02,Electric,Neighborhood Electric Vehicle,1
+Pierce,2025-02,Electric,Off Road Vehicle,1
+Pierce,2025-02,Electric,Passenger Vehicle,1142
+Pierce,2025-02,Electric,Truck,43
+San Juan,2023-01,Electric,Motorcycle,1
+San Juan,2023-01,Electric,Neighborhood Electric Vehicle,1
+San Juan,2023-01,Electric,Passenger Vehicle,46
+San Juan,2023-01,Electric,Truck,1
+San Juan,2023-02,Electric,Commercial,1
+San Juan,2023-02,Electric,Exempt (State/County/Local/Tribal),1
+San Juan,2023-02,Electric,Motorcycle,5
+San Juan,2023-02,Electric,Passenger Vehicle,49
+San Juan,2023-02,Electric,Truck,2
+San Juan,2023-03,Electric,Cab,1
+San Juan,2023-03,Electric,Commercial,1
+San Juan,2023-03,Electric,Motorcycle,1
+San Juan,2023-03,Electric,Off Road Vehicle,1
+San Juan,2023-03,Electric,Passenger Vehicle,60
+San Juan,2023-04,Electric,All Terrain Vehicle (WATV),1
+San Juan,2023-04,Electric,Exempt (State/County/Local/Tribal),1
+San Juan,2023-04,Electric,Medium-Speed Electric Truck,1
+San Juan,2023-04,Electric,Moped,1
+San Juan,2023-04,Electric,Motorcycle,1
+San Juan,2023-04,Electric,Neighborhood Electric Vehicle,3
+San Juan,2023-04,Electric,Passenger Vehicle,58
+San Juan,2023-04,Electric,Truck,2
+San Juan,2023-05,Electric,Commercial,3
+San Juan,2023-05,Electric,Medium-Speed Electric Vehicle,1
+San Juan,2023-05,Electric,Motorcycle,3
+San Juan,2023-05,Electric,Neighborhood Electric Vehicle,1
+San Juan,2023-05,Electric,Passenger Vehicle,58
+San Juan,2023-06,Electric,Cab,1
+San Juan,2023-06,Electric,Moped,5
+San Juan,2023-06,Electric,Motorcycle,2
+San Juan,2023-06,Electric,Neighborhood Electric Vehicle,2
+San Juan,2023-06,Electric,Passenger Vehicle,51
+San Juan,2023-07,Electric,All Terrain Vehicle (WATV),1
+San Juan,2023-07,Electric,Medium-Speed Electric Vehicle,1
+San Juan,2023-07,Electric,Motorcycle,4
+San Juan,2023-07,Electric,Neighborhood Electric Vehicle,3
+San Juan,2023-07,Electric,Passenger Vehicle,59
+San Juan,2023-07,Electric,Truck,4
+San Juan,2023-08,Electric,Motorcycle,3
+San Juan,2023-08,Electric,Neighborhood Electric Vehicle,2
+San Juan,2023-08,Electric,Passenger Vehicle,71
+San Juan,2023-08,Electric,Truck,1
+San Juan,2023-09,Electric,Commercial,1
+San Juan,2023-09,Electric,Exempt (State/County/Local/Tribal),1
+San Juan,2023-09,Electric,Neighborhood Electric Vehicle,1
+San Juan,2023-09,Electric,Passenger Vehicle,74
+San Juan,2023-09,Electric,Truck,1
+San Juan,2023-10,Electric,All Terrain Vehicle (WATV),1
+San Juan,2023-10,Electric,Neighborhood Electric Vehicle,1
+San Juan,2023-10,Electric,Passenger Vehicle,57
+San Juan,2023-10,Electric,Truck,1
+San Juan,2023-11,Electric,All Terrain Vehicle (WATV),1
+San Juan,2023-11,Electric,Medium-Speed Electric Vehicle,1
+San Juan,2023-11,Electric,Neighborhood Electric Vehicle,1
+San Juan,2023-11,Electric,Passenger Vehicle,62
+San Juan,2023-11,Electric,Truck,4
+San Juan,2023-12,Electric,Motorcycle,1
+San Juan,2023-12,Electric,Neighborhood Electric Vehicle,1
+San Juan,2023-12,Electric,Passenger Vehicle,53
+San Juan,2023-12,Electric,Truck,3
+San Juan,2024-01,Electric,Passenger Vehicle,68
+San Juan,2024-01,Electric,Truck,8
+San Juan,2024-02,Electric,All Terrain Vehicle (WATV),1
+San Juan,2024-02,Electric,Commercial,1
+San Juan,2024-02,Electric,Exempt (State/County/Local/Tribal),1
+San Juan,2024-02,Electric,Motorcycle,3
+San Juan,2024-02,Electric,Neighborhood Electric Truck,1
+San Juan,2024-02,Electric,Neighborhood Electric Vehicle,1
+San Juan,2024-02,Electric,Passenger Vehicle,61
+San Juan,2024-02,Electric,Truck,1
+San Juan,2024-03,Electric,Commercial,1
+San Juan,2024-03,Electric,Neighborhood Electric Vehicle,1
+San Juan,2024-03,Electric,Passenger Vehicle,63
+San Juan,2024-03,Electric,Truck,1
+San Juan,2024-04,Electric,All Terrain Vehicle (WATV),3
+San Juan,2024-04,Electric,Commercial,2
+San Juan,2024-04,Electric,Exempt (State/County/Local/Tribal),1
+San Juan,2024-04,Electric,Medium-Speed Electric Truck,1
+San Juan,2024-04,Electric,Moped,4
+San Juan,2024-04,Electric,Motorcycle,4
+San Juan,2024-04,Electric,Neighborhood Electric Vehicle,2
+San Juan,2024-04,Electric,Passenger Vehicle,61
+San Juan,2024-04,Electric,Truck,2
+San Juan,2024-05,Electric,Cab,1
+San Juan,2024-05,Electric,Exempt (State/County/Local/Tribal),1
+San Juan,2024-05,Electric,Medium-Speed Electric Vehicle,1
+San Juan,2024-05,Electric,Motorcycle,1
+San Juan,2024-05,Electric,Neighborhood Electric Vehicle,2
+San Juan,2024-05,Electric,Passenger Vehicle,89
+San Juan,2024-05,Electric,Truck,1
+San Juan,2024-06,Electric,Medium-Speed Electric Vehicle,1
+San Juan,2024-06,Electric,Moped,1
+San Juan,2024-06,Electric,Passenger Vehicle,58
+San Juan,2024-06,Electric,Truck,3
+San Juan,2024-07,Electric,All Terrain Vehicle (WATV),1
+San Juan,2024-07,Electric,Exempt (State/County/Local/Tribal),1
+San Juan,2024-07,Electric,Moped,1
+San Juan,2024-07,Electric,Motorcycle,2
+San Juan,2024-07,Electric,Neighborhood Electric Vehicle,3
+San Juan,2024-07,Electric,Passenger Vehicle,69
+San Juan,2024-07,Electric,Truck,7
+San Juan,2024-08,Electric,All Terrain Vehicle (WATV),1
+San Juan,2024-08,Electric,Commercial,1
+San Juan,2024-08,Electric,Medium-Speed Electric Vehicle,3
+San Juan,2024-08,Electric,Neighborhood Electric Vehicle,1
+San Juan,2024-08,Electric,Passenger Vehicle,75
+San Juan,2024-08,Electric,Truck,1
+San Juan,2024-09,Electric,Commercial,1
+San Juan,2024-09,Electric,Exempt (State/County/Local/Tribal),1
+San Juan,2024-09,Electric,Passenger Vehicle,73
+San Juan,2024-09,Electric,Truck,3
+San Juan,2024-10,Electric,All Terrain Vehicle (WATV),2
+San Juan,2024-10,Electric,Commercial,1
+San Juan,2024-10,Electric,Neighborhood Electric Vehicle,3
+San Juan,2024-10,Electric,Passenger Vehicle,73
+San Juan,2024-10,Electric,Truck,4
+San Juan,2024-11,Electric,Commercial,3
+San Juan,2024-11,Electric,Neighborhood Electric Truck,1
+San Juan,2024-11,Electric,Passenger Vehicle,66
+San Juan,2024-11,Electric,Truck,1
+San Juan,2024-12,Electric,Cab,1
+San Juan,2024-12,Electric,Commercial,1
+San Juan,2024-12,Electric,Neighborhood Electric Vehicle,1
+San Juan,2024-12,Electric,Passenger Vehicle,79
+San Juan,2024-12,Electric,Truck,8
+San Juan,2025-01,Electric,All Terrain Vehicle (WATV),1
+San Juan,2025-01,Electric,Cab,1
+San Juan,2025-01,Electric,Commercial,1
+San Juan,2025-01,Electric,Farm Exempt,1
+San Juan,2025-01,Electric,Motorcycle,1
+San Juan,2025-01,Electric,Neighborhood Electric Vehicle,1
+San Juan,2025-01,Electric,Passenger Vehicle,70
+San Juan,2025-01,Electric,Truck,4
+San Juan,2025-02,Electric,Passenger Vehicle,60
+San Juan,2025-02,Electric,Truck,1
+Skagit,2023-01,Electric,Passenger Vehicle,99
+Skagit,2023-02,Electric,Passenger Vehicle,101
+Skagit,2023-02,Electric,Truck,3
+Skagit,2023-03,Electric,All Terrain Vehicle (WATV),1
+Skagit,2023-03,Electric,Passenger Vehicle,125
+Skagit,2023-03,Electric,Truck,5
+Skagit,2023-04,Electric,All Terrain Vehicle (WATV),1
+Skagit,2023-04,Electric,Commercial,1
+Skagit,2023-04,Electric,Moped,2
+Skagit,2023-04,Electric,Neighborhood Electric Vehicle,2
+Skagit,2023-04,Electric,Passenger Vehicle,103
+Skagit,2023-04,Electric,Truck,1
+Skagit,2023-05,Electric,Commercial,1
+Skagit,2023-05,Electric,Medium-Speed Electric Vehicle,1
+Skagit,2023-05,Electric,Neighborhood Electric Vehicle,2
+Skagit,2023-05,Electric,Passenger Vehicle,120
+Skagit,2023-05,Electric,Truck,1
+Skagit,2023-06,Electric,Commercial,2
+Skagit,2023-06,Electric,Passenger Vehicle,117
+Skagit,2023-06,Electric,Truck,3
+Skagit,2023-07,Electric,Moped,1
+Skagit,2023-07,Electric,Passenger Vehicle,122
+Skagit,2023-07,Electric,Truck,9
+Skagit,2023-08,Electric,Commercial,3
+Skagit,2023-08,Electric,Moped,1
+Skagit,2023-08,Electric,Motorcycle,3
+Skagit,2023-08,Electric,Off Road Vehicle,1
+Skagit,2023-08,Electric,Passenger Vehicle,128
+Skagit,2023-08,Electric,Truck,1
+Skagit,2023-09,Electric,Moped,2
+Skagit,2023-09,Electric,Neighborhood Electric Vehicle,1
+Skagit,2023-09,Electric,Passenger Vehicle,152
+Skagit,2023-09,Electric,Truck,1
+Skagit,2023-10,Electric,Commercial,1
+Skagit,2023-10,Electric,Medium-Speed Electric Vehicle,1
+Skagit,2023-10,Electric,Passenger Vehicle,139
+Skagit,2023-10,Electric,Truck,7
+Skagit,2023-11,Electric,Exempt (State/County/Local/Tribal),2
+Skagit,2023-11,Electric,Motorcycle,1
+Skagit,2023-11,Electric,Neighborhood Electric Vehicle,1
+Skagit,2023-11,Electric,Passenger Vehicle,114
+Skagit,2023-12,Electric,Commercial,1
+Skagit,2023-12,Electric,Motorcycle,1
+Skagit,2023-12,Electric,Neighborhood Electric Vehicle,1
+Skagit,2023-12,Electric,Passenger Vehicle,128
+Skagit,2023-12,Electric,Truck,1
+Skagit,2024-01,Electric,Motorcycle,1
+Skagit,2024-01,Electric,Passenger Vehicle,139
+Skagit,2024-01,Electric,Truck,2
+Skagit,2024-02,Electric,Commercial,1
+Skagit,2024-02,Electric,Exempt (State/County/Local/Tribal),1
+Skagit,2024-02,Electric,Motorcycle,2
+Skagit,2024-02,Electric,Neighborhood Electric Vehicle,1
+Skagit,2024-02,Electric,Off Road Vehicle,1
+Skagit,2024-02,Electric,Passenger Vehicle,109
+Skagit,2024-02,Electric,Truck,7
+Skagit,2024-03,Electric,All Terrain Vehicle (WATV),2
+Skagit,2024-03,Electric,Commercial,2
+Skagit,2024-03,Electric,Exempt (State/County/Local/Tribal),4
+Skagit,2024-03,Electric,Neighborhood Electric Vehicle,1
+Skagit,2024-03,Electric,Passenger Vehicle,144
+Skagit,2024-03,Electric,Truck,3
+Skagit,2024-04,Electric,Commercial,2
+Skagit,2024-04,Electric,Exempt (State/County/Local/Tribal),1
+Skagit,2024-04,Electric,Medium-Speed Electric Vehicle,1
+Skagit,2024-04,Electric,Neighborhood Electric Vehicle,1
+Skagit,2024-04,Electric,Off Road Vehicle,2
+Skagit,2024-04,Electric,Passenger Vehicle,130
+Skagit,2024-04,Electric,Truck,4
+Skagit,2024-05,Electric,Exempt (State/County/Local/Tribal),1
+Skagit,2024-05,Electric,Neighborhood Electric Vehicle,2
+Skagit,2024-05,Electric,Passenger Vehicle,162
+Skagit,2024-05,Electric,Truck,10
+Skagit,2024-06,Electric,Commercial,1
+Skagit,2024-06,Electric,Moped,1
+Skagit,2024-06,Electric,Motorcycle,3
+Skagit,2024-06,Electric,Passenger Vehicle,151
+Skagit,2024-06,Electric,Truck,6
+Skagit,2024-07,Electric,Commercial,1
+Skagit,2024-07,Electric,Exempt (State/County/Local/Tribal),1
+Skagit,2024-07,Electric,Moped,4
+Skagit,2024-07,Electric,Motorcycle,2
+Skagit,2024-07,Electric,Passenger Vehicle,180
+Skagit,2024-07,Electric,Truck,4
+Skagit,2024-08,Electric,Commercial,45
+Skagit,2024-08,Electric,Moped,1
+Skagit,2024-08,Electric,Passenger Vehicle,154
+Skagit,2024-08,Electric,Truck,9
+Skagit,2024-09,Electric,Commercial,31
+Skagit,2024-09,Electric,Exempt (State/County/Local/Tribal),2
+Skagit,2024-09,Electric,Neighborhood Electric Vehicle,1
+Skagit,2024-09,Electric,Passenger Vehicle,199
+Skagit,2024-09,Electric,Truck,7
+Skagit,2024-10,Electric,Commercial,1
+Skagit,2024-10,Electric,Motorcycle,1
+Skagit,2024-10,Electric,Passenger Vehicle,207
+Skagit,2024-10,Electric,Truck,6
+Skagit,2024-11,Electric,Motorcycle,1
+Skagit,2024-11,Electric,Passenger Vehicle,134
+Skagit,2024-11,Electric,Truck,4
+Skagit,2024-12,Electric,Commercial,3
+Skagit,2024-12,Electric,Neighborhood Electric Vehicle,1
+Skagit,2024-12,Electric,Passenger Vehicle,178
+Skagit,2024-12,Electric,Truck,7
+Skagit,2025-01,Electric,Commercial,1
+Skagit,2025-01,Electric,Exempt (State/County/Local/Tribal),3
+Skagit,2025-01,Electric,Neighborhood Electric Vehicle,1
+Skagit,2025-01,Electric,Passenger Vehicle,193
+Skagit,2025-01,Electric,Truck,6
+Skagit,2025-02,Electric,Commercial,20
+Skagit,2025-02,Electric,Exempt (State/County/Local/Tribal),3
+Skagit,2025-02,Electric,Passenger Vehicle,147
+Skagit,2025-02,Electric,Truck,11
+Skamania,2023-01,Electric,Passenger Vehicle,8
+Skamania,2023-01,Electric,Truck,1
+Skamania,2023-02,Electric,Passenger Vehicle,3
+Skamania,2023-03,Electric,Passenger Vehicle,11
+Skamania,2023-04,Electric,Medium-Speed Electric Vehicle,1
+Skamania,2023-04,Electric,Passenger Vehicle,5
+Skamania,2023-05,Electric,Passenger Vehicle,7
+Skamania,2023-06,Electric,Passenger Vehicle,12
+Skamania,2023-07,Electric,Passenger Vehicle,16
+Skamania,2023-08,Electric,Passenger Vehicle,8
+Skamania,2023-09,Electric,Passenger Vehicle,13
+Skamania,2023-10,Electric,Exempt (State/County/Local/Tribal),1
+Skamania,2023-10,Electric,Passenger Vehicle,10
+Skamania,2023-11,Electric,Passenger Vehicle,18
+Skamania,2023-12,Electric,Passenger Vehicle,6
+Skamania,2023-12,Electric,Truck,1
+Skamania,2024-01,Electric,Passenger Vehicle,4
+Skamania,2024-01,Electric,Truck,1
+Skamania,2024-02,Electric,Passenger Vehicle,4
+Skamania,2024-02,Electric,Truck,1
+Skamania,2024-03,Electric,Passenger Vehicle,21
+Skamania,2024-04,Electric,Passenger Vehicle,4
+Skamania,2024-05,Electric,Motorcycle,1
+Skamania,2024-05,Electric,Passenger Vehicle,16
+Skamania,2024-05,Electric,Truck,1
+Skamania,2024-06,Electric,Motorcycle,1
+Skamania,2024-06,Electric,Off Road Vehicle,1
+Skamania,2024-06,Electric,Passenger Vehicle,20
+Skamania,2024-07,Electric,Passenger Vehicle,16
+Skamania,2024-08,Electric,Passenger Vehicle,12
+Skamania,2024-08,Electric,Truck,1
+Skamania,2024-09,Electric,Passenger Vehicle,18
+Skamania,2024-09,Electric,Truck,1
+Skamania,2024-10,Electric,Neighborhood Electric Vehicle,1
+Skamania,2024-10,Electric,Passenger Vehicle,10
+Skamania,2024-10,Electric,Truck,1
+Skamania,2024-11,Electric,Passenger Vehicle,16
+Skamania,2024-11,Electric,Truck,1
+Skamania,2024-12,Electric,Medium-Speed Electric Vehicle,1
+Skamania,2024-12,Electric,Passenger Vehicle,19
+Skamania,2025-01,Electric,Passenger Vehicle,8
+Skamania,2025-01,Electric,Truck,1
+Skamania,2025-02,Electric,Passenger Vehicle,10
+Skamania,2025-02,Electric,Truck,1
+Snohomish,2023-01,Electric,Antique Vehicle,1
+Snohomish,2023-01,Electric,Commercial,8
+Snohomish,2023-01,Electric,Exempt (State/County/Local/Tribal),4
+Snohomish,2023-01,Electric,Medium-Speed Electric Truck,3
+Snohomish,2023-01,Electric,Motorcycle,7
+Snohomish,2023-01,Electric,Motorhome,1
+Snohomish,2023-01,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2023-01,Electric,Off Road Vehicle,4
+Snohomish,2023-01,Electric,Passenger Vehicle,1082
+Snohomish,2023-01,Electric,Truck,26
+Snohomish,2023-02,Electric,Commercial,5
+Snohomish,2023-02,Electric,Exempt (State/County/Local/Tribal),2
+Snohomish,2023-02,Electric,Motorcycle,6
+Snohomish,2023-02,Electric,Off Road Vehicle,1
+Snohomish,2023-02,Electric,Passenger Vehicle,977
+Snohomish,2023-02,Electric,Truck,14
+Snohomish,2023-03,Electric,Commercial,2
+Snohomish,2023-03,Electric,Exempt (State/County/Local/Tribal),8
+Snohomish,2023-03,Electric,Motorcycle,7
+Snohomish,2023-03,Electric,Neighborhood Electric Truck,1
+Snohomish,2023-03,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2023-03,Electric,Off Road Vehicle,1
+Snohomish,2023-03,Electric,Passenger Vehicle,1303
+Snohomish,2023-03,Electric,Truck,19
+Snohomish,2023-04,Electric,Commercial,3
+Snohomish,2023-04,Electric,Exempt (State/County/Local/Tribal),5
+Snohomish,2023-04,Electric,Medium-Speed Electric Truck,3
+Snohomish,2023-04,Electric,Medium-Speed Electric Vehicle,1
+Snohomish,2023-04,Electric,Moped,1
+Snohomish,2023-04,Electric,Motorcycle,5
+Snohomish,2023-04,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2023-04,Electric,Off Road Vehicle,1
+Snohomish,2023-04,Electric,Passenger Vehicle,1123
+Snohomish,2023-04,Electric,Truck,17
+Snohomish,2023-05,Electric,All Terrain Vehicle (WATV),1
+Snohomish,2023-05,Electric,Commercial,3
+Snohomish,2023-05,Electric,Exempt (State/County/Local/Tribal),3
+Snohomish,2023-05,Electric,Medium-Speed Electric Truck,1
+Snohomish,2023-05,Electric,Medium-Speed Electric Vehicle,1
+Snohomish,2023-05,Electric,Motorcycle,10
+Snohomish,2023-05,Electric,Motorhome,1
+Snohomish,2023-05,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2023-05,Electric,Off Road Vehicle,1
+Snohomish,2023-05,Electric,Passenger Vehicle,1401
+Snohomish,2023-05,Electric,Truck,20
+Snohomish,2023-06,Electric,All Terrain Vehicle (WATV),1
+Snohomish,2023-06,Electric,Commercial,6
+Snohomish,2023-06,Electric,Exempt (State/County/Local/Tribal),7
+Snohomish,2023-06,Electric,Medium-Speed Electric Vehicle,2
+Snohomish,2023-06,Electric,Motorcycle,7
+Snohomish,2023-06,Electric,Off Road Vehicle,3
+Snohomish,2023-06,Electric,Passenger Vehicle,1401
+Snohomish,2023-06,Electric,Truck,17
+Snohomish,2023-07,Electric,Commercial,8
+Snohomish,2023-07,Electric,Exempt (State/County/Local/Tribal),1
+Snohomish,2023-07,Electric,For Hire,1
+Snohomish,2023-07,Electric,Medium-Speed Electric Truck,3
+Snohomish,2023-07,Electric,Medium-Speed Electric Vehicle,1
+Snohomish,2023-07,Electric,Moped,2
+Snohomish,2023-07,Electric,Motorcycle,4
+Snohomish,2023-07,Electric,Neighborhood Electric Vehicle,2
+Snohomish,2023-07,Electric,Off Road Vehicle,2
+Snohomish,2023-07,Electric,Passenger Vehicle,1483
+Snohomish,2023-07,Electric,Truck,41
+Snohomish,2023-08,Electric,Commercial,7
+Snohomish,2023-08,Electric,Exempt (State/County/Local/Tribal),17
+Snohomish,2023-08,Electric,Medium-Speed Electric Truck,1
+Snohomish,2023-08,Electric,Motorcycle,4
+Snohomish,2023-08,Electric,Neighborhood Electric Truck,1
+Snohomish,2023-08,Electric,Neighborhood Electric Vehicle,4
+Snohomish,2023-08,Electric,Off Road Vehicle,3
+Snohomish,2023-08,Electric,Passenger Vehicle,1795
+Snohomish,2023-08,Electric,Truck,22
+Snohomish,2023-09,Electric,Commercial,4
+Snohomish,2023-09,Electric,Exempt (State/County/Local/Tribal),3
+Snohomish,2023-09,Electric,Medium-Speed Electric Truck,1
+Snohomish,2023-09,Electric,Medium-Speed Electric Vehicle,1
+Snohomish,2023-09,Electric,Motorcycle,2
+Snohomish,2023-09,Electric,Neighborhood Electric Vehicle,3
+Snohomish,2023-09,Electric,Off Road Vehicle,3
+Snohomish,2023-09,Electric,Passenger Vehicle,1613
+Snohomish,2023-09,Electric,Truck,23
+Snohomish,2023-10,Electric,Commercial,7
+Snohomish,2023-10,Electric,Exempt (State/County/Local/Tribal),2
+Snohomish,2023-10,Electric,For Hire,1
+Snohomish,2023-10,Electric,Medium-Speed Electric Truck,1
+Snohomish,2023-10,Electric,Motorcycle,8
+Snohomish,2023-10,Electric,Motorhome,1
+Snohomish,2023-10,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2023-10,Electric,Off Road Vehicle,2
+Snohomish,2023-10,Electric,Passenger Vehicle,1709
+Snohomish,2023-10,Electric,Truck,22
+Snohomish,2023-11,Electric,Commercial,5
+Snohomish,2023-11,Electric,For Hire,1
+Snohomish,2023-11,Electric,Medium-Speed Electric Truck,3
+Snohomish,2023-11,Electric,Motorcycle,6
+Snohomish,2023-11,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2023-11,Electric,Off Road Vehicle,1
+Snohomish,2023-11,Electric,Passenger Vehicle,1448
+Snohomish,2023-11,Electric,Truck,59
+Snohomish,2023-12,Electric,All Terrain Vehicle (WATV),3
+Snohomish,2023-12,Electric,Commercial,15
+Snohomish,2023-12,Electric,Exempt (State/County/Local/Tribal),6
+Snohomish,2023-12,Electric,Medium-Speed Electric Truck,2
+Snohomish,2023-12,Electric,Motorcycle,3
+Snohomish,2023-12,Electric,Neighborhood Electric Truck,1
+Snohomish,2023-12,Electric,Off Road Vehicle,5
+Snohomish,2023-12,Electric,Passenger Vehicle,1542
+Snohomish,2023-12,Electric,Truck,44
+Snohomish,2024-01,Electric,All Terrain Vehicle (WATV),1
+Snohomish,2024-01,Electric,Commercial,10
+Snohomish,2024-01,Electric,Exempt (State/County/Local/Tribal),11
+Snohomish,2024-01,Electric,Motorcycle,8
+Snohomish,2024-01,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2024-01,Electric,Off Road Vehicle,2
+Snohomish,2024-01,Electric,Passenger Vehicle,1775
+Snohomish,2024-01,Electric,Truck,29
+Snohomish,2024-02,Electric,All Terrain Vehicle (WATV),1
+Snohomish,2024-02,Electric,Commercial,1
+Snohomish,2024-02,Electric,Exempt (State/County/Local/Tribal),6
+Snohomish,2024-02,Electric,Medium-Speed Electric Truck,1
+Snohomish,2024-02,Electric,Motorcycle,7
+Snohomish,2024-02,Electric,Motorhome,1
+Snohomish,2024-02,Electric,Neighborhood Electric Truck,1
+Snohomish,2024-02,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2024-02,Electric,Off Road Vehicle,3
+Snohomish,2024-02,Electric,Passenger Vehicle,1622
+Snohomish,2024-02,Electric,Truck,34
+Snohomish,2024-03,Electric,Commercial,9
+Snohomish,2024-03,Electric,Exempt (State/County/Local/Tribal),8
+Snohomish,2024-03,Electric,Medium-Speed Electric Truck,1
+Snohomish,2024-03,Electric,Moped,1
+Snohomish,2024-03,Electric,Motorcycle,6
+Snohomish,2024-03,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2024-03,Electric,Off Road Vehicle,5
+Snohomish,2024-03,Electric,Passenger Vehicle,1651
+Snohomish,2024-03,Electric,Truck,41
+Snohomish,2024-04,Electric,Commercial,7
+Snohomish,2024-04,Electric,Exempt (State/County/Local/Tribal),1
+Snohomish,2024-04,Electric,Moped,1
+Snohomish,2024-04,Electric,Motorcycle,4
+Snohomish,2024-04,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2024-04,Electric,Off Road Vehicle,5
+Snohomish,2024-04,Electric,Passenger Vehicle,1631
+Snohomish,2024-04,Electric,Truck,28
+Snohomish,2024-05,Electric,Commercial,11
+Snohomish,2024-05,Electric,Exempt (State/County/Local/Tribal),1
+Snohomish,2024-05,Electric,Medium-Speed Electric Truck,2
+Snohomish,2024-05,Electric,Medium-Speed Electric Vehicle,3
+Snohomish,2024-05,Electric,Motorcycle,11
+Snohomish,2024-05,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2024-05,Electric,Off Road Vehicle,3
+Snohomish,2024-05,Electric,Passenger Vehicle,1971
+Snohomish,2024-05,Electric,Truck,49
+Snohomish,2024-06,Electric,All Terrain Vehicle (WATV),1
+Snohomish,2024-06,Electric,Commercial,6
+Snohomish,2024-06,Electric,Exempt (State/County/Local/Tribal),11
+Snohomish,2024-06,Electric,For Hire,2
+Snohomish,2024-06,Electric,Medium-Speed Electric Truck,2
+Snohomish,2024-06,Electric,Medium-Speed Electric Vehicle,2
+Snohomish,2024-06,Electric,Moped,1
+Snohomish,2024-06,Electric,Motorcycle,5
+Snohomish,2024-06,Electric,Neighborhood Electric Vehicle,3
+Snohomish,2024-06,Electric,Passenger Vehicle,1928
+Snohomish,2024-06,Electric,Truck,52
+Snohomish,2024-07,Electric,Commercial,7
+Snohomish,2024-07,Electric,Exempt (State/County/Local/Tribal),4
+Snohomish,2024-07,Electric,For Hire,1
+Snohomish,2024-07,Electric,Medium-Speed Electric Truck,2
+Snohomish,2024-07,Electric,Medium-Speed Electric Vehicle,1
+Snohomish,2024-07,Electric,Motorcycle,5
+Snohomish,2024-07,Electric,Neighborhood Electric Vehicle,1
+Snohomish,2024-07,Electric,Off Road Vehicle,1
+Snohomish,2024-07,Electric,Passenger Vehicle,2156
+Snohomish,2024-07,Electric,Truck,56
+Snohomish,2024-08,Electric,Combination (Non-Farm Use),1
+Snohomish,2024-08,Electric,Commercial,10
+Snohomish,2024-08,Electric,Exempt (State/County/Local/Tribal),4
+Snohomish,2024-08,Electric,Medium-Speed Electric Vehicle,3
+Snohomish,2024-08,Electric,Motorcycle,8
+Snohomish,2024-08,Electric,Neighborhood Electric Truck,1
+Snohomish,2024-08,Electric,Neighborhood Electric Vehicle,3
+Snohomish,2024-08,Electric,Off Road Vehicle,5
+Snohomish,2024-08,Electric,Passenger Vehicle,2295
+Snohomish,2024-08,Electric,Truck,77
+Snohomish,2024-09,Electric,All Terrain Vehicle (WATV),1
+Snohomish,2024-09,Electric,Commercial,24
+Snohomish,2024-09,Electric,Exempt (State/County/Local/Tribal),1
+Snohomish,2024-09,Electric,Medium-Speed Electric Truck,1
+Snohomish,2024-09,Electric,Motorcycle,6
+Snohomish,2024-09,Electric,Neighborhood Electric Truck,1
+Snohomish,2024-09,Electric,Neighborhood Electric Vehicle,2
+Snohomish,2024-09,Electric,Off Road Vehicle,3
+Snohomish,2024-09,Electric,Passenger Vehicle,2330
+Snohomish,2024-09,Electric,Truck,71
+Snohomish,2024-10,Electric,All Terrain Vehicle (WATV),1
+Snohomish,2024-10,Electric,Commercial,12
+Snohomish,2024-10,Electric,Exempt (State/County/Local/Tribal),2
+Snohomish,2024-10,Electric,Medium-Speed Electric Truck,2
+Snohomish,2024-10,Electric,Motorcycle,8
+Snohomish,2024-10,Electric,Motorhome,1
+Snohomish,2024-10,Electric,Neighborhood Electric Vehicle,3
+Snohomish,2024-10,Electric,Off Road Vehicle,3
+Snohomish,2024-10,Electric,Passenger Vehicle,2289
+Snohomish,2024-10,Electric,Truck,76
+Snohomish,2024-11,Electric,All Terrain Vehicle (WATV),1
+Snohomish,2024-11,Electric,Commercial,19
+Snohomish,2024-11,Electric,Exempt (State/County/Local/Tribal),7
+Snohomish,2024-11,Electric,Medium-Speed Electric Truck,2
+Snohomish,2024-11,Electric,Motorcycle,3
+Snohomish,2024-11,Electric,Passenger Vehicle,1880
+Snohomish,2024-11,Electric,Truck,59
+Snohomish,2024-12,Electric,All Terrain Vehicle (WATV),1
+Snohomish,2024-12,Electric,Commercial,27
+Snohomish,2024-12,Electric,Exempt (State/County/Local/Tribal),5
+Snohomish,2024-12,Electric,Medium-Speed Electric Truck,2
+Snohomish,2024-12,Electric,Motorcycle,8
+Snohomish,2024-12,Electric,Off Road Vehicle,1
+Snohomish,2024-12,Electric,Passenger Vehicle,2259
+Snohomish,2024-12,Electric,Truck,77
+Snohomish,2025-01,Electric,All Terrain Vehicle (WATV),1
+Snohomish,2025-01,Electric,Commercial,24
+Snohomish,2025-01,Electric,Exempt (State/County/Local/Tribal),2
+Snohomish,2025-01,Electric,Medium-Speed Electric Truck,1
+Snohomish,2025-01,Electric,Motorcycle,7
+Snohomish,2025-01,Electric,Motorhome,1
+Snohomish,2025-01,Electric,Neighborhood Electric Truck,1
+Snohomish,2025-01,Electric,Neighborhood Electric Vehicle,2
+Snohomish,2025-01,Electric,Off Road Vehicle,5
+Snohomish,2025-01,Electric,Passenger Vehicle,2397
+Snohomish,2025-01,Electric,Truck,82
+Snohomish,2025-02,Electric,Commercial,23
+Snohomish,2025-02,Electric,Exempt (State/County/Local/Tribal),1
+Snohomish,2025-02,Electric,Motorcycle,3
+Snohomish,2025-02,Electric,Neighborhood Electric Vehicle,2
+Snohomish,2025-02,Electric,Off Road Vehicle,3
+Snohomish,2025-02,Electric,Passenger Vehicle,1932
+Snohomish,2025-02,Electric,Truck,55
+Spokane,2023-01,Electric,All Terrain Vehicle (WATV),1
+Spokane,2023-01,Electric,Exempt (State/County/Local/Tribal),2
+Spokane,2023-01,Electric,Motorcycle,1
+Spokane,2023-01,Electric,Neighborhood Electric Truck,1
+Spokane,2023-01,Electric,Passenger Vehicle,186
+Spokane,2023-01,Electric,Truck,4
+Spokane,2023-02,Electric,Medium-Speed Electric Truck,1
+Spokane,2023-02,Electric,Motorcycle,6
+Spokane,2023-02,Electric,Neighborhood Electric Vehicle,2
+Spokane,2023-02,Electric,Passenger Vehicle,160
+Spokane,2023-02,Electric,Truck,6
+Spokane,2023-03,Electric,Commercial,3
+Spokane,2023-03,Electric,Medium-Speed Electric Truck,4
+Spokane,2023-03,Electric,Medium-Speed Electric Vehicle,1
+Spokane,2023-03,Electric,Moped,1
+Spokane,2023-03,Electric,Motorcycle,3
+Spokane,2023-03,Electric,Neighborhood Electric Vehicle,2
+Spokane,2023-03,Electric,Passenger Vehicle,231
+Spokane,2023-03,Electric,Truck,6
+Spokane,2023-04,Electric,Commercial,3
+Spokane,2023-04,Electric,Exempt (State/County/Local/Tribal),2
+Spokane,2023-04,Electric,Medium-Speed Electric Truck,2
+Spokane,2023-04,Electric,Motorcycle,2
+Spokane,2023-04,Electric,Neighborhood Electric Vehicle,1
+Spokane,2023-04,Electric,Off Road Vehicle,3
+Spokane,2023-04,Electric,Passenger Vehicle,216
+Spokane,2023-04,Electric,Truck,6
+Spokane,2023-05,Electric,Commercial,2
+Spokane,2023-05,Electric,Exempt (State/County/Local/Tribal),11
+Spokane,2023-05,Electric,Medium-Speed Electric Truck,2
+Spokane,2023-05,Electric,Medium-Speed Electric Vehicle,1
+Spokane,2023-05,Electric,Motorcycle,1
+Spokane,2023-05,Electric,Neighborhood Electric Vehicle,3
+Spokane,2023-05,Electric,Off Road Vehicle,11
+Spokane,2023-05,Electric,Passenger Vehicle,243
+Spokane,2023-05,Electric,Truck,6
+Spokane,2023-06,Electric,Commercial,3
+Spokane,2023-06,Electric,Medium-Speed Electric Truck,1
+Spokane,2023-06,Electric,Medium-Speed Electric Vehicle,3
+Spokane,2023-06,Electric,Motorcycle,2
+Spokane,2023-06,Electric,Neighborhood Electric Vehicle,1
+Spokane,2023-06,Electric,Off Road Vehicle,16
+Spokane,2023-06,Electric,Passenger Vehicle,244
+Spokane,2023-06,Electric,Truck,5
+Spokane,2023-07,Electric,All Terrain Vehicle (WATV),1
+Spokane,2023-07,Electric,Commercial,2
+Spokane,2023-07,Electric,Exempt (State/County/Local/Tribal),3
+Spokane,2023-07,Electric,Medium-Speed Electric Truck,2
+Spokane,2023-07,Electric,Motorcycle,1
+Spokane,2023-07,Electric,Neighborhood Electric Vehicle,2
+Spokane,2023-07,Electric,Off Road Vehicle,13
+Spokane,2023-07,Electric,Passenger Vehicle,274
+Spokane,2023-07,Electric,Truck,9
+Spokane,2023-08,Electric,All Terrain Vehicle (WATV),2
+Spokane,2023-08,Electric,Exempt (State/County/Local/Tribal),1
+Spokane,2023-08,Electric,Medium-Speed Electric Truck,1
+Spokane,2023-08,Electric,Medium-Speed Electric Vehicle,3
+Spokane,2023-08,Electric,Motorcycle,2
+Spokane,2023-08,Electric,Neighborhood Electric Vehicle,4
+Spokane,2023-08,Electric,Off Road Vehicle,20
+Spokane,2023-08,Electric,Passenger Vehicle,298
+Spokane,2023-08,Electric,Truck,4
+Spokane,2023-09,Electric,Commercial,4
+Spokane,2023-09,Electric,Exempt (State/County/Local/Tribal),1
+Spokane,2023-09,Electric,Medium-Speed Electric Truck,3
+Spokane,2023-09,Electric,Medium-Speed Electric Vehicle,2
+Spokane,2023-09,Electric,Motorcycle,2
+Spokane,2023-09,Electric,Neighborhood Electric Vehicle,3
+Spokane,2023-09,Electric,Off Road Vehicle,4
+Spokane,2023-09,Electric,Passenger Vehicle,299
+Spokane,2023-09,Electric,Truck,12
+Spokane,2023-10,Electric,Exempt (State/County/Local/Tribal),3
+Spokane,2023-10,Electric,Medium-Speed Electric Truck,3
+Spokane,2023-10,Electric,Motorcycle,2
+Spokane,2023-10,Electric,Neighborhood Electric Vehicle,1
+Spokane,2023-10,Electric,Off Road Vehicle,6
+Spokane,2023-10,Electric,Passenger Vehicle,357
+Spokane,2023-10,Electric,Truck,5
+Spokane,2023-11,Electric,Commercial,3
+Spokane,2023-11,Electric,Exempt (State/County/Local/Tribal),4
+Spokane,2023-11,Electric,Medium-Speed Electric Truck,2
+Spokane,2023-11,Electric,Medium-Speed Electric Vehicle,1
+Spokane,2023-11,Electric,Neighborhood Electric Truck,1
+Spokane,2023-11,Electric,Off Road Vehicle,6
+Spokane,2023-11,Electric,Passenger Vehicle,260
+Spokane,2023-11,Electric,Truck,8
+Spokane,2023-12,Electric,Commercial,4
+Spokane,2023-12,Electric,Exempt (State/County/Local/Tribal),4
+Spokane,2023-12,Electric,Medium-Speed Electric Truck,1
+Spokane,2023-12,Electric,Motorcycle,1
+Spokane,2023-12,Electric,Neighborhood Electric Vehicle,1
+Spokane,2023-12,Electric,Off Road Vehicle,4
+Spokane,2023-12,Electric,Passenger Vehicle,226
+Spokane,2023-12,Electric,Truck,10
+Spokane,2024-01,Electric,Commercial,5
+Spokane,2024-01,Electric,Exempt (State/County/Local/Tribal),11
+Spokane,2024-01,Electric,Medium-Speed Electric Truck,1
+Spokane,2024-01,Electric,Medium-Speed Electric Vehicle,1
+Spokane,2024-01,Electric,Motorcycle,4
+Spokane,2024-01,Electric,Neighborhood Electric Vehicle,1
+Spokane,2024-01,Electric,Off Road Vehicle,5
+Spokane,2024-01,Electric,Passenger Vehicle,283
+Spokane,2024-01,Electric,Truck,15
+Spokane,2024-02,Electric,All Terrain Vehicle (WATV),1
+Spokane,2024-02,Electric,Commercial,3
+Spokane,2024-02,Electric,Exempt (State/County/Local/Tribal),5
+Spokane,2024-02,Electric,Motorcycle,4
+Spokane,2024-02,Electric,Neighborhood Electric Vehicle,2
+Spokane,2024-02,Electric,Off Road Vehicle,2
+Spokane,2024-02,Electric,Passenger Vehicle,275
+Spokane,2024-02,Electric,Truck,11
+Spokane,2024-03,Electric,Commercial,3
+Spokane,2024-03,Electric,Exempt (State/County/Local/Tribal),1
+Spokane,2024-03,Electric,Medium-Speed Electric Truck,1
+Spokane,2024-03,Electric,Motorcycle,1
+Spokane,2024-03,Electric,Off Road Vehicle,12
+Spokane,2024-03,Electric,Passenger Vehicle,265
+Spokane,2024-03,Electric,Truck,14
+Spokane,2024-04,Electric,All Terrain Vehicle (WATV),1
+Spokane,2024-04,Electric,Commercial,5
+Spokane,2024-04,Electric,Medium-Speed Electric Truck,6
+Spokane,2024-04,Electric,Medium-Speed Electric Vehicle,1
+Spokane,2024-04,Electric,Motorcycle,1
+Spokane,2024-04,Electric,Neighborhood Electric Vehicle,1
+Spokane,2024-04,Electric,Off Road Vehicle,12
+Spokane,2024-04,Electric,Passenger Vehicle,325
+Spokane,2024-04,Electric,Truck,20
+Spokane,2024-05,Electric,Commercial,1
+Spokane,2024-05,Electric,Medium-Speed Electric Truck,3
+Spokane,2024-05,Electric,Motorcycle,4
+Spokane,2024-05,Electric,Neighborhood Electric Truck,1
+Spokane,2024-05,Electric,Neighborhood Electric Vehicle,6
+Spokane,2024-05,Electric,Off Road Vehicle,27
+Spokane,2024-05,Electric,Passenger Vehicle,398
+Spokane,2024-05,Electric,Truck,8
+Spokane,2024-06,Electric,Exempt (State/County/Local/Tribal),1
+Spokane,2024-06,Electric,Medium-Speed Electric Truck,1
+Spokane,2024-06,Electric,Medium-Speed Electric Vehicle,4
+Spokane,2024-06,Electric,Motorcycle,8
+Spokane,2024-06,Electric,Neighborhood Electric Vehicle,3
+Spokane,2024-06,Electric,Off Road Vehicle,7
+Spokane,2024-06,Electric,Passenger Vehicle,313
+Spokane,2024-06,Electric,Truck,13
+Spokane,2024-07,Electric,Commercial,4
+Spokane,2024-07,Electric,Exempt (State/County/Local/Tribal),4
+Spokane,2024-07,Electric,Medium-Speed Electric Truck,2
+Spokane,2024-07,Electric,Medium-Speed Electric Vehicle,1
+Spokane,2024-07,Electric,Motorcycle,2
+Spokane,2024-07,Electric,Neighborhood Electric Vehicle,2
+Spokane,2024-07,Electric,Off Road Vehicle,11
+Spokane,2024-07,Electric,Passenger Vehicle,386
+Spokane,2024-07,Electric,Truck,12
+Spokane,2024-08,Electric,All Terrain Vehicle (WATV),1
+Spokane,2024-08,Electric,Commercial,5
+Spokane,2024-08,Electric,Exempt (State/County/Local/Tribal),4
+Spokane,2024-08,Electric,Medium-Speed Electric Truck,3
+Spokane,2024-08,Electric,Motorcycle,2
+Spokane,2024-08,Electric,Neighborhood Electric Vehicle,3
+Spokane,2024-08,Electric,Off Road Vehicle,17
+Spokane,2024-08,Electric,Passenger Vehicle,436
+Spokane,2024-08,Electric,Truck,27
+Spokane,2024-09,Electric,Commercial,4
+Spokane,2024-09,Electric,Exempt (State/County/Local/Tribal),4
+Spokane,2024-09,Electric,Medium-Speed Electric Truck,4
+Spokane,2024-09,Electric,Medium-Speed Electric Vehicle,2
+Spokane,2024-09,Electric,Motorcycle,3
+Spokane,2024-09,Electric,Neighborhood Electric Vehicle,2
+Spokane,2024-09,Electric,Off Road Vehicle,2
+Spokane,2024-09,Electric,Passenger Vehicle,499
+Spokane,2024-09,Electric,Truck,16
+Spokane,2024-10,Electric,Commercial,5
+Spokane,2024-10,Electric,Exempt (State/County/Local/Tribal),1
+Spokane,2024-10,Electric,Medium-Speed Electric Truck,3
+Spokane,2024-10,Electric,Medium-Speed Electric Vehicle,2
+Spokane,2024-10,Electric,Neighborhood Electric Vehicle,1
+Spokane,2024-10,Electric,Off Road Vehicle,2
+Spokane,2024-10,Electric,Passenger Vehicle,523
+Spokane,2024-10,Electric,Truck,25
+Spokane,2024-11,Electric,Commercial,4
+Spokane,2024-11,Electric,Farm Exempt,1
+Spokane,2024-11,Electric,Medium-Speed Electric Truck,1
+Spokane,2024-11,Electric,Motorcycle,3
+Spokane,2024-11,Electric,Neighborhood Electric Truck,1
+Spokane,2024-11,Electric,Off Road Vehicle,4
+Spokane,2024-11,Electric,Passenger Vehicle,369
+Spokane,2024-11,Electric,Truck,15
+Spokane,2024-12,Electric,Commercial,8
+Spokane,2024-12,Electric,Medium-Speed Electric Truck,3
+Spokane,2024-12,Electric,Medium-Speed Electric Vehicle,2
+Spokane,2024-12,Electric,Motorcycle,2
+Spokane,2024-12,Electric,Neighborhood Electric Vehicle,1
+Spokane,2024-12,Electric,Off Road Vehicle,3
+Spokane,2024-12,Electric,Passenger Vehicle,376
+Spokane,2024-12,Electric,Truck,31
+Spokane,2025-01,Electric,Commercial,7
+Spokane,2025-01,Electric,Medium-Speed Electric Truck,1
+Spokane,2025-01,Electric,Motorcycle,4
+Spokane,2025-01,Electric,Off Road Vehicle,3
+Spokane,2025-01,Electric,Passenger Vehicle,372
+Spokane,2025-01,Electric,Truck,34
+Spokane,2025-02,Electric,Commercial,6
+Spokane,2025-02,Electric,Exempt (State/County/Local/Tribal),1
+Spokane,2025-02,Electric,Medium-Speed Electric Truck,2
+Spokane,2025-02,Electric,Motorcycle,2
+Spokane,2025-02,Electric,Neighborhood Electric Vehicle,1
+Spokane,2025-02,Electric,Off Road Vehicle,1
+Spokane,2025-02,Electric,Passenger Vehicle,301
+Spokane,2025-02,Electric,Truck,12
+Stevens,2023-01,Electric,Passenger Vehicle,7
+Stevens,2023-02,Electric,Passenger Vehicle,5
+Stevens,2023-03,Electric,Medium-Speed Electric Truck,1
+Stevens,2023-03,Electric,Neighborhood Electric Vehicle,1
+Stevens,2023-03,Electric,Passenger Vehicle,8
+Stevens,2023-04,Electric,Motorcycle,1
+Stevens,2023-04,Electric,Passenger Vehicle,19
+Stevens,2023-04,Electric,Truck,1
+Stevens,2023-05,Electric,Commercial,1
+Stevens,2023-05,Electric,Motorcycle,1
+Stevens,2023-05,Electric,Passenger Vehicle,12
+Stevens,2023-06,Electric,Commercial,1
+Stevens,2023-06,Electric,Passenger Vehicle,8
+Stevens,2023-07,Electric,Passenger Vehicle,12
+Stevens,2023-07,Electric,Truck,1
+Stevens,2023-08,Electric,All Terrain Vehicle (WATV),1
+Stevens,2023-08,Electric,Exempt (State/County/Local/Tribal),2
+Stevens,2023-08,Electric,Off Road Vehicle,1
+Stevens,2023-08,Electric,Passenger Vehicle,17
+Stevens,2023-09,Electric,Medium-Speed Electric Truck,1
+Stevens,2023-09,Electric,Neighborhood Electric Vehicle,1
+Stevens,2023-09,Electric,Off Road Vehicle,1
+Stevens,2023-09,Electric,Passenger Vehicle,13
+Stevens,2023-10,Electric,Passenger Vehicle,15
+Stevens,2023-11,Electric,Passenger Vehicle,9
+Stevens,2023-12,Electric,Combination (Non-Farm Use),1
+Stevens,2023-12,Electric,Motorcycle,1
+Stevens,2023-12,Electric,Passenger Vehicle,12
+Stevens,2023-12,Electric,Truck,1
+Stevens,2024-01,Electric,Neighborhood Electric Vehicle,1
+Stevens,2024-01,Electric,Off Road Vehicle,2
+Stevens,2024-01,Electric,Passenger Vehicle,13
+Stevens,2024-02,Electric,Off Road Vehicle,1
+Stevens,2024-02,Electric,Passenger Vehicle,11
+Stevens,2024-03,Electric,Commercial,1
+Stevens,2024-03,Electric,Motorcycle,2
+Stevens,2024-03,Electric,Off Road Vehicle,1
+Stevens,2024-03,Electric,Passenger Vehicle,13
+Stevens,2024-03,Electric,Truck,1
+Stevens,2024-04,Electric,Moped,1
+Stevens,2024-04,Electric,Motorcycle,1
+Stevens,2024-04,Electric,Passenger Vehicle,17
+Stevens,2024-04,Electric,Truck,1
+Stevens,2024-05,Electric,Commercial,1
+Stevens,2024-05,Electric,Passenger Vehicle,11
+Stevens,2024-05,Electric,Truck,1
+Stevens,2024-06,Electric,Motorcycle,1
+Stevens,2024-06,Electric,Passenger Vehicle,16
+Stevens,2024-07,Electric,All Terrain Vehicle (WATV),1
+Stevens,2024-07,Electric,Neighborhood Electric Vehicle,1
+Stevens,2024-07,Electric,Passenger Vehicle,20
+Stevens,2024-08,Electric,Neighborhood Electric Vehicle,1
+Stevens,2024-08,Electric,Passenger Vehicle,17
+Stevens,2024-08,Electric,Truck,1
+Stevens,2024-09,Electric,Passenger Vehicle,17
+Stevens,2024-10,Electric,Medium-Speed Electric Truck,1
+Stevens,2024-10,Electric,Medium-Speed Electric Vehicle,1
+Stevens,2024-10,Electric,Passenger Vehicle,21
+Stevens,2024-10,Electric,Truck,1
+Stevens,2024-11,Electric,Passenger Vehicle,11
+Stevens,2024-11,Electric,Truck,1
+Stevens,2024-12,Electric,Combination (Non-Farm Use),1
+Stevens,2024-12,Electric,Passenger Vehicle,15
+Stevens,2025-01,Electric,Exempt (State/County/Local/Tribal),1
+Stevens,2025-01,Electric,Neighborhood Electric Vehicle,1
+Stevens,2025-01,Electric,Passenger Vehicle,9
+Stevens,2025-01,Electric,Truck,1
+Stevens,2025-02,Electric,Commercial,1
+Stevens,2025-02,Electric,Passenger Vehicle,19
+Stevens,2025-02,Electric,Truck,1
+Thurston,2023-01,Electric,Commercial,1
+Thurston,2023-01,Electric,Exempt (State/County/Local/Tribal),18
+Thurston,2023-01,Electric,Medium-Speed Electric Truck,2
+Thurston,2023-01,Electric,Motorcycle,3
+Thurston,2023-01,Electric,Passenger Vehicle,259
+Thurston,2023-01,Electric,Truck,5
+Thurston,2023-02,Electric,Exempt (State/County/Local/Tribal),12
+Thurston,2023-02,Electric,Medium-Speed Electric Truck,1
+Thurston,2023-02,Electric,Medium-Speed Electric Vehicle,1
+Thurston,2023-02,Electric,Motorcycle,2
+Thurston,2023-02,Electric,Passenger Vehicle,257
+Thurston,2023-02,Electric,Truck,8
+Thurston,2023-03,Electric,Commercial,1
+Thurston,2023-03,Electric,Exempt (State/County/Local/Tribal),28
+Thurston,2023-03,Electric,Moped,1
+Thurston,2023-03,Electric,Motorcycle,3
+Thurston,2023-03,Electric,Passenger Vehicle,307
+Thurston,2023-03,Electric,Truck,3
+Thurston,2023-04,Electric,Exempt (State/County/Local/Tribal),15
+Thurston,2023-04,Electric,Medium-Speed Electric Vehicle,1
+Thurston,2023-04,Electric,Motorcycle,4
+Thurston,2023-04,Electric,Neighborhood Electric Vehicle,1
+Thurston,2023-04,Electric,Passenger Vehicle,269
+Thurston,2023-04,Electric,Truck,6
+Thurston,2023-05,Electric,All Terrain Vehicle (WATV),1
+Thurston,2023-05,Electric,Commercial,2
+Thurston,2023-05,Electric,Exempt (State/County/Local/Tribal),12
+Thurston,2023-05,Electric,Medium-Speed Electric Vehicle,1
+Thurston,2023-05,Electric,Moped,1
+Thurston,2023-05,Electric,Motorcycle,1
+Thurston,2023-05,Electric,Neighborhood Electric Vehicle,1
+Thurston,2023-05,Electric,Off Road Vehicle,1
+Thurston,2023-05,Electric,Passenger Vehicle,326
+Thurston,2023-05,Electric,Truck,1
+Thurston,2023-06,Electric,Commercial,2
+Thurston,2023-06,Electric,Exempt (State/County/Local/Tribal),27
+Thurston,2023-06,Electric,Moped,1
+Thurston,2023-06,Electric,Motorcycle,1
+Thurston,2023-06,Electric,Passenger Vehicle,317
+Thurston,2023-06,Electric,Truck,5
+Thurston,2023-07,Electric,Commercial,11
+Thurston,2023-07,Electric,Exempt (State/County/Local/Tribal),9
+Thurston,2023-07,Electric,Medium-Speed Electric Truck,1
+Thurston,2023-07,Electric,Motorcycle,5
+Thurston,2023-07,Electric,Passenger Vehicle,338
+Thurston,2023-07,Electric,Truck,7
+Thurston,2023-08,Electric,All Terrain Vehicle (WATV),1
+Thurston,2023-08,Electric,Commercial,1
+Thurston,2023-08,Electric,Exempt (State/County/Local/Tribal),89
+Thurston,2023-08,Electric,Moped,1
+Thurston,2023-08,Electric,Motorcycle,4
+Thurston,2023-08,Electric,Neighborhood Electric Vehicle,1
+Thurston,2023-08,Electric,Off Road Vehicle,1
+Thurston,2023-08,Electric,Passenger Vehicle,390
+Thurston,2023-08,Electric,Truck,7
+Thurston,2023-09,Electric,Commercial,1
+Thurston,2023-09,Electric,Exempt (State/County/Local/Tribal),30
+Thurston,2023-09,Electric,Medium-Speed Electric Truck,1
+Thurston,2023-09,Electric,Medium-Speed Electric Vehicle,1
+Thurston,2023-09,Electric,Off Road Vehicle,1
+Thurston,2023-09,Electric,Passenger Vehicle,416
+Thurston,2023-09,Electric,Truck,13
+Thurston,2023-10,Electric,Commercial,3
+Thurston,2023-10,Electric,Exempt (State/County/Local/Tribal),14
+Thurston,2023-10,Electric,Passenger Vehicle,387
+Thurston,2023-10,Electric,Truck,6
+Thurston,2023-11,Electric,Combination (Non-Farm Use),9
+Thurston,2023-11,Electric,Exempt (State/County/Local/Tribal),38
+Thurston,2023-11,Electric,Moped,1
+Thurston,2023-11,Electric,Motorcycle,1
+Thurston,2023-11,Electric,Neighborhood Electric Vehicle,1
+Thurston,2023-11,Electric,Passenger Vehicle,317
+Thurston,2023-11,Electric,Truck,13
+Thurston,2023-12,Electric,Combination (Non-Farm Use),4
+Thurston,2023-12,Electric,Commercial,1
+Thurston,2023-12,Electric,Exempt (State/County/Local/Tribal),25
+Thurston,2023-12,Electric,Medium-Speed Electric Truck,1
+Thurston,2023-12,Electric,Medium-Speed Electric Vehicle,1
+Thurston,2023-12,Electric,Motorcycle,3
+Thurston,2023-12,Electric,Neighborhood Electric Vehicle,1
+Thurston,2023-12,Electric,Passenger Vehicle,335
+Thurston,2023-12,Electric,Truck,15
+Thurston,2024-01,Electric,Commercial,1
+Thurston,2024-01,Electric,Exempt (State/County/Local/Tribal),34
+Thurston,2024-01,Electric,Medium-Speed Electric Vehicle,1
+Thurston,2024-01,Electric,Moped,1
+Thurston,2024-01,Electric,Motorcycle,1
+Thurston,2024-01,Electric,Off Road Vehicle,1
+Thurston,2024-01,Electric,Passenger Vehicle,408
+Thurston,2024-01,Electric,Truck,11
+Thurston,2024-02,Electric,Commercial,4
+Thurston,2024-02,Electric,Exempt (State/County/Local/Tribal),57
+Thurston,2024-02,Electric,Motorcycle,5
+Thurston,2024-02,Electric,Neighborhood Electric Vehicle,1
+Thurston,2024-02,Electric,Passenger Vehicle,377
+Thurston,2024-02,Electric,Truck,17
+Thurston,2024-03,Electric,Commercial,1
+Thurston,2024-03,Electric,Exempt (State/County/Local/Tribal),29
+Thurston,2024-03,Electric,Medium-Speed Electric Truck,1
+Thurston,2024-03,Electric,Motorcycle,2
+Thurston,2024-03,Electric,Neighborhood Electric Vehicle,1
+Thurston,2024-03,Electric,Off Road Vehicle,1
+Thurston,2024-03,Electric,Passenger Vehicle,413
+Thurston,2024-03,Electric,Truck,8
+Thurston,2024-04,Electric,Commercial,2
+Thurston,2024-04,Electric,Exempt (State/County/Local/Tribal),12
+Thurston,2024-04,Electric,Off Road Vehicle,1
+Thurston,2024-04,Electric,Passenger Vehicle,411
+Thurston,2024-04,Electric,Truck,8
+Thurston,2024-05,Electric,Commercial,4
+Thurston,2024-05,Electric,Exempt (State/County/Local/Tribal),8
+Thurston,2024-05,Electric,Medium-Speed Electric Vehicle,2
+Thurston,2024-05,Electric,Moped,1
+Thurston,2024-05,Electric,Motorcycle,1
+Thurston,2024-05,Electric,Neighborhood Electric Vehicle,1
+Thurston,2024-05,Electric,Off Road Vehicle,1
+Thurston,2024-05,Electric,Passenger Vehicle,460
+Thurston,2024-05,Electric,Truck,18
+Thurston,2024-06,Electric,Commercial,4
+Thurston,2024-06,Electric,Exempt (State/County/Local/Tribal),19
+Thurston,2024-06,Electric,Motorcycle,5
+Thurston,2024-06,Electric,Neighborhood Electric Vehicle,1
+Thurston,2024-06,Electric,Off Road Vehicle,1
+Thurston,2024-06,Electric,Passenger Vehicle,431
+Thurston,2024-06,Electric,Truck,16
+Thurston,2024-07,Electric,Commercial,1
+Thurston,2024-07,Electric,Exempt (State/County/Local/Tribal),24
+Thurston,2024-07,Electric,Moped,1
+Thurston,2024-07,Electric,Motorcycle,6
+Thurston,2024-07,Electric,Motorhome,1
+Thurston,2024-07,Electric,Off Road Vehicle,3
+Thurston,2024-07,Electric,Passenger Vehicle,492
+Thurston,2024-07,Electric,Truck,13
+Thurston,2024-08,Electric,Commercial,1
+Thurston,2024-08,Electric,Exempt (State/County/Local/Tribal),24
+Thurston,2024-08,Electric,Motorcycle,1
+Thurston,2024-08,Electric,Neighborhood Electric Vehicle,1
+Thurston,2024-08,Electric,Passenger Vehicle,530
+Thurston,2024-08,Electric,Truck,13
+Thurston,2024-09,Electric,Combination (Non-Farm Use),9
+Thurston,2024-09,Electric,Commercial,15
+Thurston,2024-09,Electric,Exempt (State/County/Local/Tribal),27
+Thurston,2024-09,Electric,Medium-Speed Electric Vehicle,1
+Thurston,2024-09,Electric,Motorcycle,3
+Thurston,2024-09,Electric,Off Road Vehicle,1
+Thurston,2024-09,Electric,Passenger Vehicle,566
+Thurston,2024-09,Electric,Truck,24
+Thurston,2024-10,Electric,Commercial,3
+Thurston,2024-10,Electric,Exempt (State/County/Local/Tribal),20
+Thurston,2024-10,Electric,Medium-Speed Electric Truck,1
+Thurston,2024-10,Electric,Medium-Speed Electric Vehicle,1
+Thurston,2024-10,Electric,Moped,1
+Thurston,2024-10,Electric,Motorcycle,1
+Thurston,2024-10,Electric,Passenger Vehicle,520
+Thurston,2024-10,Electric,Truck,21
+Thurston,2024-11,Electric,Commercial,1
+Thurston,2024-11,Electric,Exempt (State/County/Local/Tribal),42
+Thurston,2024-11,Electric,Farm Exempt,2
+Thurston,2024-11,Electric,Motorcycle,3
+Thurston,2024-11,Electric,Neighborhood Electric Vehicle,2
+Thurston,2024-11,Electric,Off Road Vehicle,1
+Thurston,2024-11,Electric,Passenger Vehicle,382
+Thurston,2024-11,Electric,Truck,18
+Thurston,2024-12,Electric,Commercial,2
+Thurston,2024-12,Electric,Exempt (State/County/Local/Tribal),13
+Thurston,2024-12,Electric,Farm Exempt,1
+Thurston,2024-12,Electric,Motorcycle,2
+Thurston,2024-12,Electric,Passenger Vehicle,511
+Thurston,2024-12,Electric,Truck,35
+Thurston,2025-01,Electric,Combination (Non-Farm Use),4
+Thurston,2025-01,Electric,Commercial,1
+Thurston,2025-01,Electric,Exempt (State/County/Local/Tribal),14
+Thurston,2025-01,Electric,Medium-Speed Electric Truck,1
+Thurston,2025-01,Electric,Medium-Speed Electric Vehicle,1
+Thurston,2025-01,Electric,Off Road Vehicle,1
+Thurston,2025-01,Electric,Passenger Vehicle,490
+Thurston,2025-01,Electric,Truck,32
+Thurston,2025-02,Electric,Exempt (State/County/Local/Tribal),1
+Thurston,2025-02,Electric,Farm Exempt,3
+Thurston,2025-02,Electric,Medium-Speed Electric Truck,3
+Thurston,2025-02,Electric,Passenger Vehicle,421
+Thurston,2025-02,Electric,Truck,17
+Wahkiakum,2023-01,Electric,Passenger Vehicle,4
+Wahkiakum,2023-02,Electric,Passenger Vehicle,3
+Wahkiakum,2023-03,Electric,Passenger Vehicle,2
+Wahkiakum,2023-03,Electric,Truck,1
+Wahkiakum,2023-04,Electric,Passenger Vehicle,3
+Wahkiakum,2023-05,Electric,Passenger Vehicle,3
+Wahkiakum,2023-06,Electric,Passenger Vehicle,3
+Wahkiakum,2023-07,Electric,Passenger Vehicle,3
+Wahkiakum,2023-07,Electric,Truck,1
+Wahkiakum,2023-08,Electric,Passenger Vehicle,1
+Wahkiakum,2023-08,Electric,Truck,1
+Wahkiakum,2023-09,Electric,Passenger Vehicle,2
+Wahkiakum,2023-10,Electric,Passenger Vehicle,2
+Wahkiakum,2023-11,Electric,Passenger Vehicle,4
+Wahkiakum,2023-12,Electric,Passenger Vehicle,2
+Wahkiakum,2024-01,Electric,Passenger Vehicle,3
+Wahkiakum,2024-02,Electric,Passenger Vehicle,5
+Wahkiakum,2024-02,Electric,Truck,1
+Wahkiakum,2024-03,Electric,Passenger Vehicle,5
+Wahkiakum,2024-04,Electric,Passenger Vehicle,1
+Wahkiakum,2024-04,Electric,Truck,1
+Wahkiakum,2024-05,Electric,Passenger Vehicle,4
+Wahkiakum,2024-06,Electric,Passenger Vehicle,1
+Wahkiakum,2024-07,Electric,Moped,1
+Wahkiakum,2024-07,Electric,Passenger Vehicle,1
+Wahkiakum,2024-07,Electric,Truck,3
+Wahkiakum,2024-08,Electric,Passenger Vehicle,3
+Wahkiakum,2024-09,Electric,Passenger Vehicle,4
+Wahkiakum,2024-10,Electric,Passenger Vehicle,3
+Wahkiakum,2024-10,Electric,Truck,1
+Wahkiakum,2024-11,Electric,Passenger Vehicle,4
+Wahkiakum,2024-11,Electric,Truck,1
+Wahkiakum,2024-12,Electric,Passenger Vehicle,3
+Wahkiakum,2025-01,Electric,Passenger Vehicle,1
+Wahkiakum,2025-01,Electric,Truck,1
+Wahkiakum,2025-02,Electric,Passenger Vehicle,5
+Walla Walla,2023-01,Electric,Commercial,1
+Walla Walla,2023-01,Electric,Neighborhood Electric Vehicle,1
+Walla Walla,2023-01,Electric,Passenger Vehicle,15
+Walla Walla,2023-02,Electric,Medium-Speed Electric Truck,1
+Walla Walla,2023-02,Electric,Passenger Vehicle,12
+Walla Walla,2023-03,Electric,Moped,1
+Walla Walla,2023-03,Electric,Off Road Vehicle,1
+Walla Walla,2023-03,Electric,Passenger Vehicle,22
+Walla Walla,2023-03,Electric,Truck,1
+Walla Walla,2023-04,Electric,Off Road Vehicle,1
+Walla Walla,2023-04,Electric,Passenger Vehicle,14
+Walla Walla,2023-05,Electric,Exempt (State/County/Local/Tribal),1
+Walla Walla,2023-05,Electric,Medium-Speed Electric Vehicle,1
+Walla Walla,2023-05,Electric,Moped,1
+Walla Walla,2023-05,Electric,Motorcycle,1
+Walla Walla,2023-05,Electric,Passenger Vehicle,19
+Walla Walla,2023-06,Electric,Commercial,1
+Walla Walla,2023-06,Electric,Exempt (State/County/Local/Tribal),1
+Walla Walla,2023-06,Electric,Off Road Vehicle,1
+Walla Walla,2023-06,Electric,Passenger Vehicle,24
+Walla Walla,2023-07,Electric,For Hire,1
+Walla Walla,2023-07,Electric,Medium-Speed Electric Truck,1
+Walla Walla,2023-07,Electric,Passenger Vehicle,22
+Walla Walla,2023-07,Electric,Truck,1
+Walla Walla,2023-08,Electric,Exempt (State/County/Local/Tribal),1
+Walla Walla,2023-08,Electric,Medium-Speed Electric Vehicle,1
+Walla Walla,2023-08,Electric,Motorcycle,1
+Walla Walla,2023-08,Electric,Neighborhood Electric Vehicle,1
+Walla Walla,2023-08,Electric,Passenger Vehicle,31
+Walla Walla,2023-08,Electric,Truck,1
+Walla Walla,2023-09,Electric,For Hire,1
+Walla Walla,2023-09,Electric,Passenger Vehicle,35
+Walla Walla,2023-09,Electric,Truck,1
+Walla Walla,2023-10,Electric,Medium-Speed Electric Vehicle,1
+Walla Walla,2023-10,Electric,Motorcycle,1
+Walla Walla,2023-10,Electric,Passenger Vehicle,28
+Walla Walla,2023-10,Electric,Truck,1
+Walla Walla,2023-11,Electric,Exempt (State/County/Local/Tribal),1
+Walla Walla,2023-11,Electric,Medium-Speed Electric Truck,1
+Walla Walla,2023-11,Electric,Passenger Vehicle,22
+Walla Walla,2023-11,Electric,Truck,1
+Walla Walla,2023-12,Electric,Commercial,1
+Walla Walla,2023-12,Electric,Exempt (State/County/Local/Tribal),2
+Walla Walla,2023-12,Electric,Motorcycle,1
+Walla Walla,2023-12,Electric,Passenger Vehicle,25
+Walla Walla,2023-12,Electric,Truck,1
+Walla Walla,2024-01,Electric,Exempt (State/County/Local/Tribal),1
+Walla Walla,2024-01,Electric,Passenger Vehicle,23
+Walla Walla,2024-01,Electric,Truck,1
+Walla Walla,2024-02,Electric,Exempt (State/County/Local/Tribal),1
+Walla Walla,2024-02,Electric,Medium-Speed Electric Truck,1
+Walla Walla,2024-02,Electric,Passenger Vehicle,19
+Walla Walla,2024-03,Electric,Medium-Speed Electric Vehicle,1
+Walla Walla,2024-03,Electric,Moped,1
+Walla Walla,2024-03,Electric,Off Road Vehicle,1
+Walla Walla,2024-03,Electric,Passenger Vehicle,17
+Walla Walla,2024-03,Electric,Truck,1
+Walla Walla,2024-04,Electric,Medium-Speed Electric Truck,1
+Walla Walla,2024-04,Electric,Passenger Vehicle,26
+Walla Walla,2024-04,Electric,Truck,1
+Walla Walla,2024-05,Electric,For Hire,1
+Walla Walla,2024-05,Electric,Medium-Speed Electric Truck,1
+Walla Walla,2024-05,Electric,Motorcycle,1
+Walla Walla,2024-05,Electric,Off Road Vehicle,1
+Walla Walla,2024-05,Electric,Passenger Vehicle,30
+Walla Walla,2024-06,Electric,Commercial,1
+Walla Walla,2024-06,Electric,Exempt (State/County/Local/Tribal),1
+Walla Walla,2024-06,Electric,Passenger Vehicle,29
+Walla Walla,2024-06,Electric,Truck,1
+Walla Walla,2024-07,Electric,All Terrain Vehicle (WATV),1
+Walla Walla,2024-07,Electric,Commercial,1
+Walla Walla,2024-07,Electric,Exempt (State/County/Local/Tribal),1
+Walla Walla,2024-07,Electric,Motorcycle,1
+Walla Walla,2024-07,Electric,Neighborhood Electric Vehicle,1
+Walla Walla,2024-07,Electric,Passenger Vehicle,35
+Walla Walla,2024-07,Electric,Truck,3
+Walla Walla,2024-08,Electric,For Hire,1
+Walla Walla,2024-08,Electric,Medium-Speed Electric Vehicle,1
+Walla Walla,2024-08,Electric,Passenger Vehicle,50
+Walla Walla,2024-08,Electric,Truck,3
+Walla Walla,2024-09,Electric,Motorcycle,1
+Walla Walla,2024-09,Electric,Passenger Vehicle,37
+Walla Walla,2024-09,Electric,Truck,2
+Walla Walla,2024-10,Electric,All Terrain Vehicle (WATV),1
+Walla Walla,2024-10,Electric,Medium-Speed Electric Truck,1
+Walla Walla,2024-10,Electric,Medium-Speed Electric Vehicle,1
+Walla Walla,2024-10,Electric,Passenger Vehicle,43
+Walla Walla,2024-10,Electric,Truck,3
+Walla Walla,2024-11,Electric,Commercial,1
+Walla Walla,2024-11,Electric,Passenger Vehicle,34
+Walla Walla,2024-11,Electric,Truck,1
+Walla Walla,2024-12,Electric,Commercial,3
+Walla Walla,2024-12,Electric,Exempt (State/County/Local/Tribal),3
+Walla Walla,2024-12,Electric,Motorcycle,1
+Walla Walla,2024-12,Electric,Passenger Vehicle,41
+Walla Walla,2024-12,Electric,Truck,1
+Walla Walla,2025-01,Electric,All Terrain Vehicle (WATV),1
+Walla Walla,2025-01,Electric,Commercial,1
+Walla Walla,2025-01,Electric,Motorcycle,1
+Walla Walla,2025-01,Electric,Neighborhood Electric Truck,2
+Walla Walla,2025-01,Electric,Passenger Vehicle,34
+Walla Walla,2025-01,Electric,Truck,3
+Walla Walla,2025-02,Electric,Exempt (State/County/Local/Tribal),3
+Walla Walla,2025-02,Electric,Medium-Speed Electric Vehicle,1
+Walla Walla,2025-02,Electric,Motorcycle,1
+Walla Walla,2025-02,Electric,Passenger Vehicle,24
+Walla Walla,2025-02,Electric,Truck,1
+Whatcom,2023-01,Electric,Exempt (State/County/Local/Tribal),1
+Whatcom,2023-01,Electric,Medium-Speed Electric Truck,1
+Whatcom,2023-01,Electric,Motorcycle,4
+Whatcom,2023-01,Electric,Passenger Vehicle,210
+Whatcom,2023-01,Electric,Truck,7
+Whatcom,2023-02,Electric,Moped,1
+Whatcom,2023-02,Electric,Motorcycle,2
+Whatcom,2023-02,Electric,Neighborhood Electric Vehicle,2
+Whatcom,2023-02,Electric,Passenger Vehicle,204
+Whatcom,2023-02,Electric,Truck,8
+Whatcom,2023-03,Electric,Commercial,1
+Whatcom,2023-03,Electric,Exempt (State/County/Local/Tribal),3
+Whatcom,2023-03,Electric,Medium-Speed Electric Truck,1
+Whatcom,2023-03,Electric,Moped,1
+Whatcom,2023-03,Electric,Motorcycle,3
+Whatcom,2023-03,Electric,Neighborhood Electric Vehicle,1
+Whatcom,2023-03,Electric,Passenger Vehicle,253
+Whatcom,2023-03,Electric,Truck,4
+Whatcom,2023-04,Electric,Exempt (State/County/Local/Tribal),2
+Whatcom,2023-04,Electric,Moped,3
+Whatcom,2023-04,Electric,Motorcycle,4
+Whatcom,2023-04,Electric,Off Road Vehicle,2
+Whatcom,2023-04,Electric,Passenger Vehicle,211
+Whatcom,2023-04,Electric,Truck,6
+Whatcom,2023-05,Electric,Commercial,2
+Whatcom,2023-05,Electric,Exempt (State/County/Local/Tribal),5
+Whatcom,2023-05,Electric,Moped,2
+Whatcom,2023-05,Electric,Motorcycle,7
+Whatcom,2023-05,Electric,Motorhome,1
+Whatcom,2023-05,Electric,Passenger Vehicle,240
+Whatcom,2023-05,Electric,Truck,6
+Whatcom,2023-06,Electric,Commercial,1
+Whatcom,2023-06,Electric,Exempt (State/County/Local/Tribal),2
+Whatcom,2023-06,Electric,Medium-Speed Electric Truck,1
+Whatcom,2023-06,Electric,Motorcycle,1
+Whatcom,2023-06,Electric,Neighborhood Electric Vehicle,1
+Whatcom,2023-06,Electric,Passenger Vehicle,286
+Whatcom,2023-06,Electric,Truck,5
+Whatcom,2023-07,Electric,Commercial,2
+Whatcom,2023-07,Electric,Exempt (State/County/Local/Tribal),1
+Whatcom,2023-07,Electric,Medium-Speed Electric Truck,1
+Whatcom,2023-07,Electric,Moped,1
+Whatcom,2023-07,Electric,Motorcycle,5
+Whatcom,2023-07,Electric,Neighborhood Electric Vehicle,1
+Whatcom,2023-07,Electric,Passenger Vehicle,292
+Whatcom,2023-07,Electric,Truck,10
+Whatcom,2023-08,Electric,Exempt (State/County/Local/Tribal),1
+Whatcom,2023-08,Electric,Medium-Speed Electric Vehicle,1
+Whatcom,2023-08,Electric,Motorcycle,3
+Whatcom,2023-08,Electric,Off Road Vehicle,1
+Whatcom,2023-08,Electric,Passenger Vehicle,313
+Whatcom,2023-08,Electric,Truck,5
+Whatcom,2023-09,Electric,Commercial,1
+Whatcom,2023-09,Electric,Moped,2
+Whatcom,2023-09,Electric,Motorcycle,4
+Whatcom,2023-09,Electric,Neighborhood Electric Vehicle,1
+Whatcom,2023-09,Electric,Off Road Vehicle,1
+Whatcom,2023-09,Electric,Passenger Vehicle,320
+Whatcom,2023-09,Electric,Truck,4
+Whatcom,2023-10,Electric,Commercial,2
+Whatcom,2023-10,Electric,Exempt (State/County/Local/Tribal),1
+Whatcom,2023-10,Electric,Medium-Speed Electric Truck,2
+Whatcom,2023-10,Electric,Moped,4
+Whatcom,2023-10,Electric,Motorcycle,1
+Whatcom,2023-10,Electric,Off Road Vehicle,1
+Whatcom,2023-10,Electric,Passenger Vehicle,280
+Whatcom,2023-10,Electric,Truck,13
+Whatcom,2023-11,Electric,Commercial,2
+Whatcom,2023-11,Electric,Exempt (State/County/Local/Tribal),4
+Whatcom,2023-11,Electric,For Hire,1
+Whatcom,2023-11,Electric,Motorcycle,2
+Whatcom,2023-11,Electric,Passenger Vehicle,277
+Whatcom,2023-11,Electric,Truck,10
+Whatcom,2023-12,Electric,Exempt (State/County/Local/Tribal),2
+Whatcom,2023-12,Electric,Moped,1
+Whatcom,2023-12,Electric,Motorcycle,1
+Whatcom,2023-12,Electric,Off Road Vehicle,1
+Whatcom,2023-12,Electric,Passenger Vehicle,248
+Whatcom,2023-12,Electric,Truck,8
+Whatcom,2024-01,Electric,Commercial,1
+Whatcom,2024-01,Electric,Exempt (State/County/Local/Tribal),2
+Whatcom,2024-01,Electric,Medium-Speed Electric Truck,1
+Whatcom,2024-01,Electric,Motorcycle,2
+Whatcom,2024-01,Electric,Neighborhood Electric Vehicle,1
+Whatcom,2024-01,Electric,Off Road Vehicle,1
+Whatcom,2024-01,Electric,Passenger Vehicle,271
+Whatcom,2024-01,Electric,Truck,14
+Whatcom,2024-02,Electric,Commercial,1
+Whatcom,2024-02,Electric,Exempt (State/County/Local/Tribal),4
+Whatcom,2024-02,Electric,Moped,2
+Whatcom,2024-02,Electric,Motorcycle,5
+Whatcom,2024-02,Electric,Neighborhood Electric Truck,1
+Whatcom,2024-02,Electric,Neighborhood Electric Vehicle,2
+Whatcom,2024-02,Electric,Off Road Vehicle,1
+Whatcom,2024-02,Electric,Passenger Vehicle,294
+Whatcom,2024-02,Electric,Snowmobile,1
+Whatcom,2024-02,Electric,Truck,18
+Whatcom,2024-03,Electric,Exempt (State/County/Local/Tribal),2
+Whatcom,2024-03,Electric,Moped,1
+Whatcom,2024-03,Electric,Motorcycle,2
+Whatcom,2024-03,Electric,Neighborhood Electric Vehicle,3
+Whatcom,2024-03,Electric,Off Road Vehicle,2
+Whatcom,2024-03,Electric,Passenger Vehicle,328
+Whatcom,2024-03,Electric,Truck,6
+Whatcom,2024-04,Electric,Commercial,1
+Whatcom,2024-04,Electric,Exempt (State/County/Local/Tribal),3
+Whatcom,2024-04,Electric,Moped,3
+Whatcom,2024-04,Electric,Motorcycle,5
+Whatcom,2024-04,Electric,Motorhome,1
+Whatcom,2024-04,Electric,Neighborhood Electric Vehicle,1
+Whatcom,2024-04,Electric,Off Road Vehicle,1
+Whatcom,2024-04,Electric,Passenger Vehicle,295
+Whatcom,2024-04,Electric,Truck,5
+Whatcom,2024-05,Electric,Commercial,2
+Whatcom,2024-05,Electric,Exempt (State/County/Local/Tribal),1
+Whatcom,2024-05,Electric,Motorcycle,7
+Whatcom,2024-05,Electric,Neighborhood Electric Truck,1
+Whatcom,2024-05,Electric,Neighborhood Electric Vehicle,2
+Whatcom,2024-05,Electric,Off Road Vehicle,1
+Whatcom,2024-05,Electric,Passenger Vehicle,377
+Whatcom,2024-05,Electric,Truck,14
+Whatcom,2024-06,Electric,Commercial,3
+Whatcom,2024-06,Electric,Exempt (State/County/Local/Tribal),1
+Whatcom,2024-06,Electric,Medium-Speed Electric Truck,1
+Whatcom,2024-06,Electric,Moped,2
+Whatcom,2024-06,Electric,Motorcycle,3
+Whatcom,2024-06,Electric,Neighborhood Electric Vehicle,3
+Whatcom,2024-06,Electric,Off Road Vehicle,1
+Whatcom,2024-06,Electric,Passenger Vehicle,329
+Whatcom,2024-06,Electric,Truck,8
+Whatcom,2024-07,Electric,Commercial,1
+Whatcom,2024-07,Electric,Medium-Speed Electric Truck,1
+Whatcom,2024-07,Electric,Medium-Speed Electric Vehicle,1
+Whatcom,2024-07,Electric,Moped,1
+Whatcom,2024-07,Electric,Motorcycle,4
+Whatcom,2024-07,Electric,Neighborhood Electric Vehicle,6
+Whatcom,2024-07,Electric,Off Road Vehicle,1
+Whatcom,2024-07,Electric,Passenger Vehicle,364
+Whatcom,2024-07,Electric,Truck,11
+Whatcom,2024-08,Electric,Commercial,1
+Whatcom,2024-08,Electric,Medium-Speed Electric Vehicle,2
+Whatcom,2024-08,Electric,Motorcycle,4
+Whatcom,2024-08,Electric,Neighborhood Electric Vehicle,3
+Whatcom,2024-08,Electric,Off Road Vehicle,2
+Whatcom,2024-08,Electric,Passenger Vehicle,418
+Whatcom,2024-08,Electric,Truck,21
+Whatcom,2024-09,Electric,Commercial,2
+Whatcom,2024-09,Electric,Medium-Speed Electric Vehicle,1
+Whatcom,2024-09,Electric,Moped,3
+Whatcom,2024-09,Electric,Motorcycle,3
+Whatcom,2024-09,Electric,Neighborhood Electric Vehicle,2
+Whatcom,2024-09,Electric,Passenger Vehicle,418
+Whatcom,2024-09,Electric,Truck,18
+Whatcom,2024-10,Electric,Commercial,1
+Whatcom,2024-10,Electric,Medium-Speed Electric Truck,1
+Whatcom,2024-10,Electric,Medium-Speed Electric Vehicle,1
+Whatcom,2024-10,Electric,Moped,2
+Whatcom,2024-10,Electric,Motorcycle,1
+Whatcom,2024-10,Electric,Passenger Vehicle,395
+Whatcom,2024-10,Electric,Snowmobile,1
+Whatcom,2024-10,Electric,Truck,23
+Whatcom,2024-11,Electric,Commercial,2
+Whatcom,2024-11,Electric,Exempt (State/County/Local/Tribal),1
+Whatcom,2024-11,Electric,Medium-Speed Electric Truck,1
+Whatcom,2024-11,Electric,Motorcycle,1
+Whatcom,2024-11,Electric,Passenger Vehicle,340
+Whatcom,2024-11,Electric,Truck,16
+Whatcom,2024-12,Electric,Commercial,3
+Whatcom,2024-12,Electric,Exempt (State/County/Local/Tribal),1
+Whatcom,2024-12,Electric,Medium-Speed Electric Vehicle,1
+Whatcom,2024-12,Electric,Moped,1
+Whatcom,2024-12,Electric,Motorcycle,2
+Whatcom,2024-12,Electric,Neighborhood Electric Vehicle,1
+Whatcom,2024-12,Electric,Passenger Vehicle,381
+Whatcom,2024-12,Electric,Truck,12
+Whatcom,2025-01,Electric,Commercial,3
+Whatcom,2025-01,Electric,Exempt (State/County/Local/Tribal),1
+Whatcom,2025-01,Electric,Moped,1
+Whatcom,2025-01,Electric,Motorcycle,2
+Whatcom,2025-01,Electric,Neighborhood Electric Vehicle,2
+Whatcom,2025-01,Electric,Passenger Vehicle,375
+Whatcom,2025-01,Electric,Truck,21
+Whatcom,2025-02,Electric,Exempt (State/County/Local/Tribal),3
+Whatcom,2025-02,Electric,Medium-Speed Electric Truck,1
+Whatcom,2025-02,Electric,Moped,1
+Whatcom,2025-02,Electric,Motorcycle,3
+Whatcom,2025-02,Electric,Neighborhood Electric Truck,1
+Whatcom,2025-02,Electric,Neighborhood Electric Vehicle,1
+Whatcom,2025-02,Electric,Passenger Vehicle,330
+Whatcom,2025-02,Electric,Truck,13
+Whitman,2023-01,Electric,Passenger Vehicle,11
+Whitman,2023-02,Electric,Motorcycle,1
+Whitman,2023-02,Electric,Passenger Vehicle,18
+Whitman,2023-02,Electric,Truck,1
+Whitman,2023-03,Electric,Motorcycle,1
+Whitman,2023-03,Electric,Passenger Vehicle,15
+Whitman,2023-04,Electric,Passenger Vehicle,14
+Whitman,2023-05,Electric,Passenger Vehicle,11
+Whitman,2023-05,Electric,Truck,1
+Whitman,2023-06,Electric,Off Road Vehicle,1
+Whitman,2023-06,Electric,Passenger Vehicle,14
+Whitman,2023-06,Electric,Truck,1
+Whitman,2023-07,Electric,Motorcycle,1
+Whitman,2023-07,Electric,Neighborhood Electric Vehicle,2
+Whitman,2023-07,Electric,Passenger Vehicle,15
+Whitman,2023-07,Electric,Truck,1
+Whitman,2023-08,Electric,Neighborhood Electric Vehicle,1
+Whitman,2023-08,Electric,Passenger Vehicle,23
+Whitman,2023-09,Electric,Off Road Vehicle,1
+Whitman,2023-09,Electric,Passenger Vehicle,21
+Whitman,2023-10,Electric,Commercial,1
+Whitman,2023-10,Electric,Exempt (State/County/Local/Tribal),1
+Whitman,2023-10,Electric,Passenger Vehicle,19
+Whitman,2023-10,Electric,Truck,1
+Whitman,2023-11,Electric,Passenger Vehicle,17
+Whitman,2023-11,Electric,Truck,1
+Whitman,2023-12,Electric,Commercial,1
+Whitman,2023-12,Electric,Passenger Vehicle,20
+Whitman,2023-12,Electric,Truck,1
+Whitman,2024-01,Electric,Exempt (State/County/Local/Tribal),1
+Whitman,2024-01,Electric,Off Road Vehicle,2
+Whitman,2024-01,Electric,Passenger Vehicle,11
+Whitman,2024-01,Electric,Truck,3
+Whitman,2024-02,Electric,Passenger Vehicle,22
+Whitman,2024-02,Electric,Truck,1
+Whitman,2024-03,Electric,Motorcycle,1
+Whitman,2024-03,Electric,Passenger Vehicle,17
+Whitman,2024-04,Electric,Neighborhood Electric Vehicle,1
+Whitman,2024-04,Electric,Passenger Vehicle,25
+Whitman,2024-04,Electric,Truck,1
+Whitman,2024-05,Electric,Motorcycle,1
+Whitman,2024-05,Electric,Off Road Vehicle,1
+Whitman,2024-05,Electric,Passenger Vehicle,17
+Whitman,2024-05,Electric,Truck,2
+Whitman,2024-06,Electric,Commercial,1
+Whitman,2024-06,Electric,Off Road Vehicle,1
+Whitman,2024-06,Electric,Passenger Vehicle,19
+Whitman,2024-07,Electric,Exempt (State/County/Local/Tribal),1
+Whitman,2024-07,Electric,Passenger Vehicle,29
+Whitman,2024-08,Electric,Neighborhood Electric Vehicle,2
+Whitman,2024-08,Electric,Passenger Vehicle,25
+Whitman,2024-08,Electric,Truck,2
+Whitman,2024-09,Electric,Passenger Vehicle,32
+Whitman,2024-10,Electric,Commercial,2
+Whitman,2024-10,Electric,Passenger Vehicle,32
+Whitman,2024-10,Electric,Truck,1
+Whitman,2024-11,Electric,Passenger Vehicle,29
+Whitman,2024-11,Electric,Truck,1
+Whitman,2024-12,Electric,Exempt (State/County/Local/Tribal),1
+Whitman,2024-12,Electric,Passenger Vehicle,19
+Whitman,2024-12,Electric,Truck,7
+Whitman,2025-01,Electric,Motorcycle,1
+Whitman,2025-01,Electric,Passenger Vehicle,25
+Whitman,2025-01,Electric,Truck,1
+Whitman,2025-02,Electric,Passenger Vehicle,21
+Whitman,2025-02,Electric,Truck,1
+Yakima,2023-01,Electric,Passenger Vehicle,30
+Yakima,2023-01,Electric,Truck,2
+Yakima,2023-02,Electric,Moped,1
+Yakima,2023-02,Electric,Motorcycle,1
+Yakima,2023-02,Electric,Passenger Vehicle,47
+Yakima,2023-02,Electric,Truck,3
+Yakima,2023-03,Electric,Passenger Vehicle,49
+Yakima,2023-04,Electric,Passenger Vehicle,38
+Yakima,2023-04,Electric,Truck,1
+Yakima,2023-05,Electric,Medium-Speed Electric Vehicle,1
+Yakima,2023-05,Electric,Neighborhood Electric Vehicle,1
+Yakima,2023-05,Electric,Passenger Vehicle,52
+Yakima,2023-05,Electric,Truck,1
+Yakima,2023-06,Electric,Off Road Vehicle,1
+Yakima,2023-06,Electric,Passenger Vehicle,54
+Yakima,2023-06,Electric,Truck,1
+Yakima,2023-07,Electric,Commercial,1
+Yakima,2023-07,Electric,Exempt (State/County/Local/Tribal),1
+Yakima,2023-07,Electric,Medium-Speed Electric Truck,1
+Yakima,2023-07,Electric,Medium-Speed Electric Vehicle,2
+Yakima,2023-07,Electric,Moped,1
+Yakima,2023-07,Electric,Passenger Vehicle,56
+Yakima,2023-07,Electric,Truck,2
+Yakima,2023-08,Electric,All Terrain Vehicle (WATV),1
+Yakima,2023-08,Electric,Exempt (State/County/Local/Tribal),4
+Yakima,2023-08,Electric,Passenger Vehicle,83
+Yakima,2023-08,Electric,Truck,2
+Yakima,2023-09,Electric,Passenger Vehicle,74
+Yakima,2023-10,Electric,Exempt (State/County/Local/Tribal),1
+Yakima,2023-10,Electric,Passenger Vehicle,62
+Yakima,2023-10,Electric,Truck,3
+Yakima,2023-11,Electric,Moped,1
+Yakima,2023-11,Electric,Motorcycle,1
+Yakima,2023-11,Electric,Passenger Vehicle,61
+Yakima,2023-11,Electric,Truck,1
+Yakima,2023-12,Electric,Antique Vehicle,1
+Yakima,2023-12,Electric,Cab,2
+Yakima,2023-12,Electric,Commercial,1
+Yakima,2023-12,Electric,Medium-Speed Electric Vehicle,1
+Yakima,2023-12,Electric,Passenger Vehicle,57
+Yakima,2023-12,Electric,Truck,2
+Yakima,2024-01,Electric,Exempt (State/County/Local/Tribal),2
+Yakima,2024-01,Electric,Moped,1
+Yakima,2024-01,Electric,Motorcycle,2
+Yakima,2024-01,Electric,Passenger Vehicle,52
+Yakima,2024-01,Electric,Truck,1
+Yakima,2024-02,Electric,Exempt (State/County/Local/Tribal),3
+Yakima,2024-02,Electric,Motorcycle,1
+Yakima,2024-02,Electric,Neighborhood Electric Vehicle,1
+Yakima,2024-02,Electric,Passenger Vehicle,54
+Yakima,2024-02,Electric,Truck,3
+Yakima,2024-03,Electric,Commercial,1
+Yakima,2024-03,Electric,Moped,1
+Yakima,2024-03,Electric,Off Road Vehicle,2
+Yakima,2024-03,Electric,Passenger Vehicle,65
+Yakima,2024-04,Electric,Passenger Vehicle,83
+Yakima,2024-04,Electric,Truck,3
+Yakima,2024-05,Electric,Passenger Vehicle,83
+Yakima,2024-05,Electric,Truck,1
+Yakima,2024-06,Electric,Medium-Speed Electric Truck,1
+Yakima,2024-06,Electric,Passenger Vehicle,81
+Yakima,2024-06,Electric,Truck,1
+Yakima,2024-07,Electric,Commercial,1
+Yakima,2024-07,Electric,Medium-Speed Electric Truck,1
+Yakima,2024-07,Electric,Medium-Speed Electric Vehicle,1
+Yakima,2024-07,Electric,Moped,1
+Yakima,2024-07,Electric,Motorcycle,2
+Yakima,2024-07,Electric,Passenger Vehicle,100
+Yakima,2024-07,Electric,Truck,3
+Yakima,2024-08,Electric,All Terrain Vehicle (WATV),1
+Yakima,2024-08,Electric,Medium-Speed Electric Vehicle,1
+Yakima,2024-08,Electric,Passenger Vehicle,111
+Yakima,2024-08,Electric,Truck,4
+Yakima,2024-09,Electric,Medium-Speed Electric Truck,1
+Yakima,2024-09,Electric,Off Road Vehicle,1
+Yakima,2024-09,Electric,Passenger Vehicle,120
+Yakima,2024-09,Electric,Truck,5
+Yakima,2024-10,Electric,Commercial,1
+Yakima,2024-10,Electric,Off Road Vehicle,3
+Yakima,2024-10,Electric,Passenger Vehicle,107
+Yakima,2024-10,Electric,Truck,4
+Yakima,2024-11,Electric,Exempt (State/County/Local/Tribal),1
+Yakima,2024-11,Electric,Medium-Speed Electric Vehicle,1
+Yakima,2024-11,Electric,Motorcycle,1
+Yakima,2024-11,Electric,Passenger Vehicle,103
+Yakima,2024-11,Electric,Truck,2
+Yakima,2024-12,Electric,Cab,2
+Yakima,2024-12,Electric,Commercial,1
+Yakima,2024-12,Electric,Neighborhood Electric Vehicle,1
+Yakima,2024-12,Electric,Passenger Vehicle,89
+Yakima,2024-12,Electric,Truck,3
+Yakima,2025-01,Electric,Commercial,1
+Yakima,2025-01,Electric,Moped,1
+Yakima,2025-01,Electric,Motorcycle,2
+Yakima,2025-01,Electric,Passenger Vehicle,88
+Yakima,2025-01,Electric,Truck,5
+Yakima,2025-02,Electric,Exempt (State/County/Local/Tribal),1
+Yakima,2025-02,Electric,Passenger Vehicle,71
+Yakima,2025-02,Electric,Truck,9
